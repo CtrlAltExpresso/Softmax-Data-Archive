@@ -40,9 +40,7 @@ softmax_dbg/
 │       └── all_probidhan.json         # 3 probidhan (2010, 2016, 2022)
 │
 ├── downloads/                         # All downloaded content
-│   ├── question_bank_pdfs/            # 433 PDFs, 59MB ✅ COMPLETE (6 server-missing: NoSuchKey)
-│   │                                   #   names: qb_<id>_<year>_<institute>_<subject>.pdf (readable)
-│   ├── question_bank_pdfs_by_subject/ # 74 PDFs, all QBs merged by subject (689 pages) ✅
+│   ├── question_bank_pdfs/            # 74 PDFs, all QBs merged by subject (689 pages) ✅ English names
 │   ├── live_class_pdfs/               # 179 PDFs, 1.2GB ✅ COMPLETE (names: lc_<seq>.pdf → title in JSON)
 │   ├── pass_books/                    # 105 PDFs, 678MB ✅ COMPLETE
 │   ├── ebook_previews/                # 84 PDFs, 191MB ✅ COMPLETE (all 82 ebooks)
