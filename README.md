@@ -41,7 +41,8 @@ softmax_dbg/
 │
 ├── downloads/                         # All downloaded content
 │   ├── question_bank_pdfs/            # 433 PDFs, 59MB ✅ COMPLETE (6 server-missing: NoSuchKey)
-│   ├── live_class_pdfs/               # 179 PDFs, 1.2GB ✅ COMPLETE
+│   │                                   #   names: qb_<id>_<year>_<institute>_<subject>.pdf (readable)
+│   ├── live_class_pdfs/               # 179 PDFs, 1.2GB ✅ COMPLETE (names: lc_<seq>.pdf → title in JSON)
 │   ├── pass_books/                    # 105 PDFs, 678MB ✅ COMPLETE
 │   ├── ebook_previews/                # 84 PDFs, 191MB ✅ COMPLETE (all 82 ebooks)
 │   ├── e_chapters/                    # 93 PDFs, 110MB (from archive)
