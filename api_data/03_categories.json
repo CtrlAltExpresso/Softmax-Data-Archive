@@ -1,0 +1,52 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 4,
+            "name": "Polytechnic Admission",
+            "order": 1,
+            "icon": null,
+            "display_name": "POLYTECHNIC ADMSSION",
+            "is_sub": false,
+            "has_session": false
+        },
+        {
+            "id": 1,
+            "name": "Polytechnic",
+            "order": 2,
+            "icon": null,
+            "display_name": "Polytechnic",
+            "is_sub": false,
+            "has_session": true
+        },
+        {
+            "id": 2,
+            "name": "DUET Admission Preparation",
+            "order": 3,
+            "icon": null,
+            "display_name": "DUET Admission Preparation",
+            "is_sub": false,
+            "has_session": true
+        },
+        {
+            "id": 3,
+            "name": "SAE Job Preparation",
+            "order": 4,
+            "icon": null,
+            "display_name": "SAE Job Preparation",
+            "is_sub": false,
+            "has_session": false
+        },
+        {
+            "id": 11,
+            "name": "ICT Course",
+            "order": 5,
+            "icon": null,
+            "display_name": "ICT Course",
+            "is_sub": false,
+            "has_session": false
+        }
+    ]
+}

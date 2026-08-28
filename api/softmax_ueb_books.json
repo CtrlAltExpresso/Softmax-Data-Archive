@@ -1,0 +1,86 @@
+[
+  {
+    "id": 4,
+    "name": "Designing Data-Intensive Applications",
+    "new_arrival": true,
+    "cover": {
+      "id": 13,
+      "cover": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/Image_0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260821%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260821T124059Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a4b900e9e2168d28ff2eedbb4a14ade0686b802a448da6d4ef59d3ecbcce3ded"
+    },
+    "preview": {
+      "id": 8,
+      "preview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/preview/02/25/Andrew_S._Tanenbaum_-_Computer_Networks.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260821%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260821T124059Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=72b44ab1056847c5ea03cb05e148b0a48bc46edc42d9ed45143884fd4557011f"
+    },
+    "price": 800,
+    "sell_price": 500,
+    "description": "Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability.",
+    "has_discount": true,
+    "discount_price": 0,
+    "category": {
+      "value": 1,
+      "label": "Polytechnic",
+      "icon": null
+    },
+    "department": {
+      "value": 1,
+      "label": "COMPUTER SCIENCE & TECHNOLOGY"
+    },
+    "subjects": []
+  },
+  {
+    "id": 3,
+    "name": "Clean Code",
+    "new_arrival": true,
+    "cover": {
+      "id": 12,
+      "cover": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/images_1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260821%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260821T124059Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=138c72ad0b487b41c399287d6b22c6366d43bbb74e5ed71ea96b030c737afa5d"
+    },
+    "preview": {
+      "id": 6,
+      "preview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/preview/02/25/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260821%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260821T124059Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d35ea633e36704fffc10d7a2514c250e2174f8b7860b64ac279539312995e987"
+    },
+    "price": 9000,
+    "sell_price": 7000,
+    "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code.",
+    "has_discount": true,
+    "discount_price": 0,
+    "category": {
+      "value": 1,
+      "label": "Polytechnic",
+      "icon": null
+    },
+    "department": {
+      "value": 1,
+      "label": "COMPUTER SCIENCE & TECHNOLOGY"
+    },
+    "subjects": []
+  },
+  {
+    "id": 1,
+    "name": "Programming",
+    "new_arrival": false,
+    "cover": {
+      "id": 8,
+      "cover": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/Dsa_page-0001.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260821%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260821T124059Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dcdebc57364d20b956c5652f702a194e13e158483a48e7746203a45f25308e84"
+    },
+    "preview": {
+      "id": 4,
+      "preview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/preview/02/25/Dsa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260821%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260821T124059Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2b3779928d562637894e592e4ae6bdd7f8e1d9d4ec598b39bdbf203609b6e62b"
+    },
+    "price": 0,
+    "sell_price": 0,
+    "description": "test",
+    "has_discount": false,
+    "discount_price": 0,
+    "category": {
+      "value": 1,
+      "label": "Polytechnic",
+      "icon": null
+    },
+    "department": {
+      "value": 1,
+      "label": "COMPUTER SCIENCE & TECHNOLOGY"
+    },
+    "subjects": []
+  }
+]

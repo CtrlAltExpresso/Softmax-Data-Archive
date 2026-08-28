@@ -1,0 +1,986 @@
+[
+  {
+    "id": 205,
+    "title": "পাস-বুক টেলিভিশন ইঞ্জিনিয়ারিং",
+    "eSubjectImage": {
+      "value": 908,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%9F%E0%A6%B2%E0%A6%AD%E0%A6%B6%E0%A6%A8_%E0%A6%87%E0%A6%9E%E0%A6%9C%E0%A6%A8%E0%A6%AF%E0%A6%B0_4_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bb17f15e15c6299e19b6d2d8514ad850b974d2df520ac9741c40cae466ba5683"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 39,
+    "title": "পাস-বুক-অপারেটিং সিস্টেম",
+    "eSubjectImage": {
+      "value": 79,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Operating_System-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8a6ca3751e22874a38c224292151f6c098a0f060876c44c22bf64c24e896efd2"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 56,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স ০১",
+    "eSubjectImage": {
+      "value": 139,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%A1%E0%A6%9C%E0%A6%9F%E0%A6%B2_%E0%A6%87%E0%A6%B2%E0%A6%95%E0%A6%9F%E0%A6%B0%E0%A6%A8%E0%A6%95%E0%A6%B8-%E0%A7%A7-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3d8dcd529e8b1123e17f3de07311474da21e7438237f0bc241157ffdeca6709d"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 183,
+    "title": "পাশ-বুক-আরএসি সাইকেল এন্ড কম্পোনেন্ট",
+    "eSubjectImage": {
+      "value": 864,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/%E0%A6%B0%E0%A6%AB%E0%A6%B0%E0%A6%9C%E0%A6%B0%E0%A6%B6%E0%A6%A8_%E0%A6%B8%E0%A6%87%E0%A6%95%E0%A6%B2_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%95%E0%A6%AE%E0%A6%AA%E0%A6%A8%E0%A6%A8%E0%A6%9F-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=161a8947391dfa111284448e8f33e9768fabb3e978ea50c66a37df5ca843c6b0"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 59,
+    "title": "পাস বুক - কনস্ট্রাকশন প্রসেস ০১",
+    "eSubjectImage": {
+      "value": 145,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%95%E0%A6%A8%E0%A6%B8%E0%A6%9F%E0%A6%B0%E0%A6%95%E0%A6%B6%E0%A6%A8_%E0%A6%AA%E0%A6%B0%E0%A6%B8%E0%A6%B8-%E0%A7%A7-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a4f7dc91f109978556b2fe394df538472f60924e5d3425cc5e44f3083c15058f"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 234,
+    "title": "ই-বুক-নেটওয়ার্ক ফিল্টার অ্যান্ড ট্রান্সমিশন লাইন",
+    "eSubjectImage": {
+      "value": 970,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/08/26/%E0%A6%A8%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A6%B0%E0%A6%95%E0%A6%B8_%E0%A6%AB%E0%A6%B2%E0%A6%9F%E0%A6%B0%E0%A6%B8_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%9F%E0%A6%B0%E0%A6%A8%E0%A6%B8%E0%A6%AE%E0%A6%B6%E0%A6%A8_%E0%A6%B2%E0%A6%87%E0%A6%A8%E0%A6%B8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=130bbb4499f12d1aafb2a5c338469adc60337be36690f79f1a9b3f887d0518bb"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 100,
+    "already_purchased": false
+  },
+  {
+    "id": 212,
+    "title": "পাশবুক-কনস্ট্রাকশন ম্যানেজমেন্ট অ্যান্ড ডকুমেন্টেশন",
+    "eSubjectImage": {
+      "value": 922,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%95%E0%A6%A8%E0%A6%B8%E0%A6%9F%E0%A6%B0%E0%A6%95%E0%A6%B6%E0%A6%A8_%E0%A6%AE%E0%A6%AF%E0%A6%A8%E0%A6%9C%E0%A6%AE%E0%A6%A8%E0%A6%9F_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%A1%E0%A6%95%E0%A6%AE%E0%A6%A8%E0%A6%9F%E0%A6%B6%E0%A6%A8_13.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=37573f392b9c0f00f7c651bf20153ee784c62054b6dbb06696aa12022fbb15d8"
+    },
+    "publications": null,
+    "price": 156,
+    "sell_price": 72,
+    "already_purchased": false
+  },
+  {
+    "id": 117,
+    "title": "পাস বুক - ডাটা স্ট্রাকচার অ্যান্ড অ্যালগরিদম",
+    "eSubjectImage": {
+      "value": 705,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Data_Structure_Algorithm-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=99ace1f08c0096b38aab4184b2af956b79df909fa50e33aadafd8d0f49023e37"
+    },
+    "publications": null,
+    "price": 162,
+    "sell_price": 29,
+    "already_purchased": false
+  },
+  {
+    "id": 49,
+    "title": "পাশ - ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস",
+    "eSubjectImage": {
+      "value": 110,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Electrical_Engineering_Materials-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c670338f4616783681770f6420abaf0eeb55941486e9231c4eea519608191021"
+    },
+    "publications": null,
+    "price": 95,
+    "sell_price": 15,
+    "already_purchased": false
+  },
+  {
+    "id": 193,
+    "title": "পাসবুক-ফ্লুইড মেকানিক্স অ্যান্ড মেশিনারিজ",
+    "eSubjectImage": {
+      "value": 884,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Fluid_Mechanics_and_Machineries-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4cd03361df02bd781693396a5759af68b9079b3fd8775f4f4f89b052f779c88e"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 207,
+    "title": "পাস-বুক- থিওরি অব স্ট্রাকচার",
+    "eSubjectImage": {
+      "value": 912,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Theory_of_Structure-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=94d434370bcb63a5c6dbcd375ff11af499ba4233de49640da6f53ee463a0324d"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 25,
+    "already_purchased": false
+  },
+  {
+    "id": 188,
+    "title": "পাস-বুক-সিভিল ক্যাড-২",
+    "eSubjectImage": {
+      "value": 874,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/WhatsApp_Image_2026-04-13_at_11.21.49_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=99e89b1d83e8d00afab3dd639055452ec1f397dadea83ddfe288518129f6625d"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 199,
+    "title": "পাস-বুক-ম্যানুফ্যাকচারিং প্রসেস",
+    "eSubjectImage": {
+      "value": 896,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Manufacturing_Process-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a6f5561018a1479a553f96888c7aa8246955318873f2e43b1c312c239cad164b"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 192,
+    "title": "পাস-বুক-ইলেকট্রনিক অ্যাপ্লায়েন্স",
+    "eSubjectImage": {
+      "value": 882,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%87%E0%A6%B2%E0%A6%95%E0%A6%9F%E0%A6%B0%E0%A6%A8%E0%A6%95_%E0%A6%85%E0%A6%AF%E0%A6%AA%E0%A6%B2%E0%A6%AF%E0%A6%A8%E0%A6%B8_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ea2aae41747bb54959cfabcc5459ea660cdf888cf6d34768fd4b02b3c8ebd9e5"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 54,
+    "title": "Pass Book - সিভিল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস",
+    "eSubjectImage": {
+      "value": 121,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Civil_Engineering_Materials-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ea5bb586a3af9be5857ecc1c8d88d8bc6b179a87809fe62d8f3a1456611fd689"
+    },
+    "publications": null,
+    "price": 120,
+    "sell_price": 11,
+    "already_purchased": false
+  },
+  {
+    "id": 107,
+    "title": "পাস বুক - এস্টিমেটিং এন্ড কস্টিং ০১",
+    "eSubjectImage": {
+      "value": 682,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Estimating_Costing-I-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6fe5c01f2c147f8872edfd5d16b37160e2103d1e146a4009ae919cd6930c42d1"
+    },
+    "publications": null,
+    "price": 162,
+    "sell_price": 100,
+    "already_purchased": false
+  },
+  {
+    "id": 118,
+    "title": "পাস বুক- ফুয়েলস অ্যান্ড লুব্রিক্যান্টস",
+    "eSubjectImage": {
+      "value": 707,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Fuels_and_Lubricants-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6c48cadcff5705e47119274b89f9da5e0e9fdff0a95ce80c1aa1216340e18b3c"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 19,
+    "already_purchased": false
+  },
+  {
+    "id": 208,
+    "title": "পাস-বুক-ওয়াটার সাপ্লাই ইঞ্জিনিয়ারিং",
+    "eSubjectImage": {
+      "value": 914,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Water_Supply_Engineering-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d480d158d8df6dd4fc01760b1fff64ba423ed25ef37bade8fd40c4d6580f3cec"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 190,
+    "title": "পাস-বুক-ডাটা কমিউনিকেশন",
+    "eSubjectImage": {
+      "value": 878,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Data_Communication-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fd486aec04ac4c4b6d9f3a4b740a9a821112a5b4c318b998bf34a6ef0f1eb703"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 31,
+    "already_purchased": false
+  },
+  {
+    "id": 103,
+    "title": "পাস বুক - ইলেকট্রিক্যাল ইন্সটলেশন প্লানিং এবং এস্টিমেটিং",
+    "eSubjectImage": {
+      "value": 674,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/Electrical_Installation_Planning_and_Estimating-optimize.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d362b57dba55721d4a1a423612df555549b6554382a6501fdeb656dbc715743e"
+    },
+    "publications": null,
+    "price": 150,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 191,
+    "title": "পাস-বুক-ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক মেজারমেন্ট-১",
+    "eSubjectImage": {
+      "value": 880,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Electrical_and_Electronic_Masurement-1-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7f756ed04242d50edcde25dbdb868276219b35e8dc368eb06948b2dee31c91d1"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 200,
+    "title": "পাস-বুক-মেকানিক্যাল এস্টিমেটিং এন্ড কস্টিং",
+    "eSubjectImage": {
+      "value": 898,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Mechanical_Estimating_and_Costing-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=78b73c99ddb409289aa3bdd33a7bbbc5a7baa627af480cd0e8e5b5c3250686a2"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 213,
+    "title": "পাশ বুক-সাইবার সিকিউরিটি অ্যান্ড এথিক্স",
+    "eSubjectImage": {
+      "value": 924,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%B8%E0%A6%87%E0%A6%AC%E0%A6%B0_%E0%A6%B8%E0%A6%95%E0%A6%89%E0%A6%B0%E0%A6%9F_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%87%E0%A6%A5%E0%A6%95%E0%A6%B8_4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=caf1ba48b5bf76e7c334a9e201f2bdc90b4892bb9a4fa4e0f6d7d6808375420b"
+    },
+    "publications": null,
+    "price": 144,
+    "sell_price": 77,
+    "already_purchased": false
+  },
+  {
+    "id": 209,
+    "title": "পাস-বুক-ওয়েব ডিজাইন এন্ড ডেভেলপমেন্ট-২",
+    "eSubjectImage": {
+      "value": 916,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%93%E0%A6%AF%E0%A6%AC_%E0%A6%A1%E0%A6%9C%E0%A6%87%E0%A6%A8_%E0%A6%8F%E0%A6%A8%E0%A6%A1_%E0%A6%A1%E0%A6%AD%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A6%A8%E0%A6%9F-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=462159bb310b192bf18b656cffbd498d2fdf77a3831f14c7d6c9012c3fb97f66"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 195,
+    "title": "পাস-বুক-ফাউন্ড্রি অ্যান্ড প্যাটার্ন মেকিং",
+    "eSubjectImage": {
+      "value": 888,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Foundry_and_Pattern_Making-optimized_11zon.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e409958e789eca6166161c501e43b641133c2243c27f27366b91cee4fbcc24f4"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 11,
+    "already_purchased": false
+  },
+  {
+    "id": 201,
+    "title": "পাস-বুক-মাইক্রোপ্রসেসর এন্ড মাইক্রোকন্ট্রোলার",
+    "eSubjectImage": {
+      "value": 900,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Microprocessor_and_Microcontroller-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2f829c2b87d0adf690a7ea88a72a074e2585e8420a8e4f19fdcf233ab3f1af8b"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 109,
+    "title": "পাস বুক - হাইড্রোলজি",
+    "eSubjectImage": {
+      "value": 686,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Hydrology-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a43ec318ce202464df350da7150e96b0536bf25557be613c48beef73f3efda51"
+    },
+    "publications": null,
+    "price": 155,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 120,
+    "title": "পাস বুক - মেশিন শপ প্রাকটিস-৩",
+    "eSubjectImage": {
+      "value": 713,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Machine_Shop_Practice-III-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c9afd21553a777073e2c3e650342914c21861b4d67ed1a0c88c65e44ec20ab4f"
+    },
+    "publications": null,
+    "price": 140,
+    "sell_price": 14,
+    "already_purchased": false
+  },
+  {
+    "id": 105,
+    "title": "পাস বুক - সিভিল ক্যাড ০১",
+    "eSubjectImage": {
+      "value": 678,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Civil_CAD-I-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=06e31e69c819073fce12fd49c27350cd9716550cd6898c3cb83f97a5b50be8de"
+    },
+    "publications": null,
+    "price": 130,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 202,
+    "title": "পাসবুক-প্রিন্সিপাল অব মার্কেটিং",
+    "eSubjectImage": {
+      "value": 902,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Principle_of_Marketing-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bb991b15ec6d8990f29a90d88c6de0362287b4c4c61bf8c737ad500fd4fc08fe"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 92,
+    "already_purchased": false
+  },
+  {
+    "id": 197,
+    "title": "পাস-বুক-হাইড্রোলিক্স",
+    "eSubjectImage": {
+      "value": 892,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Hydraulics-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6ed9e9921c2e090060d57ba84b74796e0a2a651e8267a85137bff69a4b70f928"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 62,
+    "title": "পাস বুক - ইঞ্জিনিয়ারিং থার্মোডায়নামিক্স",
+    "eSubjectImage": {
+      "value": 249,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%87%E0%A6%9E%E0%A6%9C%E0%A6%A8%E0%A6%AF%E0%A6%B0_%E0%A6%A5%E0%A6%B0%E0%A6%AE%E0%A6%A1%E0%A6%87%E0%A6%A8%E0%A6%AE%E0%A6%95%E0%A6%B8-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a02d64dfabfde7f39170fe7432fa99a97884c112a2a6493a89b5e4bd0f1fb430"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 93,
+    "already_purchased": false
+  },
+  {
+    "id": 121,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স-২",
+    "eSubjectImage": {
+      "value": 711,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Digital_Electronics-II-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=589ba8a3a15528e6afcf6ad814a41145c8933f4554610a7ad61d4c946cf62594"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 18,
+    "already_purchased": false
+  },
+  {
+    "id": 126,
+    "title": "পাস বুক- ম্যাথমেটিক্স-২",
+    "eSubjectImage": {
+      "value": 725,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Mathematics-2-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0ceb545be36a4d5a635bbb99cf71d9dbdbf33f5f74e1115b9d8a536472919a11"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 19,
+    "already_purchased": true
+  },
+  {
+    "id": 61,
+    "title": "পাস বুক - ইলেকট্রিক্যাল সার্কিট ০২",
+    "eSubjectImage": {
+      "value": 247,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%87%E0%A6%B2%E0%A6%95%E0%A6%9F%E0%A6%B0%E0%A6%95%E0%A6%AF%E0%A6%B2_%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%9F-%E0%A7%A8-optimized_-_Copy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3f454884614a20de449db106fc917ae4b66708d43553048537099e5b30759d6e"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 19,
+    "already_purchased": false
+  },
+  {
+    "id": 215,
+    "title": "পাশ-বুক-ইন্ডাস্ট্রিয়াল অটোমেশন অ্যান্ড পিএলসি",
+    "eSubjectImage": {
+      "value": 928,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%87%E0%A6%A8%E0%A6%A1%E0%A6%B8%E0%A6%9F%E0%A6%B0%E0%A6%AF%E0%A6%B2_%E0%A6%85%E0%A6%9F%E0%A6%AE%E0%A6%B6%E0%A6%A8_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%AA%E0%A6%8F%E0%A6%B2%E0%A6%B8_22.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=798a0ce68c7c943dc489a0c34f5be4e798a09116f28b87bcd69fd7692f65cc24"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 80,
+    "already_purchased": false
+  },
+  {
+    "id": 108,
+    "title": "পাস বুক - জিওটেকনিক্যাল ইঞ্জিনিয়ারিং",
+    "eSubjectImage": {
+      "value": 684,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Geotechnical_Engineering-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=003264c4b796f7562df0a02f5dd506edd3000b989215e2a2bb6af4808e43aa59"
+    },
+    "publications": null,
+    "price": 158,
+    "sell_price": 31,
+    "already_purchased": false
+  },
+  {
+    "id": 114,
+    "title": "পাস বুক - ইঞ্জিনিয়ারিং মেকানিক্স",
+    "eSubjectImage": {
+      "value": 699,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Engineering_Mechanics-optimized_-_Copy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cdfdd099ec908ca4e5a20dd952a71eb866cbba7eb00a2296892b74c60d46c09b"
+    },
+    "publications": null,
+    "price": 148,
+    "sell_price": 33,
+    "already_purchased": false
+  },
+  {
+    "id": 235,
+    "title": "পাস-বুক-ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক মেজারমেন্টস-২",
+    "eSubjectImage": {
+      "value": 972,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/08/26/%E0%A6%B0%E0%A6%93%E0%A6%A8%E0%A6%AC%E0%A6%B8%E0%A6%B0%E0%A6%AC%E0%A6%AE%E0%A6%95%E0%A6%B8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a24a218e1ab726c8da211f5e9bc4f650f35a67c01418394292265f828b9a68fa"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 122,
+    "title": "পাস বুক - মেটালার্জি",
+    "eSubjectImage": {
+      "value": 715,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/01/26/Metallurgy-optimized_-_Copy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a35216d556113184e55ab39eb9e4f03d8cc95daae5cbf04c4d316dcf49e39c29"
+    },
+    "publications": null,
+    "price": 150,
+    "sell_price": 19,
+    "already_purchased": false
+  },
+  {
+    "id": 115,
+    "title": "পাস বুক - কম্পিউটার পেরিফেরালস এন্ড ইন্টারফেসিং",
+    "eSubjectImage": {
+      "value": 701,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Computer_Peripherals_Interfacing-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=29351aca18de0a10f2be3fd973691d0e19cbb3e2b8d2ff971fa97ee80e4d84ba"
+    },
+    "publications": null,
+    "price": 142,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 124,
+    "title": "পাস বুক - জাভা প্রোগ্রামিং",
+    "eSubjectImage": {
+      "value": 719,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Java_Programming-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=85b8eeeed937d984413a7f7854cec47dc8b5fc21ee81898d10716b72fc8b9261"
+    },
+    "publications": null,
+    "price": 146,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 129,
+    "title": "পাস বুক- বাংলা-২",
+    "eSubjectImage": {
+      "value": 731,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Bangla-2-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5d4369a8228115b33a81c88aad4671ce35ffe9bcaa36430d9adb50e3eccde246"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 19,
+    "already_purchased": false
+  },
+  {
+    "id": 203,
+    "title": "পাস-বুক-প্রোগ্রামিং ইন সি",
+    "eSubjectImage": {
+      "value": 904,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Programming_in_C-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=44e9e42c78ffc7344de0a15d2b4fbbc924b9fa84d99057a925871b7937227080"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 226,
+    "title": "পাশ বুক-এস্টিমেট অ্যান্ড কস্টিং-২",
+    "eSubjectImage": {
+      "value": 952,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%8F%E0%A6%B8%E0%A6%9F%E0%A6%AE%E0%A6%9F_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%95%E0%A6%B8%E0%A6%9F-%E0%A7%A8_12.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=97acf0172181743496a2db1ac96a07f35c4079c97c25d182ba230e2636ebdc48"
+    },
+    "publications": null,
+    "price": 176,
+    "sell_price": 88,
+    "already_purchased": false
+  },
+  {
+    "id": 63,
+    "title": "পাস বুক - ইন্ডাস্ট্রিয়াল ইলেকট্রনিক্স",
+    "eSubjectImage": {
+      "value": 251,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%87%E0%A6%A8%E0%A6%A1%E0%A6%B8%E0%A6%9F%E0%A6%B0%E0%A6%AF%E0%A6%B2_%E0%A6%87%E0%A6%B2%E0%A6%95%E0%A6%9F%E0%A6%B0%E0%A6%A8%E0%A6%95%E0%A6%B8-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7455db49f776c49e7d8a7098ca755e52b08d04d1afbd9caca2174a6c66e4cdee"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 130,
+    "title": "পাশ বুক - ইংলিশ-২",
+    "eSubjectImage": {
+      "value": 737,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/English-2-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7cd11fed16d6931cee2a5b6ca4f98df85b2437a06d15fb85916056777c7509f5"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 110,
+    "title": "পাস বুক - সার্ভেয়িং ০২",
+    "eSubjectImage": {
+      "value": 688,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Surveying_II-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=01a6cdb3015bd79c50ec73d300a89a2b93dc971555a48aca64a8f8009770dc11"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 19,
+    "already_purchased": false
+  },
+  {
+    "id": 131,
+    "title": "পাস বুক - পাইথন প্রোগ্রামিং",
+    "eSubjectImage": {
+      "value": 735,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/03/26/Python_Programming.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=75b9cc63bc4fece6d8c0b7089da33c5da14dc8c817035fafa4c87592c5ae50b0"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 227,
+    "title": "পাশ বুক- কন্ট্রোল সিস্টেম অ্যান্ড রোবোটিক্স",
+    "eSubjectImage": {
+      "value": 954,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%95%E0%A6%A8%E0%A6%9F%E0%A6%B0%E0%A6%B2_%E0%A6%B8%E0%A6%B8%E0%A6%9F%E0%A6%AE_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%B0%E0%A6%AC%E0%A6%9F%E0%A6%95%E0%A6%B8_24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=561406bac365366873efe7bd13f6b7e1e9cf9b5fcbb3d46923d6150dacf09d22"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 80,
+    "already_purchased": false
+  },
+  {
+    "id": 217,
+    "title": "পাশবুক-মেকাট্রনিক্স অ্যান্ড পিএলসি",
+    "eSubjectImage": {
+      "value": 932,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%AE%E0%A6%95%E0%A6%9F%E0%A6%B0%E0%A6%A8%E0%A6%95%E0%A6%B8_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%AA%E0%A6%8F%E0%A6%B2%E0%A6%B8_27.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f5c2d6638b633ccbe5d62e59fe229486ba87ec59b4625abf0f90ce692ec3dbf9"
+    },
+    "publications": null,
+    "price": 167,
+    "sell_price": 79,
+    "already_purchased": false
+  },
+  {
+    "id": 136,
+    "title": "পাস বুক - ইলেকট্রনিক ডিভাইসেস অ্যান্ড সাকির্টস্",
+    "eSubjectImage": {
+      "value": 745,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Electronics_Device_and_Circuits-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=554e70aa6b0e037427c8d6dfe6451d01261da2bdb0768703dbb16dc21519edde"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 138,
+    "title": "পাস বুক- সিভিল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "eSubjectImage": {
+      "value": 749,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Civil_Engineerign_Drawing-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c2ea78b3713c90d95311905327616ce2afad46330e234a53f70b4c9384f88143"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 50,
+    "title": "পাস-বুক-মেশিন শপ প্রাকটিস ১",
+    "eSubjectImage": {
+      "value": 113,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Machine_Shop-Practice-1-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=901c036a70814b54249339eebb29955c08f53b235bb8784e0408f605c822903c"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 140,
+    "title": "পাস বুক - ফিজিক্স-২",
+    "eSubjectImage": {
+      "value": 753,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Physics-2-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d36b7fe2cc09bf025449a7aa12fa87c53f78e432cc77873500c43acc76668c78"
+    },
+    "publications": null,
+    "price": 165,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 113,
+    "title": "পাস বুক - বিজনেস কমিউনিকেশন",
+    "eSubjectImage": {
+      "value": 697,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A6%B8_%E0%A6%95%E0%A6%AE%E0%A6%89%E0%A6%A8%E0%A6%95%E0%A6%B6%E0%A6%A8_16.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=eb7907deaec7535d3922bc8c01c79d8242664ee4c9034b92a3ddfaf936cf6d2e"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 218,
+    "title": "পাশ বুক-মাল্টিমিডিয়া অ্যান্ড অ্যানিমেশন",
+    "eSubjectImage": {
+      "value": 934,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%AE%E0%A6%B2%E0%A6%9F%E0%A6%AE%E0%A6%A1%E0%A6%AF_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%AE%E0%A6%B6%E0%A6%A8_3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131026Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cc9af8612049c46e2270100ffee0730877afc6a475ce8eaaef1058c4dc948c74"
+    },
+    "publications": null,
+    "price": 135,
+    "sell_price": 90,
+    "already_purchased": false
+  },
+  {
+    "id": 132,
+    "title": "পাস বুক - মেকানিক্যাল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "eSubjectImage": {
+      "value": 733,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Mechanical_Engineerign_Drawing-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b9b09b62c6e45459e0785f172452d6936fe6a8ff504d227eb18bcf84a8a2f157"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 184,
+    "title": "পাস-বুক-পাওয়ার ইকুইপমেন্ট ম্যানেজমেন্ট এন্ড সেফটি",
+    "eSubjectImage": {
+      "value": 866,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/%E0%A6%AA%E0%A6%93%E0%A7%9F%E0%A6%B0_%E0%A6%87%E0%A6%95%E0%A6%87%E0%A6%AA%E0%A6%AE%E0%A6%A8%E0%A6%9F_%E0%A6%AE%E0%A6%AF%E0%A6%A8%E0%A6%9C%E0%A6%AE%E0%A6%A8%E0%A6%9F_%E0%A6%8F%E0%A6%A8%E0%A6%A1_%E0%A6%B8%E0%A6%AB%E0%A6%9F.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4dc021e3339b5a761a69fdc2686e9486c72c6bd58bf2566cdaaf30e358a0b1c5"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 152,
+    "title": "পাশ বুক - উড ওয়ার্কশপ প্র্যাকটিস",
+    "eSubjectImage": {
+      "value": 799,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/01/26/Wood_Workshop_Practice-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=eec057bcd4828fcaffe5175fe03b80695d9581b39d35c6d3eaf78f7a9f0387ed"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 89,
+    "already_purchased": false
+  },
+  {
+    "id": 139,
+    "title": "পাস বুক - ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "eSubjectImage": {
+      "value": 751,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Electrical_Engineerign_Drawing-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=349c1bc1a41408f989ea790cf5bb9c2330dc746f0b72a738f576c316a87c93e7"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 141,
+    "title": "পাশ বুক - বাংলা-১",
+    "eSubjectImage": {
+      "value": 777,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Bangla-1-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6b228c63fd89ae1716f4f915afc0b2e3cf85f9e57e07dd8a925be05c3fc5df74"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 111,
+    "title": "পাস বুক - অ্যাকাউন্টিং",
+    "eSubjectImage": {
+      "value": 692,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Accounting-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d7fc13fd901db844aeb2d8bf662d6abd81a24eb91afae6b1d3bcece616f618e5"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 29,
+    "already_purchased": false
+  },
+  {
+    "id": 211,
+    "title": "পাশ-বুক-অ্যাপস ডেভেলপমেন্ট প্রজেক্ট",
+    "eSubjectImage": {
+      "value": 920,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%85%E0%A6%AF%E0%A6%AA_%E0%A6%A1%E0%A6%AD%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A6%A8%E0%A6%9F_%E0%A6%AA%E0%A6%B0%E0%A6%9C%E0%A6%95%E0%A6%9F_5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=db5268e0095ecede98641ad2f17206bc0994da4e664a1b7d25f660f710524907"
+    },
+    "publications": null,
+    "price": 110,
+    "sell_price": 60,
+    "already_purchased": false
+  },
+  {
+    "id": 220,
+    "title": "পাশবুক-স্যানিটারি ইঞ্জিনিয়ারিং",
+    "eSubjectImage": {
+      "value": 938,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%B8%E0%A6%AF%E0%A6%A8%E0%A6%9F%E0%A6%A8_%E0%A6%87%E0%A6%9E%E0%A6%9C%E0%A6%A8%E0%A6%AF%E0%A6%B0__10.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c34e76be006b91980ac4ca444710fda7a91c485ff6e878690cb07550df866b16"
+    },
+    "publications": null,
+    "price": 170,
+    "sell_price": 80,
+    "already_purchased": false
+  },
+  {
+    "id": 66,
+    "title": "পাস বুক - স্ট্রাকচারাল মেকানিক্স",
+    "eSubjectImage": {
+      "value": 257,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%B8%E0%A6%9F%E0%A6%B0%E0%A6%95%E0%A6%9A%E0%A6%B0%E0%A6%B2_%E0%A6%AE%E0%A6%95%E0%A6%A8%E0%A6%95%E0%A6%B8-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e6420a2c24c9e6548e46fc964b173b5199f37526d48662f49588d41e1dc5a9d8"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 64,
+    "title": "পাস বুক - আইটি সাপোর্ট সার্ভিস",
+    "eSubjectImage": {
+      "value": 253,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%86%E0%A6%87%E0%A6%9F_%E0%A6%B8%E0%A6%AA%E0%A6%B0%E0%A6%9F_%E0%A6%B8%E0%A6%B0%E0%A6%AD%E0%A6%B8-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e4e5ca27cc31a1e61c9348d5051bc078f36eb1528a19cd890aac1655f4252476"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": true
+  },
+  {
+    "id": 230,
+    "title": "পাশবুক-প্রোডাকশন প্ল্যানিং অ্যান্ড কন্ট্রোল",
+    "eSubjectImage": {
+      "value": 962,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%AA%E0%A6%B0%E0%A6%A1%E0%A6%95%E0%A6%B6%E0%A6%A8_%E0%A6%AA%E0%A6%B2%E0%A6%A8_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%95%E0%A6%A8%E0%A6%9F%E0%A6%B0%E0%A6%B2_26.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5e63328a3167800904f1eb37cceda659ed0c000bc50268aa63e69d6853f55668"
+    },
+    "publications": null,
+    "price": 130,
+    "sell_price": 68,
+    "already_purchased": false
+  },
+  {
+    "id": 145,
+    "title": "পাশ বুক - কমিউনিকেশন ইঞ্জিনিয়ারিং",
+    "eSubjectImage": {
+      "value": 785,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/Communication_Engineering_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=278e1f23dd0dffe9c887d1e34dfcaca3581fca8f1996065bccc6ff2814301812"
+    },
+    "publications": null,
+    "price": 159,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 143,
+    "title": "পাশ বুক - পাওয়ার ইঞ্জিনিয়ারিং ফান্ডামেন্টাল",
+    "eSubjectImage": {
+      "value": 781,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Power_Engineering_Fundamentals-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c7b2fd987189c9ce8b221514f538f05ffc8338fb55d3edf6511d94e50291ab5"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 10,
+    "already_purchased": false
+  },
+  {
+    "id": 101,
+    "title": "পাস বুক - ডিসি মেশিন",
+    "eSubjectImage": {
+      "value": 670,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/DC_Machine.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fc3d0578f031655bb0fc32ba8aee1345a227e4084eabe86a69c699a93f43bc60"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 29,
+    "already_purchased": false
+  },
+  {
+    "id": 221,
+    "title": "পাশবুক - সুইচগিয়ার অ্যান্ড প্রোটেকশন",
+    "eSubjectImage": {
+      "value": 940,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%B8%E0%A6%87%E0%A6%9A%E0%A6%97%E0%A6%AF%E0%A6%B0_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%AA%E0%A6%B0%E0%A6%9F%E0%A6%95%E0%A6%B6%E0%A6%A8_17.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5043fd5e315b4ae5980b400d7c7959244f811497447c3997e531b6e5263672a7"
+    },
+    "publications": null,
+    "price": 130,
+    "sell_price": 70,
+    "already_purchased": false
+  },
+  {
+    "id": 231,
+    "title": "পাশবুক-টুল ডিজাইন",
+    "eSubjectImage": {
+      "value": 964,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%9F%E0%A6%B2_%E0%A6%A1%E0%A6%9C%E0%A6%87%E0%A6%A8_30.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7628640ebabacec10530cb579915866e0c37eeab91dfef9f66b710d83eda9ca4"
+    },
+    "publications": null,
+    "price": 120,
+    "sell_price": 65,
+    "already_purchased": false
+  },
+  {
+    "id": 144,
+    "title": "পাশ বুক - মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস্",
+    "eSubjectImage": {
+      "value": 783,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%AE%E0%A6%95%E0%A6%A8%E0%A6%95%E0%A6%AF%E0%A6%B2_%E0%A6%87%E0%A6%9E%E0%A6%9C%E0%A6%A8%E0%A6%AF%E0%A6%B0_%E0%A6%AE%E0%A6%AF%E0%A6%9F%E0%A6%B0%E0%A6%AF%E0%A6%B2%E0%A6%B8-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d544331dc7acac3f7549e39e36043182a035e53ec38485a8dd0e943d3b5df9ac"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 102,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স",
+    "eSubjectImage": {
+      "value": 672,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Digital_Electronics.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c3de41826724156a10fea467af9c05a088680721cea16d384ac2204fc9db245c"
+    },
+    "publications": null,
+    "price": 155,
+    "sell_price": 19,
+    "already_purchased": false
+  },
+  {
+    "id": 67,
+    "title": "পাস বুক - সার্ভেয়িং ০১",
+    "eSubjectImage": {
+      "value": 259,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%B8%E0%A6%B0%E0%A6%AD%E0%A6%AF-%E0%A7%A7-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=492bcbc901926d16c88367d9b628179876a62a127aec96837aa09a762006599f"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 9,
+    "already_purchased": false
+  },
+  {
+    "id": 222,
+    "title": "পাশ-বুক-ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন অব ইলেকট্রিক্যাল পাওয়ার-০২",
+    "eSubjectImage": {
+      "value": 942,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%9F%E0%A6%B0%E0%A6%A8%E0%A6%B8%E0%A6%AE%E0%A6%B6%E0%A6%A8_%E0%A6%85%E0%A6%AF%E0%A6%A8%E0%A6%A1_%E0%A6%A1%E0%A6%B8%E0%A6%9F%E0%A6%B0%E0%A6%AC%E0%A6%89%E0%A6%B6%E0%A6%A8_%E0%A6%85%E0%A6%AC_%E0%A6%87%E0%A6%B2%E0%A6%95%E0%A6%9F%E0%A6%B0%E0%A6%95%E0%A6%AF%E0%A6%B2_%E0%A6%AA%E0%A6%93%E0%A7%9F%E0%A6%B0-%E0%A7%A8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d9b68fb868eb5bd7229d170690e7d5190376083c20d4b86a94dd9784f58c3986"
+    },
+    "publications": null,
+    "price": 175,
+    "sell_price": 85,
+    "already_purchased": false
+  },
+  {
+    "id": 51,
+    "title": "Pass Book - বেসিক ইলেকট্রিসিটি",
+    "eSubjectImage": {
+      "value": 114,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Basic_Electricity-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b702a90533bbd63e9afb06fc98485a383cb239a1ed9400aa10d886fd79a0478c"
+    },
+    "publications": null,
+    "price": 158,
+    "sell_price": 88,
+    "already_purchased": false
+  },
+  {
+    "id": 68,
+    "title": "পাস বুক - অ্যাপ্লিকেশন ডেভেলপমেন্ট পাইথন",
+    "eSubjectImage": {
+      "value": 571,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%85%E0%A6%AF%E0%A6%AA%E0%A6%B2%E0%A6%95%E0%A6%B6%E0%A6%A8_%E0%A6%A1%E0%A6%AD%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A6%A8%E0%A6%9F_%E0%A6%87%E0%A6%89%E0%A6%9C_%E0%A6%AA%E0%A6%87%E0%A6%A5%E0%A6%A8-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=337e53aa3dab8718eab2837b76f11865b3a6724040a2dfb361b8e407c757cd83"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 137,
+    "title": "পাস বুক - ইলেকট্রিক্যাল সার্কিট-১",
+    "eSubjectImage": {
+      "value": 747,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Electrical_Circuit-1-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6a920389a8445a369e60fcd76b30adb152131139b9d207a6106fa3f90eb02527"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 95,
+    "already_purchased": false
+  },
+  {
+    "id": 57,
+    "title": "পাস বুক - ম্যাথমেটিক্স ০৩",
+    "eSubjectImage": {
+      "value": 141,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%AE%E0%A6%AF%E0%A6%A5%E0%A6%AE%E0%A6%9F%E0%A6%95%E0%A6%B8_%E0%A7%A9-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e799bdaa7c60bca11aed52b92e450a5fc70a96fe397f64d5343bef0eb2f254b1"
+    },
+    "publications": null,
+    "price": 160,
+    "sell_price": 29,
+    "already_purchased": true
+  },
+  {
+    "id": 52,
+    "title": "Pass Book - ম্যাথমেটিক্স ০১",
+    "eSubjectImage": {
+      "value": 117,
+      "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Mathematics-1-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4fdb95554d192addc9bf4759fe28f2acafcd3a0e60f06eee1ece410c4f817cf8"
+    },
+    "publications": null,
+    "price": 155,
+    "sell_price": 21,
+    "already_purchased": false
+  }
+]

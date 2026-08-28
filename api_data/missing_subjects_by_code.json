@@ -1,0 +1,3338 @@
+[
+  {
+    "code": "25712",
+    "name": "English-I",
+    "entries": 33,
+    "dept_count": 33
+  },
+  {
+    "code": "25812",
+    "name": "Physical Education & Life skills Development",
+    "entries": 33,
+    "dept_count": 33
+  },
+  {
+    "code": "21011",
+    "name": "Engineering Drawing",
+    "entries": 32,
+    "dept_count": 32
+  },
+  {
+    "code": "25913",
+    "name": "Chemistry",
+    "entries": 32,
+    "dept_count": 32
+  },
+  {
+    "code": "28511",
+    "name": "Computer Office Application",
+    "entries": 32,
+    "dept_count": 32
+  },
+  {
+    "code": "26811",
+    "name": "Basic Electronics",
+    "entries": 31,
+    "dept_count": 31
+  },
+  {
+    "code": "No Code",
+    "name": "Project Presentation",
+    "entries": 31,
+    "dept_count": 31
+  },
+  {
+    "code": "25852",
+    "name": "Industrial Management",
+    "entries": 30,
+    "dept_count": 30
+  },
+  {
+    "code": "27011",
+    "name": "Basic Workshop Practice",
+    "entries": 21,
+    "dept_count": 21
+  },
+  {
+    "code": "27061",
+    "name": "Strength of Materials",
+    "entries": 8,
+    "dept_count": 8
+  },
+  {
+    "code": "27063",
+    "name": "CAD & CAM",
+    "entries": 8,
+    "dept_count": 8
+  },
+  {
+    "code": "26434",
+    "name": "Basic Construction Process",
+    "entries": 6,
+    "dept_count": 6
+  },
+  {
+    "code": "26464",
+    "name": "Design of Structure-I",
+    "entries": 6,
+    "dept_count": 6
+  },
+  {
+    "code": "27821",
+    "name": "Basic Surveying",
+    "entries": 6,
+    "dept_count": 6
+  },
+  {
+    "code": "27852",
+    "name": "Advanced Surveying-II",
+    "entries": 6,
+    "dept_count": 5
+  },
+  {
+    "code": "27071",
+    "name": "Design of Machine Elements",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "25916",
+    "name": "Statistics",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27831",
+    "name": "Leveling",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27832",
+    "name": "Survey CAD",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27833",
+    "name": "Geography of Bangladesh",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27834",
+    "name": "Geodetic Surveying",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27841",
+    "name": "Aerial Photography and Photogrammetry",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27842",
+    "name": "Fundamentals of GIS",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27844",
+    "name": "Digital Cartography",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27851",
+    "name": "Hydraulics & Hydrology",
+    "entries": 5,
+    "dept_count": 4
+  },
+  {
+    "code": "26463",
+    "name": "Transportation Engineering-I",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27081",
+    "name": "Industrial Attachement",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27062",
+    "name": "Mechanical Measurement &",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27843",
+    "name": "Advanced Surveying-I",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27365",
+    "name": "Fundamental of Python Programming",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27452",
+    "name": "Land Laws and Record Management",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27462",
+    "name": "Fundamental of Transportation Engineering2",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27861",
+    "name": "Principles of Topographic Survey",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27572",
+    "name": "Basic Design of structure",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "26473",
+    "name": "Transportation Engineering-II",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "26761",
+    "name": "AC Machine-I",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "26771",
+    "name": "AC Machine-II",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27871",
+    "name": "Mine Survey",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27065",
+    "name": "Plant Engineering & Maintainance",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "26211",
+    "name": "Automobile Fundamentals",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "26052",
+    "name": "Basic Geotechnical & foundation Engineering",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "27373",
+    "name": "Remote Sensing",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "27374",
+    "name": "Survey Management and Documentation",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "26441",
+    "name": "Construction Process-II",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "26451",
+    "name": "Foundation Engineering",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "26751",
+    "name": "Generation of Electrical Power",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "28211",
+    "name": "Basic Aerodynamics",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28221",
+    "name": "Aircraft Structure & Repair",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28231",
+    "name": "Aircraft Materials",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28243",
+    "name": "Aircraft Hardware",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28356",
+    "name": "Aircraft Digital Technique",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28263",
+    "name": "Engineering Ethics",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28355",
+    "name": "Aircraft Instrument System",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28363",
+    "name": "Aircraft Electrical Power",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28271",
+    "name": "Aviation Legislation-Framework",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28272",
+    "name": "Air Navigation Orders",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28273",
+    "name": "Aircraft Maintenance Practices",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28371",
+    "name": "Human Factors",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28372",
+    "name": "Aircraft Cabin & Information System",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28373",
+    "name": "Safety Management system and",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "26241",
+    "name": "Automotive Body Building",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "26262",
+    "name": "Suspension, Brake, Steering &",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27643",
+    "name": "Refractories",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27655",
+    "name": "Cement Manufacturing",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27744",
+    "name": "Fuels and Combustion",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "26355",
+    "name": "Refrigeration & Cold Storage",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "26364",
+    "name": "Industrial Stoichiometry & Thermodynamics",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "26365",
+    "name": "Instrumental Methods of Analysis",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "26461",
+    "name": "Water Resources Engineering",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28863",
+    "name": "Steel Structures",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28861",
+    "name": "Advanced Construction",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "26781",
+    "name": "Industrial Attachement",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27863",
+    "name": "Hydrographic Surveying",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27865",
+    "name": "Preapartion and Maintainces of Land Records",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29511",
+    "name": "Printing Basics",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29521",
+    "name": "Offset Machine Operation",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29531",
+    "name": "Graphic Materials",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29631",
+    "name": "Graphic Design-I",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29632",
+    "name": "Basic Photography",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29541",
+    "name": "Screen Printing",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29542",
+    "name": "Safety and Maintainance",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29641",
+    "name": "Image Carrier Preparation",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29642",
+    "name": "Graphic Design-II",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29643",
+    "name": "Video and Sound Editing",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29555",
+    "name": "Digital Design & Printing",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29654",
+    "name": "Packaging Design-I",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29655",
+    "name": "Graphic Design-III",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29561",
+    "name": "Printing Costing & Estimating",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29664",
+    "name": "Image Manipulation",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29672",
+    "name": "Packaging Design-II",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "29675",
+    "name": "Graphic Communication",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28021",
+    "name": "General Ship Knowledge",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27931",
+    "name": "Marine IC Engine-I",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27941",
+    "name": "Fluid Mechanics & Hydraulic Machinery",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27942",
+    "name": "Marine IC Engine- II",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28041",
+    "name": "Naval Architecture",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28042",
+    "name": "Welding",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27951",
+    "name": "Marine Auxiliary Systems",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27952",
+    "name": "Marine Boiler & Steam Engineering",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27953",
+    "name": "Marine Fuels & Lubricants",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27954",
+    "name": "Marine IC Engine Operation & Maintenance",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27955",
+    "name": "Basic Safety & Security",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27956",
+    "name": "Maritime Laws",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27957",
+    "name": "Machine Drawing",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28053",
+    "name": "Ship Construction & Repair",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27962",
+    "name": "Marine Electrical Installation &",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27963",
+    "name": "Instrumentation Shipboard Deck machinery, Out-",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27964",
+    "name": "fittings & Bridge Equipment Marine Propulsion & Steering System",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27965",
+    "name": "Marine Enviromental Science",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27971",
+    "name": "Leadership & Professional Ethics",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27974",
+    "name": "Career Guideline in Maritime Sector",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27976",
+    "name": "Control Engineering & Mechatronics",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27152",
+    "name": "Power Plant Enginnering",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "27172",
+    "name": "Hybride & Electric Vehicle",
+    "entries": 2,
+    "dept_count": 2
+  },
+  {
+    "code": "28232",
+    "name": "Principles of Gas Turbine Engine",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28241",
+    "name": "Aircraft Fuel and Fire Protection",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28242",
+    "name": "System Aircraft Pneumatic & Ice-Rain Protection",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28244",
+    "name": "Aircraft Hydraulic & Flight Controls",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28245",
+    "name": "Aircraft Gas Turbine Engine Construction and systems",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28251",
+    "name": "Gas Turbine Engine Starting and Monitoring",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28252",
+    "name": "Aircraft Landing Gear",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28253",
+    "name": "Airconditioning and Pressurization system",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28254",
+    "name": "Aircraft Propellers",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28255",
+    "name": "Helicopter Aerodynamics and Structures",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28261",
+    "name": "Aircraft Equipment and Furnishing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28262",
+    "name": "Helicopter Controls and Systems",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28331",
+    "name": "Aircraft DC Power System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28341",
+    "name": "Aircraft AC Power",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28342",
+    "name": "Aircraft Radio and Radar",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28343",
+    "name": "Aircraft Communication System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28344",
+    "name": "Aircraft System I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28351",
+    "name": "Turbine Engine Principles and Construction",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28352",
+    "name": "Aircraft Electronics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28353",
+    "name": "Aircraft System- II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28354",
+    "name": "Aircraft Navigation System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28361",
+    "name": "Aircraft Autopilot System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28362",
+    "name": "Electronics Instrument System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28364",
+    "name": "Propulsion",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26111",
+    "name": "Creativity and Concept Development",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26121",
+    "name": "Architectural Design-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26131",
+    "name": "Architectural Design-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26132",
+    "name": "Architectural Graphics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26133",
+    "name": "Working Drawing-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26134",
+    "name": "Climatology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26135",
+    "name": "Computer Aided Drawing -I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26141",
+    "name": "Architectural Design-III",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26142",
+    "name": "History of Architecture-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26143",
+    "name": "Working Drawing -II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26144",
+    "name": "Computer Aided Drawing -II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26151",
+    "name": "Architectural Design-IV",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26152",
+    "name": "History of Architecture-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26153",
+    "name": "Model Making",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26154",
+    "name": "Presentation and Visual Technique",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26457",
+    "name": "Water Supply and Sanitary Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26161",
+    "name": "Architectural Design-V",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26162",
+    "name": "Computer Rendering and Animation-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26163",
+    "name": "Landscape Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26164",
+    "name": "Modern Architecture",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26165",
+    "name": "Interior Design -I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26171",
+    "name": "Architectural Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26172",
+    "name": "Computer Rendering and Animation-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26173",
+    "name": "Urban Planning",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26174",
+    "name": "Professional Practice",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26175",
+    "name": "Interior Design -II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26181",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26221",
+    "name": "Automotive Engine System-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26231",
+    "name": "Automotive Engine System-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26251",
+    "name": "Automobile Air- Conditioning",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26252",
+    "name": "Advance Automotive Mechanisms",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26261",
+    "name": "Engine Overhauling & Inspection",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26263",
+    "name": "Transmission System of Vehicle Specialized Vehicles, Two & Three Wheelers",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26271",
+    "name": "Automotive Electrical, Electronics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26272",
+    "name": "& Automation Automotive Testing & Emission",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26273",
+    "name": "Control Shop Equipment, Service Station Operation & Workshop Practice",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26274",
+    "name": "Automobile Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26281",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27552",
+    "name": "Application of GIS in Land Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27561",
+    "name": "Web GIS",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27562",
+    "name": "Cadastral Survey & Mapping",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27563",
+    "name": "Hydrographic Survey",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27564",
+    "name": "Topographical Map Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26466",
+    "name": "Innovation and Entrepreneurship",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27571",
+    "name": "AI in Land Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27573",
+    "name": "Mouza Map Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27581",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27611",
+    "name": "Geological Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27621",
+    "name": "Ceramic Model Making",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27622",
+    "name": "Ceramic Engineering Metarials-1",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26611",
+    "name": "Computer Office Application",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27631",
+    "name": "Model and Mould Fabrication-1",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27632",
+    "name": "Ceramic Engineering Metarials-2",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27633",
+    "name": "Ceramic Plants and Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27641",
+    "name": "Ceramic Test and Calculation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27642",
+    "name": "Ceramic Engineering Chemistry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27644",
+    "name": "Model and Mould Fabrication-2",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27645",
+    "name": "Ceramic Body Preparation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27652",
+    "name": "Heavy Clay Products",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27651",
+    "name": "White Wares",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27653",
+    "name": "Ceramic Instrumentation and Process Control",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27654",
+    "name": "Ceramic Fabrication and Drying",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27661",
+    "name": "Tiles and Sanitary Wares",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27662",
+    "name": "Drier, Kiln and Furnace",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27663",
+    "name": "Ceramic Quality Control",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27664",
+    "name": "Ceramic Glaze and Colour",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27665",
+    "name": "Ceramic Decoration and Printing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27666",
+    "name": "Graphic Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27671",
+    "name": "Ceramic Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27672",
+    "name": "Advanced Ceramic Products",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27673",
+    "name": "Kiln, Furnace Design and Construction",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27675",
+    "name": "Glass Manufacturing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27681",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26311",
+    "name": "Chemical Engineering Fundamentals",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26312",
+    "name": "Safety in Chemical Industry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26321",
+    "name": "Basic Stoichiometry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26322",
+    "name": "Chemical Engineering Drawing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26331",
+    "name": "Chemical Engineering Operation-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26332",
+    "name": "Industrial Chemistry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26333",
+    "name": "Chemical Engineering Materials",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26341",
+    "name": "Chemical Engineering Operation-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26342",
+    "name": "Chemical Process Industries-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26343",
+    "name": "Oil, Fats & Waxes",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26344",
+    "name": "Analytical Chemistry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26351",
+    "name": "Chemical Engineering Operation-III",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26352",
+    "name": "Chemical Process Industries-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26353",
+    "name": "Water Treatment Technology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26354",
+    "name": "Industrial Instrumentation & Process Control",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26356",
+    "name": "Industrial Production Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26361",
+    "name": "Chemical Engineering Operation-IV",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26362",
+    "name": "Chemical Process Industries-III",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26363",
+    "name": "Petroleum & Petrochemicals",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26366",
+    "name": "Jute & Textile Technology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26371",
+    "name": "Chemical Engineering Operation-V",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26372",
+    "name": "Chemical Process Industries-IV",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26373",
+    "name": "Natural Gas & Fertilizer",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26374",
+    "name": "Plastic & Polymer Technology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26375",
+    "name": "Corrosion Technology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26376",
+    "name": "Chemical Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26381",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26462",
+    "name": "Advance Surveying",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26471",
+    "name": "Civil Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26481",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26541",
+    "name": "Wood Engineering Machanics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26551",
+    "name": "Design & Drawing of Furniture",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26552",
+    "name": "Wood Working Machine-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26553",
+    "name": "Wood CAD & CAM",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26561",
+    "name": "Wood Working Machine-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26562",
+    "name": "Wood Processing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26563",
+    "name": "Wood Finishing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26571",
+    "name": "Wood Working Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26572",
+    "name": "Furniture Fitting & Assembly",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26581",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28522",
+    "name": "Computer Graphics Design-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28532",
+    "name": "Computer Graphics Design-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28544",
+    "name": "Web Design & Development-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28551",
+    "name": "Application Development Using Java",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28556",
+    "name": "Project Work-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28561",
+    "name": "Database Management System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28562",
+    "name": "Computer Networking",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28563",
+    "name": "Sensor & IoT System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28564",
+    "name": "Microcontroller Based System Design & Development",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28565",
+    "name": "Surveillance Security System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28566",
+    "name": "Web Development Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28571",
+    "name": "Digital Marketing Technique",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28576",
+    "name": "Project Work-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28581",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28831",
+    "name": "Construction Methodology-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28841",
+    "name": "Construction Methodology-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28842",
+    "name": "Construction Safety",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28862",
+    "name": "Building Facilities & Law",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28872",
+    "name": "Construction Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28881",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26732",
+    "name": "Electrical Appliances",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26743",
+    "name": "Electrical Engineering Project-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27044",
+    "name": "Applied Mechanics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26753",
+    "name": "Measurements-I Testing and Maintannance of Electrical Equipments",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26754",
+    "name": "Electrical Engineering Project-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26762",
+    "name": "Transmission and Distribution of",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26772",
+    "name": "Transmission and Distribution of Electrical Power-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26774",
+    "name": "Electrical Engineering Project-III",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28611",
+    "name": "Human Anatomy and Physiology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28621",
+    "name": "Basic Biomedical Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28631",
+    "name": "Medical transducer and Sensors",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28632",
+    "name": "Operating Room Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28641",
+    "name": "Dental Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28642",
+    "name": "Anesthesia and Respiratory Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28651",
+    "name": "Radiology and Imaging Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28652",
+    "name": "Fibre Optics and Laser in Medical Field",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28653",
+    "name": "Physiotherapy and Rehabilitation Devices",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28661",
+    "name": "Diagonestic and Laboratory Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28662",
+    "name": "Microprocesor and Biomedical Application",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28663",
+    "name": "Testing and Maintenance Biomedical Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28664",
+    "name": "CAD in Biomedical Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28671",
+    "name": "Advance Biomedical Equiment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28672",
+    "name": "ICU and CCU Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28673",
+    "name": "Biomedical Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28674",
+    "name": "Medical Physics and Nuclear",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28681",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26832",
+    "name": "Power Electronics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26844",
+    "name": "Electronic servicing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26861",
+    "name": "TV Studio and Broadcasting",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26862",
+    "name": "Microcontroller and Embedded System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26863",
+    "name": "PCB Design and Prototyping",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26874",
+    "name": "Electronic Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26881",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29011",
+    "name": "Basic Environmental Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29031",
+    "name": "Water Quality Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29042",
+    "name": "Environmental Chemistry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29051",
+    "name": "Water and Waste Water Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29052",
+    "name": "Environmental Microbiology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29053",
+    "name": "Geographic Information System (GIS) &",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29061",
+    "name": "Environmental Impact Assessment (EIA) & Environmental Regulation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29062",
+    "name": "Air Pollution & Control Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29063",
+    "name": "Environmenatl Auditing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29064",
+    "name": "Health, Safety & Environment (HSE)",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29071",
+    "name": "Energy & Environmental Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29072",
+    "name": "Solid and Hazardous Waste Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29073",
+    "name": "Climate Change and Adaptability",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29081",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26911",
+    "name": "Food Engineering Fundamentals",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26912",
+    "name": "Food Safety & Hygiene",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26921",
+    "name": "Food Science & Nutrition",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26922",
+    "name": "Food Plant Layout & Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26931",
+    "name": "Catering Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26932",
+    "name": "Food Industrial Chemistry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26941",
+    "name": "Food Microbiology-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26942",
+    "name": "Food Preservation-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26943",
+    "name": "Food Chemistry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26944",
+    "name": "Food Packaging",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26945",
+    "name": "Dairy Products",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26951",
+    "name": "Food Microbiology-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26952",
+    "name": "Food Preservation-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26953",
+    "name": "Food Biotechnology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26954",
+    "name": "Food & Beverage Products",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26955",
+    "name": "Food Industrial Instrumentation &",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26961",
+    "name": "Food Engineering Operation-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26962",
+    "name": "Food Process Industries-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26963",
+    "name": "Bakery Products",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26964",
+    "name": "Food Adulteration & Toxicology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26971",
+    "name": "Food Engineering Operation-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26972",
+    "name": "Food Process Industries-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26973",
+    "name": "Food Quality Control & Assurance",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26974",
+    "name": "Confectionery Products",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26975",
+    "name": "Food Analysis",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26976",
+    "name": "Food Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26981",
+    "name": "Industrial Attachment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29821",
+    "name": "Footwear Engineering Fundamentals",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29822",
+    "name": "Materials Science and Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29823",
+    "name": "Mechanical Engineering Fundamentals",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29831",
+    "name": "Footwear Manufacturing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29841",
+    "name": "Footwear Manufacturing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29842",
+    "name": "Tanning and Footwear Materials",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29843",
+    "name": "Leather Manufacturing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29844",
+    "name": "Corpoarte Scocial Responcibilies",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29845",
+    "name": "Footwear Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29851",
+    "name": "Footwear Manufacturing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29852",
+    "name": "Footwear Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29853",
+    "name": "Physical Testing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29854",
+    "name": "Leather Products Manufacturing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29855",
+    "name": "Chemical Testing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29856",
+    "name": "Leather Manufacturing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29861",
+    "name": "Footwear Manufacturing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29862",
+    "name": "CAD and CAM For Footwear",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29863",
+    "name": "Physical Testing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29864",
+    "name": "Supply Chain Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29865",
+    "name": "Manufacturing Machineries",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29866",
+    "name": "Automation in Footwear Industry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29871",
+    "name": "Production Planning for Footwear Manufacture",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29872",
+    "name": "International Trade and Finance",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29873",
+    "name": "Merchandiging",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29874",
+    "name": "Footwear Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29875",
+    "name": "Quality Control and Assurence",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29876",
+    "name": "Solid Waste Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29881",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26041",
+    "name": "Advanced Geospatial Surveying",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26051",
+    "name": "Advanced Geospatial Surveying",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26061",
+    "name": "Fundamentals of Remote Sensing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26062",
+    "name": "Disaster Management using GIS",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26063",
+    "name": "Urban & Smart City Geospatial Planning",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26071",
+    "name": "Artificial Intelligence in Geoinformatics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26072",
+    "name": "Geoinformatics Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26073",
+    "name": "Geo-Database Management System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26074",
+    "name": "Topographic Survey And Mapping",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26081",
+    "name": "Industrial Attachment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27711",
+    "name": "Glass engineering materials‐I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27721",
+    "name": "Glass Engineering Materials‐II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27731",
+    "name": "Glass Mould & Die‐I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27732",
+    "name": "Glass Plants & Equipment",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27733",
+    "name": "Preparation of Glass Raw Materials",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27741",
+    "name": "Glass Engineering Chemistry",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27742",
+    "name": "Glass Mould & Die ‐II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27743",
+    "name": "Glass Fabrication ‐I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27745",
+    "name": "Graphics Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27751",
+    "name": "Glass Melting Furnace",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27752",
+    "name": "Glass Fabrication‐II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27753",
+    "name": "Ceramic Manufracturing‐I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27761",
+    "name": "Ceramic Manufacturing‐II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27762",
+    "name": "Heat Transfer & Thermodynamics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27763",
+    "name": "Glass Quality Control‐I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27764",
+    "name": "Glass Products‐I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27765",
+    "name": "Glass Industrial Safety",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27771",
+    "name": "Glass Products‐II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27772",
+    "name": "Glass Quality Control‐II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27773",
+    "name": "Glass Decoration & Printing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27774",
+    "name": "Glass House Instrumentation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27775",
+    "name": "Furnace Design & Construction",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27776",
+    "name": "Glass Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27781",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29651",
+    "name": "Advertising Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29652",
+    "name": "Fabric Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29653",
+    "name": "Design & Editing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29661",
+    "name": "Desktop Publishing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29663",
+    "name": "Graphic Design-IV",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29665",
+    "name": "Graphic Professional Practice-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29671",
+    "name": "Animation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29673",
+    "name": "Advanced Digital Photography",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29674",
+    "name": "Graphic Design-V",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29676",
+    "name": "Graphic Professional Practice-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29681",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27441",
+    "name": "Environmental Surveying and Monitoring",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27451",
+    "name": "Survey for Development & Planning",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "26458",
+    "name": "Industrial Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27461",
+    "name": "Land Use & Zoning.",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27471",
+    "name": "Land Resource Survey Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27472",
+    "name": "Geospatial AI in Land Survey",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27473",
+    "name": "Urban & Rural Surveying and",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27481",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27961",
+    "name": "Power System Protection",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27972",
+    "name": "Advanced Machine Drawing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27973",
+    "name": "Marine IC Engine Overhauling and Record Keeping",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27975",
+    "name": "Applied Heat",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27981",
+    "name": "Presentation on Industrial",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27064",
+    "name": "Advanced Welding-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27074",
+    "name": "Mechanical Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29232",
+    "name": "Basic Mechatronics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29241",
+    "name": "Electrical Circuits & Machine",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29251",
+    "name": "Programmable Logic Controller",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29261",
+    "name": "Microprocessor & Microcontroller Aplications",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29262",
+    "name": "Instrumentation & Control System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29271",
+    "name": "Mechatronics Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29272",
+    "name": "Industrial Automation System Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29273",
+    "name": "Networks & Communications",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29274",
+    "name": "Robotics, Manufacture & Process Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29311",
+    "name": "Basics of Petroleum and Mining Geology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29321",
+    "name": "Mineralogy and Mineral Resource of Bangladesh",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29331",
+    "name": "Rock Mechanics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29332",
+    "name": "Mine Survey Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29341",
+    "name": "Petroleum Exploration Geology",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29342",
+    "name": "Mining System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29343",
+    "name": "Mine Machinaries and Maintanences",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29351",
+    "name": "Petroleum Reservoir Engineering and Modeling",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29352",
+    "name": "Mine Ventilation and Safety Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "69353",
+    "name": "Hydrogeology and Water Resources Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29361",
+    "name": "Petroleum Well Drilling and Completion",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29362",
+    "name": "Drilling, Blasting and Excavation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29371",
+    "name": "Name of Technology: Petroleum",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29372",
+    "name": "AI & Software Management in Petroleum and Mining",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29373",
+    "name": "Mine Planing and Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29374",
+    "name": "Geo-resource Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29381",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27361",
+    "name": "Advanced Photogrametry & Remote",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27362",
+    "name": "Topographic Survey & Planning",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27363",
+    "name": "Satellite Geodesy & GNSS",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27364",
+    "name": "Advanced UAV & RPAS Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27371",
+    "name": "Photogramtery & Remote Sensing Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27372",
+    "name": "AI for Photogrammetry & Remote Sensing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27381",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27141",
+    "name": "IC Engine Details",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27151",
+    "name": "Electricity,Electronics & Automation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27161",
+    "name": "Maintainance Engine Overhauling, Inspection & Testing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27171",
+    "name": "Operation,Estimating & Vechicle driving",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27173",
+    "name": "Power Engineering Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27181",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29551",
+    "name": "Flexo & Can Printing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29552",
+    "name": "Color Printing-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29553",
+    "name": "Printing Quality Control",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29554",
+    "name": "Ink & Paper",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29562",
+    "name": "Color Printing -II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29563",
+    "name": "Printing Professional Practice -I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29564",
+    "name": "Gravure Printing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29571",
+    "name": "Advanced Printing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29572",
+    "name": "Trouble Shooting Management in",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29573",
+    "name": "Print Finishing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29574",
+    "name": "Printing Professional Practice -II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29581",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27211",
+    "name": "RAC Fundamental",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27241",
+    "name": "Circuits and Electrical Machine in RAC",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27242",
+    "name": "Transport RAC",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27251",
+    "name": "Heating Ventilation & Air Conditioning (HVAC)",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27252",
+    "name": "Commercial & Industrial RAC",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27261",
+    "name": "Cooling &Heating Load Calculation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27262",
+    "name": "RAC Plant Installation Maintenance &",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27271",
+    "name": "RAC System Analysis",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27272",
+    "name": "RAC Project",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27273",
+    "name": "Advance RAC",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27274",
+    "name": "RAC for Food Preservation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27281",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28051",
+    "name": "Shipbuilding Drawing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28052",
+    "name": "Shipyard Practice",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28061",
+    "name": "Ship Design",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28063",
+    "name": "Estimating & Costing in Shipbuilding",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "28081",
+    "name": "Presentation on Industrial Atatchements",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27853",
+    "name": "Advanced Surveying-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27854",
+    "name": "Land Laws of Bangladesh",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27862",
+    "name": "Application of Python Programming",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27864",
+    "name": "Survey Project-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27872",
+    "name": "Survey Project-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "27873",
+    "name": "Remote Sensing",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "67881",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29411",
+    "name": "Basics of Telecommunication",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29431",
+    "name": "Telecom Workshop and Outside",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29441",
+    "name": "Radio and TV Engineering",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29442",
+    "name": "IT Support and IoT Basics",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29443",
+    "name": "Data Communications and",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29451",
+    "name": "Microcontroller Multimedia and Webpage",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29462",
+    "name": "Wireless and Mobile Communication",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29463",
+    "name": "Signals and Switching System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29471",
+    "name": "Microwave Engineering and Antennas",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29472",
+    "name": "Optical Fiber Communication",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29473",
+    "name": "Satellite Communication and",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29911",
+    "name": "Basics of Tourism and Hospitality",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29912",
+    "name": "Food Safety, Hygiene, and Sanitation for",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29921",
+    "name": "Tourism in Bangladesh",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29922",
+    "name": "Front Office Operation-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29923",
+    "name": "Field visit",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29931",
+    "name": "Consumer Behaviour",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29932",
+    "name": "Culinary Art-I",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29933",
+    "name": "Front Office Operation-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29934",
+    "name": "Travel Agency and Tour Operations",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29935",
+    "name": "Manners and Etiquettes in Tourism and Hospitality",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29936",
+    "name": "Tourism and Hospitality Laws",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29941",
+    "name": "Food & Beverage Service",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29942",
+    "name": "Bakery & Pastry Production",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29943",
+    "name": "Destination and Resort Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29944",
+    "name": "Accommodation and Room Division Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29945",
+    "name": "Human Resource Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29946",
+    "name": "Management Information System (MIS) in Tourism and Hospitality",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29947",
+    "name": "Tourism Geography",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29951",
+    "name": "Housekeeping & Laundry Operation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29952",
+    "name": "Culinary Art-II",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29953",
+    "name": "Meetings, Incentives, Conference, and Exhibitions (MICE) and Event Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29954",
+    "name": "Aviation and Flight Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29955",
+    "name": "Finance",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29956",
+    "name": "Hotel Engineering and Maintenance",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29961",
+    "name": "Risk and Crisis Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29962",
+    "name": "Property Management System (PMS)",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29963",
+    "name": "Community Based Tourism",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29964",
+    "name": "Communicative English for Hospitality",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29965",
+    "name": "Tour Guiding",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29966",
+    "name": "Restaurant Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29971",
+    "name": "Global Heritage and Culture",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29972",
+    "name": "E-ticketing and Global Distribution System",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29973",
+    "name": "Bar and Beverage Management",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29974",
+    "name": "Food & Beverage Production",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29975",
+    "name": "Smart Tourism Operation",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29976",
+    "name": "Sustainability in Tourism and Hospitality",
+    "entries": 1,
+    "dept_count": 1
+  },
+  {
+    "code": "29981",
+    "name": "Industrial Attachement",
+    "entries": 1,
+    "dept_count": 1
+  }
+]

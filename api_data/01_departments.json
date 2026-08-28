@@ -1,0 +1,251 @@
+{
+    "status": "success",
+    "message": "Data successfully returned",
+    "data": [
+        {
+            "id": 1,
+            "name": "COMPUTER SCIENCE & TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "name": "ELECTRICAL TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "CIVIL TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "MECHANICAL TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "Computer Science & Engineering",
+            "category": 2
+        },
+        {
+            "id": 6,
+            "name": "Electrical & Electronics Engineering",
+            "category": 2
+        },
+        {
+            "id": 7,
+            "name": "Civil Engineering",
+            "category": 2
+        },
+        {
+            "id": 8,
+            "name": "Mechanical Engineering",
+            "category": 2
+        },
+        {
+            "id": 11,
+            "name": "Computer Technology (SAE)",
+            "category": 3
+        },
+        {
+            "id": 12,
+            "name": "ELECTRONICS TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 13,
+            "name": "POWER TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 14,
+            "name": "Civil Technology (SAE)",
+            "category": 3
+        },
+        {
+            "id": 15,
+            "name": "TELECOMMUNICATION TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 16,
+            "name": "SURVEYING TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 17,
+            "name": "SHIPBUILDING TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 18,
+            "name": "REFRIGERATION & AIR-CONDITIONING   TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 19,
+            "name": "PRINTING TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 20,
+            "name": "MINING & MINE SURVEY TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 21,
+            "name": "MARINE TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 22,
+            "name": "MECHATRONICS TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 23,
+            "name": "INSTRUMENTATION & PROCESS CONTROL TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 24,
+            "name": "GRAPHICS TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 25,
+            "name": "GLASS TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 26,
+            "name": "FOOD TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 27,
+            "name": "ENVIRONMENTAL TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 28,
+            "name": "ELECTRO MEDICAL TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 29,
+            "name": "DATA TELECOMMUNICATION & NETWORKING TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 30,
+            "name": "CONSTRUCTION TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 31,
+            "name": "COMPUTER TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 32,
+            "name": "CIVIL (WOOD) TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 33,
+            "name": "CHEMICAL TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 34,
+            "name": "CERAMIC TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 35,
+            "name": "AUTOMOBILE TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 36,
+            "name": "ARCHITECTURE TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 38,
+            "name": "DIPLOMA IN  TEXTILE",
+            "category": 1
+        },
+        {
+            "id": 39,
+            "name": "FOOTWEAR TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 40,
+            "name": "AIRCRAFT MAINTENANCE TECHNOLOGY",
+            "category": 1
+        },
+        {
+            "id": 41,
+            "name": "DIPLOMA IN AGRICULTURE",
+            "category": 1
+        },
+        {
+            "id": 50,
+            "name": "Electrical Technology (SAE)",
+            "category": 3
+        },
+        {
+            "id": 51,
+            "name": "Electronics Technology (SAE)",
+            "category": 3
+        },
+        {
+            "id": 52,
+            "name": "Mechanical Technology (SAE)",
+            "category": 3
+        },
+        {
+            "id": 53,
+            "name": "Food Engineering",
+            "category": 2
+        },
+        {
+            "id": 54,
+            "name": "Chemical Engineering",
+            "category": 2
+        },
+        {
+            "id": 55,
+            "name": "Textile Engineering",
+            "category": 2
+        },
+        {
+            "id": 56,
+            "name": "AIDT",
+            "category": 1
+        },
+        {
+            "id": 57,
+            "name": "Architecture Engineering",
+            "category": 2
+        },
+        {
+            "id": 59,
+            "name": "DIPLOMA IN FORESTRY",
+            "category": 1
+        },
+        {
+            "id": 66,
+            "name": "ICT - HSC",
+            "category": 11
+        },
+        {
+            "id": 69,
+            "name": "Polytechnic Admission 2026",
+            "category": 4
+        }
+    ]
+}

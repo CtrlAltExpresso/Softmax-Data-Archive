@@ -1,0 +1,42 @@
+# --- Live credentials (DO NOT PUSH) ---
+.token
+.key
+*.env
+00_env_config.env
+
+# --- Excluded content areas (not in the selected push set) ---
+/archive/
+/FreeMax/
+/haqueproj/
+/androguard.log
+/softmax_request.txt
+
+# downloads: excluded subdirectories
+/downloads/bdebooks_polytechnic/
+/downloads/pass_books/
+/downloads/ebook_previews/
+/downloads/pass_book_previews/
+/downloads/e_chapters/
+/downloads/e_chapters_purchased/
+/downloads/all_echapters/
+/downloads/resource_pdfs/
+/downloads/purchased_book_chapters/
+/downloads/purchased_books_full/
+/downloads/suggestions/
+/downloads/video_metadata/
+/downloads/rev2_videos_urls/
+/downloads/rev2_exams/
+/downloads/rev2_answers/
+/downloads/resources/
+/downloads/video_links.html
+/downloads/video_links_organized.html
+/downloads/youtube_links_42600.json
+/downloads/youtube_links_254.json
+/downloads/exam_routine_2026.pdf
+/downloads/INVENTORY.json
+/downloads/video_download.log
+
+# misc
+__pycache__/
+*.pyc
+.DS_Store

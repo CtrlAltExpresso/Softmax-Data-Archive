@@ -1,0 +1,688 @@
+[
+  {
+    "id": 845,
+    "name": "Aptitude Test (Polytechnic Admission)",
+    "code": 21600101,
+    "chapters": 14,
+    "descs": 13
+  },
+  {
+    "id": 844,
+    "name": "Bangla (Polytechnic Admission)",
+    "code": 21580101,
+    "chapters": 16,
+    "descs": 16
+  },
+  {
+    "id": 843,
+    "name": "Chemistry(Polytechnic Admission)",
+    "code": 21550101,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 842,
+    "name": "English (Polytechnic Admission)",
+    "code": 21590101,
+    "chapters": 12,
+    "descs": 11
+  },
+  {
+    "id": 841,
+    "name": "Mathematics(Polytechnic Admission)",
+    "code": 21570101,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 840,
+    "name": "Physics (Polytechnic Admission)",
+    "code": 21560101,
+    "chapters": 13,
+    "descs": 13
+  },
+  {
+    "id": 834,
+    "name": "ম্যাথমেটিক্স-২(মাস্টার বুক)",
+    "code": 1000,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 833,
+    "name": "5th All Practical",
+    "code": 124,
+    "chapters": 2,
+    "descs": 1
+  },
+  {
+    "id": 832,
+    "name": "ওয়াটার সাপ্লাই ইঞ্জিনিয়ারিং(স্মার্ট)",
+    "code": 13050101,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 831,
+    "name": "সার্ভেয়িং-৩(স্মার্ট)",
+    "code": 112050101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 825,
+    "name": "2nd All Practical(Smart)",
+    "code": 1200,
+    "chapters": 4,
+    "descs": 2
+  },
+  {
+    "id": 824,
+    "name": "Mechanical Engineering Drawing(Smart)",
+    "code": 83,
+    "chapters": 5,
+    "descs": 5
+  },
+  {
+    "id": 823,
+    "name": "Electrical Engineering Drawing(Smart)",
+    "code": 81,
+    "chapters": 5,
+    "descs": 5
+  },
+  {
+    "id": 822,
+    "name": "Power Equipment Management and Safety(Smart)",
+    "code": 79,
+    "chapters": 10,
+    "descs": 5
+  },
+  {
+    "id": 817,
+    "name": "Civil Engineering Drawing(Smart)",
+    "code": 74,
+    "chapters": 5,
+    "descs": 5
+  },
+  {
+    "id": 811,
+    "name": "মাইক্রোপ্রসেসর অ্যান্ড মাইক্রোকন্ট্রোলার(স্মার্ট)",
+    "code": 52,
+    "chapters": 12,
+    "descs": 12
+  },
+  {
+    "id": 810,
+    "name": "ম্যানুফাকচারিং প্রসেস(স্মার্ট)",
+    "code": 29,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 809,
+    "name": "প্রিন্সিপাল অব মার্কেটিং(স্মার্ট)",
+    "code": 51,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 808,
+    "name": "টেস্টিং অ্যান্ড মেইন্টেনেন্স ইলেকট্রিক্যাল ইকুপমেন্ট(স্মার্ট)",
+    "code": 50,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 807,
+    "name": "ইলেকট্রিক্যাল এন্ড ইলেকট্রনিক্স মেজারমেন্ট-১(স্মার্ট)",
+    "code": 49,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 806,
+    "name": "ফাউন্ড্রি এন্ড প্যাটার্ণ মেকিং(স্মার্ট)",
+    "code": 27,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 805,
+    "name": "জেনারেশন অব ইলেকট্রিক্যাল পাওয়ার(স্মার্ট)",
+    "code": 48,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 804,
+    "name": "অ্যাডভান্সড ওয়েল্ডিং-১(স্মার্ট)",
+    "code": 26,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 803,
+    "name": "মেকানিক্যাল এস্টিমেটিং এন্ড কস্টিং(স্মার্ট)",
+    "code": 25,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 802,
+    "name": "সিভিল ক্যাড-২(স্মার্ট)",
+    "code": 47,
+    "chapters": 6,
+    "descs": 6
+  },
+  {
+    "id": 801,
+    "name": "ফ্লুইড মেকানিক্স এন্ড মেশিনারিজ(স্মার্ট)",
+    "code": 24,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 800,
+    "name": "ফাউন্ডেশন ইঞ্জিনিয়ারিং(স্মার্ট)",
+    "code": 46,
+    "chapters": 9,
+    "descs": 9
+  },
+  {
+    "id": 799,
+    "name": "থিওরি অব স্ট্রাকচার (স্মার্ট)",
+    "code": 45,
+    "chapters": 9,
+    "descs": 9
+  },
+  {
+    "id": 798,
+    "name": "অপারেটিং সিস্টেম(স্মার্ট)",
+    "code": 23,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 797,
+    "name": "ডাটা কমিনিকেশন(স্মার্ট)",
+    "code": 22,
+    "chapters": 13,
+    "descs": 13
+  },
+  {
+    "id": 796,
+    "name": "কম্পিউটার আর্কিটেকচার এন্ড মাইক্রোপ্রসেসর(স্মার্ট)",
+    "code": 21,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 795,
+    "name": "ওয়েব ডিজাইন এন্ড ডেভেলপমেন্ট-২(স্মার্ট)",
+    "code": 20,
+    "chapters": 6,
+    "descs": 6
+  },
+  {
+    "id": 794,
+    "name": "অ্যাপ্লিকেশন ডেভেলপমেন্ট ইউজিং জাভা(স্মার্ট)",
+    "code": 19,
+    "chapters": 9,
+    "descs": 9
+  },
+  {
+    "id": 793,
+    "name": "বায়োমেডিক্যাল ইনস্ট্রুমেন্ট(স্মার্ট)",
+    "code": 18,
+    "chapters": 12,
+    "descs": 12
+  },
+  {
+    "id": 791,
+    "name": "ইলেকট্রনিক অ্যাপ্লায়েন্স(স্মার্ট)",
+    "code": 17,
+    "chapters": 7,
+    "descs": 7
+  },
+  {
+    "id": 789,
+    "name": "টেলিভিশন ইঞ্জিনিয়ারিং(স্মার্ট)",
+    "code": 16,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 788,
+    "name": "হাইড্রোলিক্স(স্মার্ট)",
+    "code": 42,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 787,
+    "name": "ইন্ডাস্ট্রিয়াল ম্যানেজমেন্ট(স্মার্ট)",
+    "code": 41,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 786,
+    "name": "প্রোগ্রামিং ইন সি(স্মার্ট)",
+    "code": 15,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 693,
+    "name": "Metallurgy (Smart)",
+    "code": 11940101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 692,
+    "name": "Applied Mechanics  (Smart)",
+    "code": 13240101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 691,
+    "name": "Networks, Filters and Transmission lines (Smart)",
+    "code": 13840101,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 690,
+    "name": "Communication Engineering  (Smart)",
+    "code": 14140101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 689,
+    "name": "Machine Shop Practice III (smart)",
+    "code": 13940101,
+    "chapters": 5,
+    "descs": 5
+  },
+  {
+    "id": 514,
+    "name": "Environmental Studies (smart)",
+    "code": 290412,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 511,
+    "name": "Computer Peripherals & Interfacing  (smart)",
+    "code": 14040101,
+    "chapters": 13,
+    "descs": 13
+  },
+  {
+    "id": 502,
+    "name": "Wood Workshop Practice  (smart)",
+    "code": 13640101,
+    "chapters": 5,
+    "descs": 5
+  },
+  {
+    "id": 501,
+    "name": "Geotechnical Engineering (smart)",
+    "code": 13040101,
+    "chapters": 9,
+    "descs": 9
+  },
+  {
+    "id": 500,
+    "name": "Civil CAD-I  (smart)",
+    "code": 13440101,
+    "chapters": 5,
+    "descs": 5
+  },
+  {
+    "id": 499,
+    "name": "Estimating & Costing-I  (smart)",
+    "code": 12840101,
+    "chapters": 9,
+    "descs": 9
+  },
+  {
+    "id": 498,
+    "name": "Construction Process-II  (smart)",
+    "code": 13340101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 495,
+    "name": "Diploma Engineering Career Journey",
+    "code": 800120100,
+    "chapters": 6,
+    "descs": 1
+  },
+  {
+    "id": 494,
+    "name": "Surveying-II  (smart)",
+    "code": 12940101,
+    "chapters": 12,
+    "descs": 12
+  },
+  {
+    "id": 493,
+    "name": "Electrical Installation, Planning and Estimating (smart)",
+    "code": 10840101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 492,
+    "name": "DC Machine  (Smart)",
+    "code": 11440101,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 491,
+    "name": "Accounting (Smart)",
+    "code": 13740101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 489,
+    "name": "Digital Electronics (Smart)",
+    "code": 11130101,
+    "chapters": 14,
+    "descs": 14
+  },
+  {
+    "id": 487,
+    "name": "Web Design & Development-I (Smart)",
+    "code": 14240101,
+    "chapters": 6,
+    "descs": 6
+  },
+  {
+    "id": 485,
+    "name": "অ্যাপ্লিকেশন ডেভেলপমেন্ট ইউজিং জাভা",
+    "code": 11350101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 483,
+    "name": "Digital Electronics-2 (Smart)",
+    "code": 10950101,
+    "chapters": 9,
+    "descs": 9
+  },
+  {
+    "id": 482,
+    "name": "Data Structure and Algorithm  (Smart)",
+    "code": 103401001,
+    "chapters": 9,
+    "descs": 9
+  },
+  {
+    "id": 436,
+    "name": "Structural Mechanics (Smart)",
+    "code": 12740101,
+    "chapters": 9,
+    "descs": 9
+  },
+  {
+    "id": 435,
+    "name": "machine shop practice-2 (smart)",
+    "code": 11430101,
+    "chapters": 5,
+    "descs": 5
+  },
+  {
+    "id": 434,
+    "name": "IT Support Services (smart)",
+    "code": 11630101,
+    "chapters": 13,
+    "descs": 13
+  },
+  {
+    "id": 433,
+    "name": "Engineering Thermodynamics (smart)",
+    "code": 11530102,
+    "chapters": 15,
+    "descs": 14
+  },
+  {
+    "id": 431,
+    "name": "Refrigeration Cycles And Components (smart)",
+    "code": 10930102,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 430,
+    "name": "Surveying-I (smart)",
+    "code": 10330101,
+    "chapters": 12,
+    "descs": 12
+  },
+  {
+    "id": 420,
+    "name": "Mechanical Engineering Materials (Smart)",
+    "code": 11330101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 419,
+    "name": "construction process‐1 (Smart)",
+    "code": 10230101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 418,
+    "name": "Power Electronics (smart)",
+    "code": 10630101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 417,
+    "name": "Electrical circuits-2(smart)",
+    "code": 10530102,
+    "chapters": 14,
+    "descs": 14
+  },
+  {
+    "id": 416,
+    "name": "Mathematics-III(Smart)",
+    "code": 10130102,
+    "chapters": 17,
+    "descs": 17
+  },
+  {
+    "id": 415,
+    "name": "Business Communication(Smart)",
+    "code": 11230102,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 414,
+    "name": "Industrial Electronics(Smart)",
+    "code": 10830102,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 413,
+    "name": "Basic Application Development using Python(Smart)",
+    "code": 11030101,
+    "chapters": 12,
+    "descs": 12
+  },
+  {
+    "id": 412,
+    "name": "Digital Electronics –I (smart)",
+    "code": 11130102,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 409,
+    "name": "Electrical Appliances  (Smart)",
+    "code": 10730102,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 407,
+    "name": "Machine Shop Practice‐1(smart)",
+    "code": 12010101,
+    "chapters": 5,
+    "descs": 5
+  },
+  {
+    "id": 405,
+    "name": "Civil Engineering Materials (smart)",
+    "code": 10610102,
+    "chapters": 12,
+    "descs": 12
+  },
+  {
+    "id": 404,
+    "name": "Social Science (smart)",
+    "code": 11110102,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 403,
+    "name": "Electrical Engineering Materials (smart)",
+    "code": 11010102,
+    "chapters": 11,
+    "descs": 11
+  },
+  {
+    "id": 321,
+    "name": "Mathematics-II(smart)",
+    "code": 100420101,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 317,
+    "name": "Electronic Devices and Circuits(smart)",
+    "code": 11220101,
+    "chapters": 14,
+    "descs": 14
+  },
+  {
+    "id": 278,
+    "name": "অ্যাকাউন্টিং",
+    "code": 25841,
+    "chapters": 10,
+    "descs": 2
+  },
+  {
+    "id": 277,
+    "name": "Electrical Circuits-I (smart)",
+    "code": 10920101,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 276,
+    "name": "English-II (smart)",
+    "code": 10220101,
+    "chapters": 8,
+    "descs": 8
+  },
+  {
+    "id": 275,
+    "name": "Bangla –II (smart)",
+    "code": 10120101,
+    "chapters": 11,
+    "descs": 9
+  },
+  {
+    "id": 266,
+    "name": "Physics –2\t(Smart)",
+    "code": 11620101,
+    "chapters": 15,
+    "descs": 15
+  },
+  {
+    "id": 265,
+    "name": "Basic Electronics(Smart)",
+    "code": 10510101,
+    "chapters": 10,
+    "descs": 10
+  },
+  {
+    "id": 264,
+    "name": "Python Programming (Smart)",
+    "code": 10820101,
+    "chapters": 12,
+    "descs": 12
+  },
+  {
+    "id": 107,
+    "name": "Water resources engineering (16)",
+    "code": 66475,
+    "chapters": 11,
+    "descs": 1
+  },
+  {
+    "id": 103,
+    "name": "Accounting theory & practice (old)",
+    "code": 65851,
+    "chapters": 12,
+    "descs": 1
+  },
+  {
+    "id": 91,
+    "name": "Bangla –I (Smart)",
+    "code": 257111,
+    "chapters": 12,
+    "descs": 12
+  },
+  {
+    "id": 89,
+    "name": "Basic Electricity (Smart)",
+    "code": 11310101,
+    "chapters": 14,
+    "descs": 14
+  },
+  {
+    "id": 88,
+    "name": "Physics –I  (Smart)",
+    "code": 10310101,
+    "chapters": 16,
+    "descs": 16
+  },
+  {
+    "id": 87,
+    "name": "Mathematics-I (Smart)",
+    "code": 10410101,
+    "chapters": 16,
+    "descs": 15
+  },
+  {
+    "id": 86,
+    "name": "English-I (Smart)",
+    "code": 10210101,
+    "chapters": 10,
+    "descs": 3
+  },
+  {
+    "id": 84,
+    "name": "Chemistry (Smart)",
+    "code": 111111,
+    "chapters": 15,
+    "descs": 15
+  }
+]

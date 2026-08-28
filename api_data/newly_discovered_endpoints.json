@@ -1,0 +1,100 @@
+{
+  "discovered_session": "2026-08-26",
+  "new_endpoints_from_env_testing": {
+    "app/web/probidhan/": {
+      "var": "PROBIDHAN",
+      "method": "GET",
+      "returns": "Curriculum years: 2010 (id=1), 2016 (id=2), 2022 (id=3)",
+      "useful": false
+    },
+    "academic/suggestions/": {
+      "var": "NEW_SUGGESTIONS",
+      "method": "GET",
+      "returns": "Magic suggestion PDFs for enrolled subjects. Only shows current semester subjects. Returns signed S3 URLs.",
+      "useful": true,
+      "downloaded": 6 PDFs (19MB)
+    },
+    "academic/bteb-exam-routine/": {
+      "var": "BTEB_EXAM_ROUTINE",
+      "method": "GET",
+      "returns": "Exam routine with PDF file (S3 URL). 1 record for probidhan 2022.",
+      "useful": true,
+      "downloaded": "exam_routine_2026.pdf (1.4MB)"
+    },
+    "academic/bteb-exam-routine/amar-routine/": {
+      "method": "GET",
+      "returns": "Personal exam routine based on enrolled course. Shows subject_ids and codes.",
+      "useful": true
+    },
+    "academic/contact/": {
+      "method": "GET",
+      "returns": "Contact info: 09678677677, WhatsApp: 01322931783",
+      "useful": false
+    },
+    "academic/contact-interactions/": {
+      "method": "GET",
+      "returns": "8,643 user interaction records",
+      "useful": false
+    },
+    "app/web/session-drop-down-react-api/": {
+      "method": "GET",
+      "returns": "Session dropdown: values 1-11 (2018-2027)",
+      "useful": true
+    },
+    "user/check-force-update/": {
+      "method": "POST",
+      "params": "android_version, app_version",
+      "returns": "Latest version: 7.0, min required: 2.3.9",
+      "useful": true
+    },
+    "academic/enrolled/subject/details/": {
+      "method": "POST",
+      "params": "subject_id (or subject, id, semester, course)",
+      "returns": "Empty data for all params tested",
+      "useful": false,
+      "note": "Broken or requires different auth level"
+    },
+    "exam/exams/": {
+      "method": "GET",
+      "returns": "21,055 exam questions with chapter, type, options, correct_answers",
+      "useful": true,
+      "note": "Large dataset - contains full exam content"
+    },
+    "exam/user-exams/": {
+      "method": "GET",
+      "returns": "148,276 user exam records with subject/chapter mappings",
+      "useful": true
+    },
+    "affiliator/total-earned-points/": {
+      "method": "GET",
+      "returns": "Referral points: 0.0",
+      "useful": false
+    },
+    "affiliator/affiliator-faqs/": {
+      "method": "GET",
+      "returns": "8 FAQ items about referral system",
+      "useful": false
+    }
+  },
+  "hidden_routes_from_binary": {
+    "app_routes": [
+      "/download_course", "/download_subject", "/ebook", "/ebook_details",
+      "/ebook_search", "/free_video_list", "/my_ebook_chapter",
+      "/my_ebook_reader", "/my_ebooks", "/my_enrolled_list", "/my_smart_books",
+      "/book_list", "/answer_pdf_page", "/offline_video_player"
+    ],
+    "api_endpoints_from_binary": [
+      "academic/bteb-exam-routine/amar-routine/",
+      "academic/contact/",
+      "academic/contact-interactions/",
+      "academic/enrolled/subject/",
+      "academic/suggestions/",
+      "activity/service-visits/bulk-create/",
+      "user/check-force-update/"
+    ],
+    "new_cdn": "https://vz-49b1cbb9-009.b-cdn.net/ (403 blocked, different from main CDN)",
+    "google_spreadsheet": "https://docs.google.com/spreadsheets/d/1FmvcRn791WEvh-PJSnpdDj9h4AnV7L6fYNdXMruJWfM/ (Study & Win 2025 campaign winners list - not useful for books)",
+    "latest_app_version": "7.0 (we analyzed 2.3.13)",
+    "min_required_version": "2.3.9"
+  }
+}

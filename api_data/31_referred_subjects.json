@@ -1,0 +1,62 @@
+[
+  {
+    "id": 576078,
+    "name": "ম্যাথমেটিক্স ০২",
+    "instructor": "Softmax Instructors",
+    "price": [
+      {
+        "id": 1,
+        "title": "পাস কোর্স",
+        "price": 450,
+        "sell_price": 29,
+        "total_videos": 28
+      },
+      {
+        "id": 2,
+        "title": "অলরাউন্ডার",
+        "price": 600,
+        "sell_price": 499,
+        "total_videos": 106
+      },
+      {
+        "id": 3,
+        "title": "ডায়মন্ড",
+        "price": 800,
+        "sell_price": 599,
+        "total_videos": 106
+      }
+    ],
+    "category": "Polytechnic",
+    "product_type": "Refard",
+    "free_videos": [
+      {
+        "title": "f (x) = e^x + e^ x হলে দেখাও   f(2x) + f2y",
+        "youtube_link": "https://youtu.be/1vOJNDJdFvg"
+      },
+      {
+        "title": "ধ্রুবক (constant)",
+        "youtube_link": "https://youtu.be/yRjYGsPy9IU"
+      },
+      {
+        "title": "(সংক্ষিপ্ত প্রশ্নোত্তর) যদি fx = h  x k by h k +... তবে প্রমাণ কর fh + f h = fh+k",
+        "youtube_link": "https://youtu.be/nlqWBuyL88M"
+      },
+      {
+        "title": "(সংক্ষিপ্ত প্রশ্নোত্তর) যদি  y = fx = 4x 7 by 2x 4 হয় তবে দেখাও যে fy = x",
+        "youtube_link": "https://youtu.be/eTzQt1f5rLE"
+      },
+      {
+        "title": "ফাংশন এবং ফাংশনের লেখ অধ্যায়ের অতিসংক্ষিপ্ত প্রশ্নের উত্তর",
+        "youtube_link": "https://youtu.be/jaM74f3hKsc"
+      },
+      {
+        "title": "ফাংশন এবং ফাংশনের লেখ অধ্যায়ের বেসিক",
+        "youtube_link": "https://youtu.be/_0zgRWX1hhk"
+      }
+    ],
+    "image": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/subject/image/08/26/Mathematics-2-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131029Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a4a7af561ca4d480999bad22c875fcc28fbe1155c3828327a7c5d4f0dd9c8a6f",
+    "free_access": false,
+    "free_access_type": null,
+    "is_enrolled": false
+  }
+]

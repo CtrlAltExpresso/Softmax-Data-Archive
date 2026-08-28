@@ -1,0 +1,40 @@
+# Softmax Data Inventory
+# Generated: 2026-08-22 10:30
+
+Softmax Content:
+  E-chapters:       2400 (42 unique subjects)
+  Resources:        1000
+  Resource PDFs:    480 (42 unique subjects)
+  UEB books:        3
+  Videos:           42600
+
+Repo (FreeMax/Books):
+  Aerospace Aircraft Maintenance Technology ✈️: 23 PDFs
+  Architecture Technology 🏛️: 28 PDFs
+  Automobile Technology 🚗: 30 PDFs
+  Avionics Aircraft Maintenance Technology 🛰️: 13 PDFs
+  Cadastral Topographic Survey & Land Information Technology 🗺️: 5 PDFs
+  Ceramics Technology 🏺: 13 PDFs
+  Chemical Technology 🧪: 13 PDFs
+  Civil (Wood) Technology 🪵: 29 PDFs
+  Civil Technology 🏗️: 39 PDFs
+  Computer Science & Technology 💻: 36 PDFs
+  Construction Technology 🏗️: 31 PDFs
+  Electrical Technology 💡: 37 PDFs
+  Electromedical Technology 🩺: 22 PDFs
+  Electronics Technology 🔬: 30 PDFs
+  Environmental Technology 🌱: 26 PDFs
+  Food Technology 🍔: 15 PDFs
+  Footwear Technology 👟: 14 PDFs
+  Glass Technology 🪟: 14 PDFs
+  Graphic Design Technology 🎨: 13 PDFs
+  Marine Technology 🚢: 18 PDFs
+  Mechanical Technology ⚙️: 35 PDFs
+  Mechatronics Technology 🤖: 29 PDFs
+  Power Technology ⚡: 24 PDFs
+  Printing Technology 🖨️: 13 PDFs
+  RAC Technology ❄️: 24 PDFs
+  Shipbuilding Technology 🛠️: 15 PDFs
+  Surveying Technology 📐: 18 PDFs
+  Telecommunication Technology 📶: 21 PDFs
+  TOTAL: 628 PDFs

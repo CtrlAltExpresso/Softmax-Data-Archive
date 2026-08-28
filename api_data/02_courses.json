@@ -1,0 +1,4354 @@
+{
+    "status": "success",
+    "message": "Data successfully returned",
+    "data": [
+        {
+            "id": 148,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 41,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 146,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 39,
+            "semester": [
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 232,
+            "name": "Department (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 50,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 16,
+            "name": "1st- Semester (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 4,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 230,
+            "name": "Department (CMT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 11,
+            "semester": [
+                32,
+                31,
+                30,
+                29,
+                28,
+                27,
+                26,
+                25,
+                24,
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14,
+                13,
+                12,
+                11,
+                10,
+                9,
+                8,
+                7,
+                6,
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "duration": 11,
+            "session": 5
+        },
+        {
+            "id": 128,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 32,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 234,
+            "name": "Textile Engineering",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 55,
+            "semester": [
+                119,
+                102,
+                101,
+                91,
+                78,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 135,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 25,
+            "semester": [
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 174,
+            "name": "ELECTRICAL &ELECTRONICS ENGINEERING",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 6,
+            "semester": [
+                119,
+                102,
+                101,
+                91,
+                78,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 225,
+            "name": "Department (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 52,
+            "semester": [
+                32,
+                31,
+                30,
+                29,
+                28,
+                27,
+                26,
+                25,
+                24,
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14,
+                13,
+                12,
+                11,
+                10,
+                9,
+                8,
+                7,
+                6,
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "duration": 11,
+            "session": 5
+        },
+        {
+            "id": 15,
+            "name": "1st- Semester (PT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 13,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 129,
+            "name": "1st Semester (Construction)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 30,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 268,
+            "name": "Polytechnic \u200dAdmission  Course 2025",
+            "slug": null,
+            "is_active": true,
+            "category": 4,
+            "department": 65,
+            "semester": [
+                103
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 133,
+            "name": "1st Semester (Environment)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 27,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 141,
+            "name": "1st Semester (Ship)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 17,
+            "semester": [
+                103,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 177,
+            "name": "MECHANICAL ENGINEERING",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 8,
+            "semester": [
+                119,
+                102,
+                101,
+                91,
+                78,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 138,
+            "name": "1st Semester (Marine)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 21,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 44,
+            "name": "Department (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [],
+            "duration": 11,
+            "session": null
+        },
+        {
+            "id": 231,
+            "name": "Department (ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 51,
+            "semester": [
+                32,
+                31,
+                30,
+                29,
+                28,
+                27,
+                26,
+                25,
+                24,
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14,
+                13,
+                12,
+                11,
+                10,
+                9,
+                8,
+                7,
+                6,
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "duration": 11,
+            "session": 5
+        },
+        {
+            "id": 236,
+            "name": "Chemical Engineering",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 54,
+            "semester": [
+                119,
+                102,
+                101,
+                91,
+                78,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 147,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 40,
+            "semester": [
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 130,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 34,
+            "semester": [
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 168,
+            "name": "COMPUTER SCIENCE &  ENGINEERING",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 5,
+            "semester": [
+                119,
+                102,
+                101,
+                91,
+                78,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 136,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 24,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 131,
+            "name": "1st Semester (Chemical)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 33,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 137,
+            "name": "1st Semester (Mechatronics)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 22,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 173,
+            "name": "CIVIL ENGINEERING",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 7,
+            "semester": [
+                119,
+                102,
+                101,
+                91,
+                78,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 132,
+            "name": "1st Semester (EMT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 28,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 269,
+            "name": "\u09a4\u09a5\u09cd\u09af  \u0993 \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf",
+            "slug": null,
+            "is_active": true,
+            "category": 11,
+            "department": 66,
+            "semester": [
+                92
+            ],
+            "duration": 10,
+            "session": null
+        },
+        {
+            "id": 36,
+            "name": "1st Semester (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 2,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 258,
+            "name": "1st-Semester(Foresty)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 59,
+            "semester": [
+                53
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 3,
+            "name": "1st-Semester (ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 12,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 144,
+            "name": "1st Semester (TEX)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 38,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 140,
+            "name": "1st Semester (RAC)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 18,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 143,
+            "name": "1st Semester (Tel.)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 15,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 37,
+            "name": "1st-Semester (CST)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 1,
+            "semester": [
+                111,
+                103,
+                92,
+                53
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 127,
+            "name": "1st-Semester (Auto)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 35,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 23,
+            "name": "1st-Semester (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 3,
+            "semester": [
+                111,
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 142,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 16,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 139,
+            "name": "1st Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 19,
+            "semester": [
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 145,
+            "name": "1st Semester (Arch.)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 36,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 134,
+            "name": "1st Semester (FDT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 26,
+            "semester": [
+                103,
+                92,
+                53,
+                9
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 235,
+            "name": "Food Engineering",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 53,
+            "semester": [
+                119,
+                102,
+                101,
+                91,
+                78,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 226,
+            "name": "NON-Department (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 52,
+            "semester": [
+                32,
+                31,
+                30,
+                29,
+                28,
+                27,
+                26,
+                25,
+                24,
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14,
+                13,
+                12,
+                11,
+                10,
+                9,
+                8,
+                7,
+                6,
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "duration": 11,
+            "session": 5
+        },
+        {
+            "id": 66,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 28,
+            "semester": [
+                104,
+                93,
+                54,
+                10,
+                2
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 79,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 15,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 70,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 24,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 76,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 18,
+            "semester": [
+                104,
+                93,
+                54,
+                10,
+                2
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 75,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 19,
+            "semester": [
+                104,
+                93,
+                54,
+                10,
+                2
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 68,
+            "name": "2nd-Semester(FDT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 26,
+            "semester": [
+                104,
+                93,
+                54,
+                26,
+                18,
+                10,
+                2
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 77,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 17,
+            "semester": [
+                104,
+                93,
+                54
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 17,
+            "name": "2nd- Semester (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 4,
+            "semester": [
+                112,
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 65,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 29,
+            "semester": [
+                26,
+                18,
+                10
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 67,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 27,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 247,
+            "name": "DUET Dreamer (ME)-2025",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 8,
+            "semester": [
+                119,
+                91
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 175,
+            "name": "DUET Dreamer (EEE)-2025",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 6,
+            "semester": [
+                119,
+                91
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 169,
+            "name": "DUET Dreamer (CSE)-2025",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 5,
+            "semester": [
+                119,
+                91
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 242,
+            "name": "NON-Department(ARC)",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 57,
+            "semester": [
+                119,
+                102,
+                101,
+                95,
+                91,
+                78,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 55,
+            "name": "2nd-Semester (Arch.)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 36,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 14,
+            "name": "2nd-Semester (PT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 13,
+            "semester": [
+                112,
+                104,
+                93,
+                54,
+                10,
+                2
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 78,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 16,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 38,
+            "name": "2nd-Semester (CST)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 1,
+            "semester": [
+                112,
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 229,
+            "name": "NON-Department (CMT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 11,
+            "semester": [
+                32,
+                31,
+                30,
+                29,
+                28,
+                27,
+                26,
+                25,
+                24,
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14,
+                13,
+                12,
+                11,
+                10,
+                9,
+                8,
+                7,
+                6,
+                5,
+                4,
+                3,
+                2,
+                1
+            ],
+            "duration": 11,
+            "session": 5
+        },
+        {
+            "id": 233,
+            "name": "2nd semester (Tex)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 38,
+            "semester": [
+                112,
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 35,
+            "name": "2nd-Semester (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 2,
+            "semester": [
+                112,
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 1,
+            "name": "2nd-Semester (ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 12,
+            "semester": [
+                112,
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 61,
+            "name": "2nd-Semester (CER)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 34,
+            "semester": [
+                104,
+                54,
+                26,
+                18,
+                10,
+                2
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 227,
+            "name": "NON-Department (ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 51,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 248,
+            "name": "2nd- Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 41,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 45,
+            "name": "NON-Department (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [],
+            "duration": 11,
+            "session": null
+        },
+        {
+            "id": 60,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 35,
+            "semester": [
+                112,
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 270,
+            "name": "2nd- Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 40,
+            "semester": [
+                104,
+                93,
+                54
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 63,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 32,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 228,
+            "name": "NON-Department (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 50,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 74,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 20,
+            "semester": [
+                26,
+                18,
+                10
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 72,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 22,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 69,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 25,
+            "semester": [
+                54,
+                26,
+                18,
+                10,
+                2
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 62,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 33,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 24,
+            "name": "2nd-Semester (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 3,
+            "semester": [
+                112,
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 71,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 23,
+            "semester": [
+                26,
+                18
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 64,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 30,
+            "semester": [
+                104,
+                93,
+                54,
+                10,
+                2
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 172,
+            "name": "DUET Dreamer (CE)-2025",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 7,
+            "semester": [
+                119,
+                91
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 73,
+            "name": "2nd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 21,
+            "semester": [
+                104,
+                93,
+                54,
+                10
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 171,
+            "name": "DUET Dreamer (CE)-2026",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 7,
+            "semester": [
+                119,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 176,
+            "name": "DUET Dreamer (EEE)-2026",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 6,
+            "semester": [
+                119,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 179,
+            "name": "DUET Dreamer (ME)-2026",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 8,
+            "semester": [
+                119,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 165,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 32,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 154,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 22,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 163,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 34,
+            "semester": [
+                94,
+                55,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 158,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 40,
+            "semester": [
+                94,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 162,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 25,
+            "semester": [
+                55,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 34,
+            "name": "3rd-Semester (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 2,
+            "semester": [
+                113,
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 160,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 21,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 152,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 19,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 151,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 24,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 170,
+            "name": "DUET Dreamer (CSE)-2026",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 5,
+            "semester": [
+                119,
+                77
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 244,
+            "name": "Target-SAE-2027 (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 52,
+            "semester": [
+                53,
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 13,
+            "name": "3rd-Semester (PT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 13,
+            "semester": [
+                113,
+                105,
+                94,
+                55,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 149,
+            "name": "3rd Semester (RAC)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 18,
+            "semester": [
+                105,
+                94,
+                55,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 25,
+            "name": "3rd-Semester (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 3,
+            "semester": [
+                113,
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 157,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 28,
+            "semester": [
+                105,
+                94,
+                55,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 243,
+            "name": "Target-SAE-2027 (CMT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 11,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 246,
+            "name": "Target-SAE-2027 (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 50,
+            "semester": [
+                53,
+                52,
+                49
+            ],
+            "duration": null,
+            "session": 3
+        },
+        {
+            "id": 161,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 16,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 167,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 36,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 39,
+            "name": "3rd-Semester (CST)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 1,
+            "semester": [
+                113,
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 159,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 17,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 166,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 35,
+            "semester": [
+                113,
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 164,
+            "name": "3rd-Semester(FDT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 26,
+            "semester": [
+                105,
+                94,
+                55,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 155,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 27,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 156,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 30,
+            "semester": [
+                105,
+                94,
+                55,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 150,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 33,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 153,
+            "name": "3rd-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 15,
+            "semester": [
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 4,
+            "name": "3rd-Semester(ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 12,
+            "semester": [
+                113,
+                105,
+                94,
+                55,
+                11
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 18,
+            "name": "3rd- Semester (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 4,
+            "semester": [
+                113,
+                105,
+                94,
+                55,
+                11,
+                3
+            ],
+            "duration": null,
+            "session": 9
+        },
+        {
+            "id": 245,
+            "name": "Target-SAE-2027 (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                53,
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 40,
+            "name": "4th-Semester (CST)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 1,
+            "semester": [
+                114,
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 83,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 18,
+            "semester": [
+                106,
+                95,
+                56,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 96,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 31,
+            "semester": [
+                28,
+                20,
+                18,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 33,
+            "name": "4th-Semester (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 2,
+            "semester": [
+                114,
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 19,
+            "name": "4th- Semester (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 4,
+            "semester": [
+                114,
+                106,
+                95,
+                56,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 56,
+            "name": "4th-Semester (Arc)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 36,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 49,
+            "name": "PSC Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 26,
+            "name": "4th-Semester (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 3,
+            "semester": [
+                114,
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 5,
+            "name": "4th-Semester (ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 12,
+            "semester": [
+                114,
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 12,
+            "name": "4th-Semester (PT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 13,
+            "semester": [
+                114,
+                106,
+                95,
+                56,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 59,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 35,
+            "semester": [
+                114,
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 89,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 22,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 101,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 34,
+            "semester": [
+                56,
+                28,
+                20,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 85,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 20,
+            "semester": [
+                20,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 84,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 19,
+            "semester": [
+                56,
+                28,
+                20,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 94,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 29,
+            "semester": [
+                56,
+                28,
+                20,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 82,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 17,
+            "semester": [
+                106,
+                56,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 97,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 32,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 91,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 25,
+            "semester": [
+                106,
+                95,
+                56
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 102,
+            "name": "4th-Semester (FDT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 26,
+            "semester": [
+                106,
+                95,
+                56,
+                28,
+                20,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 81,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 16,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 95,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 30,
+            "semester": [
+                106,
+                95,
+                56,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 98,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 33,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 92,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 27,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 93,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 28,
+            "semester": [
+                95,
+                56,
+                20,
+                12,
+                4
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 80,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 15,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 182,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 40,
+            "semester": [
+                96,
+                5
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 271,
+            "name": "4th- Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 40,
+            "semester": [
+                95,
+                56
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 254,
+            "name": "DUET Dreamer (ME)-2027",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 8,
+            "semester": [
+                119,
+                78
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 255,
+            "name": "DUET Dreamer (EEE)-2027",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 6,
+            "semester": [
+                119,
+                78
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 256,
+            "name": "DUET Dreamer (CE)-2027",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 7,
+            "semester": [
+                119,
+                78
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 257,
+            "name": "DUET Dreamer (CSE)-2027",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 5,
+            "semester": [
+                119,
+                78
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 90,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 24,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 87,
+            "name": "4th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 21,
+            "semester": [
+                106,
+                95,
+                56,
+                12
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 263,
+            "name": "DUET Dreamer (ME)-2028",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 8,
+            "semester": [
+                119,
+                101
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 32,
+            "name": "5th-Semester (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 2,
+            "semester": [
+                115,
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 203,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 27,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 205,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 28,
+            "semester": [
+                107,
+                96,
+                57,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 184,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 39,
+            "semester": [
+                13,
+                5
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 195,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 15,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 201,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 22,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 41,
+            "name": "5th-Semester (CST)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 1,
+            "semester": [
+                115,
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 187,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 35,
+            "semester": [
+                115,
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 185,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 36,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 180,
+            "name": "5th-Semester (CMT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 31,
+            "semester": [
+                96,
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 207,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 17,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 213,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 25,
+            "semester": [
+                57,
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 237,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 29,
+            "semester": [
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 221,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 20,
+            "semester": [
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 239,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 56,
+            "semester": [
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 189,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 33,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 27,
+            "name": "5th-Semester (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 3,
+            "semester": [
+                115,
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 209,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 21,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 199,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 19,
+            "semester": [
+                57,
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 215,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 34,
+            "semester": [
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 197,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 24,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 223,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 23,
+            "semester": [
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 265,
+            "name": "DUET Dreamer (EEE)-2028",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 6,
+            "semester": [
+                119,
+                101
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 217,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 18,
+            "semester": [
+                107,
+                96,
+                57,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 11,
+            "name": "5th-Semester (PT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 13,
+            "semester": [
+                115,
+                107,
+                96,
+                57,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 264,
+            "name": "DUET Dreamer (CSE)-2028",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 5,
+            "semester": [
+                119,
+                101
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 50,
+            "name": "BWDB Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 211,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 16,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 194,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 30,
+            "semester": [
+                107,
+                96,
+                57,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 20,
+            "name": "5th- Semester (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 4,
+            "semester": [
+                115,
+                107,
+                96,
+                57,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 191,
+            "name": "5th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 32,
+            "semester": [
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 219,
+            "name": "5th-Semester(FDT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 26,
+            "semester": [
+                107,
+                96,
+                57,
+                29,
+                21,
+                13,
+                5
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 6,
+            "name": "5th-Semester (ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 12,
+            "semester": [
+                115,
+                107,
+                96,
+                57,
+                13
+            ],
+            "duration": null,
+            "session": 7
+        },
+        {
+            "id": 261,
+            "name": "DUET Dreamer (CE)-2028",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 7,
+            "semester": [
+                119,
+                101
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 7,
+            "name": "6th-Semester (ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 12,
+            "semester": [
+                116,
+                108,
+                97,
+                58,
+                14,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 57,
+            "name": "6th-Semester (Arc)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 36,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 125,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 23,
+            "semester": [],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 111,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 24,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 114,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 28,
+            "semester": [
+                108,
+                97,
+                58,
+                14,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 112,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 25,
+            "semester": [
+                58,
+                30,
+                22,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 42,
+            "name": "6th-Semester (CST)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 1,
+            "semester": [
+                116,
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 124,
+            "name": "6th-Semester (FDT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 26,
+            "semester": [
+                108,
+                97,
+                58,
+                30,
+                22,
+                14,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 10,
+            "name": "6th-Semester (PT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 13,
+            "semester": [
+                116,
+                108,
+                97,
+                58,
+                14,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 272,
+            "name": "6th- Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 40,
+            "semester": [
+                97,
+                58
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 120,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 34,
+            "semester": [
+                30,
+                22,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 106,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 18,
+            "semester": [
+                108,
+                97,
+                58,
+                14,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 119,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 33,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 116,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 30,
+            "semester": [
+                108,
+                97,
+                58,
+                14,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 241,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 56,
+            "semester": [
+                30,
+                22,
+                14,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 47,
+            "name": "BUET Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 115,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 29,
+            "semester": [
+                58,
+                30,
+                22,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 31,
+            "name": "6th-Semester (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 2,
+            "semester": [
+                116,
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 21,
+            "name": "6th- Semester (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 4,
+            "semester": [
+                116,
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 117,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 31,
+            "semester": [
+                30,
+                22,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 103,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 15,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 28,
+            "name": "6th-Semester (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 3,
+            "semester": [
+                116,
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 110,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 22,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 104,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 16,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 107,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 19,
+            "semester": [
+                58,
+                30,
+                22,
+                6
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 113,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 27,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 118,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 32,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 108,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 20,
+            "semester": [
+                30,
+                22
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 109,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 21,
+            "semester": [
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 58,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 35,
+            "semester": [
+                116,
+                108,
+                97,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 105,
+            "name": "6th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 17,
+            "semester": [
+                108,
+                58,
+                14
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 216,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 34,
+            "semester": [
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 198,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 24,
+            "semester": [
+                109,
+                98,
+                59
+            ],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 183,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 40,
+            "semester": [
+                98,
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 208,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 17,
+            "semester": [
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 193,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 30,
+            "semester": [
+                109,
+                98,
+                59,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 202,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 22,
+            "semester": [
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 192,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 32,
+            "semester": [
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 196,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 15,
+            "semester": [
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 190,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 33,
+            "semester": [
+                109,
+                59,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 188,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 35,
+            "semester": [
+                117,
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 186,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 36,
+            "semester": [
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 181,
+            "name": "7th-Semester (CMT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 31,
+            "semester": [
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 238,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 29,
+            "semester": [
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 240,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 56,
+            "semester": [
+                69,
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 210,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 21,
+            "semester": [
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 206,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 28,
+            "semester": [
+                109,
+                98,
+                59,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 214,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 25,
+            "semester": [
+                98,
+                59,
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 30,
+            "name": "7th-Semester (ET)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 2,
+            "semester": [
+                117,
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 29,
+            "name": "7th-Semester (CT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 3,
+            "semester": [
+                117,
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 220,
+            "name": "7th-Semester(FDT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 26,
+            "semester": [
+                109,
+                98,
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 218,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 18,
+            "semester": [
+                109,
+                98,
+                59,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 204,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 27,
+            "semester": [
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 212,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 16,
+            "semester": [
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 22,
+            "name": "7th- Semester (MT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 4,
+            "semester": [
+                117,
+                109,
+                98,
+                59,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 249,
+            "name": "DUET Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 9,
+            "name": "7th-Semester (PT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 13,
+            "semester": [
+                117,
+                109,
+                98,
+                59,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 43,
+            "name": "7h-Semester (CST)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 1,
+            "semester": [
+                117,
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 8,
+            "name": "7th-Semester (ENT)",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 12,
+            "semester": [
+                117,
+                109,
+                98,
+                59,
+                15
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 224,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 23,
+            "semester": [
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 222,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 20,
+            "semester": [
+                31,
+                23,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 200,
+            "name": "7th-Semester",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 19,
+            "semester": [
+                98,
+                59,
+                15,
+                7
+            ],
+            "duration": null,
+            "session": 5
+        },
+        {
+            "id": 54,
+            "name": "KUET Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 52,
+            "name": "RUET Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 250,
+            "name": "CUET Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 53,
+            "name": "DPI Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 51,
+            "name": "MIST Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 251,
+            "name": "IBA Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 252,
+            "name": "BANK Pattern",
+            "slug": null,
+            "is_active": true,
+            "category": 1,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": null,
+            "session": 3
+        },
+        {
+            "id": 48,
+            "name": "\u09ad\u09be\u0987\u09ac\u09be \u09aa\u09cd\u09b0\u09b6\u09cd\u09a8",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 46,
+            "name": "\u09ac\u09bf\u0997\u09a4 \u09b8\u09be\u09b2\u09c7\u09b0\u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8  \u09aa\u09b0\u09c0\u0995\u09cd\u09b7\u09be\u09b0  \u09b8\u09ae\u09be\u09a7\u09be\u09a8",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": 14,
+            "semester": [
+                52,
+                49
+            ],
+            "duration": 11,
+            "session": 3
+        },
+        {
+            "id": 276,
+            "name": "Exam Course (Pre. Admission)",
+            "slug": null,
+            "is_active": true,
+            "category": 4,
+            "department": null,
+            "semester": [],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 277,
+            "name": "DUET Admission Non-Departments",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": null,
+            "semester": [],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 278,
+            "name": "\u09a4\u09a5\u09cd\u09af  \u0993 \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf(exam)",
+            "slug": null,
+            "is_active": true,
+            "category": 11,
+            "department": null,
+            "semester": [],
+            "duration": null,
+            "session": null
+        },
+        {
+            "id": 287,
+            "name": "DUET Dreamer(CE)-2029",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 7,
+            "semester": [
+                119,
+                102
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 323,
+            "name": "DUET Dreamer (CSE)-2029",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 5,
+            "semester": [
+                119,
+                102
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 324,
+            "name": "DUET Dreamer (EEE)-2029",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 6,
+            "semester": [
+                119,
+                102
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 325,
+            "name": "DUET Dreamer (ME)-2029",
+            "slug": null,
+            "is_active": true,
+            "category": 2,
+            "department": 8,
+            "semester": [
+                119,
+                102
+            ],
+            "duration": null,
+            "session": 10
+        },
+        {
+            "id": 342,
+            "name": "Polytechnic \u200dAdmission  Course 2026",
+            "slug": null,
+            "is_active": true,
+            "category": 4,
+            "department": 69,
+            "semester": [
+                111
+            ],
+            "duration": null,
+            "session": 11
+        },
+        {
+            "id": 284,
+            "name": "Non Departments(Job)",
+            "slug": null,
+            "is_active": true,
+            "category": 3,
+            "department": null,
+            "semester": [],
+            "duration": null,
+            "session": null
+        }
+    ]
+}

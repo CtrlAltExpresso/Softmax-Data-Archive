@@ -1,0 +1,740 @@
+[
+  {
+    "id": 39,
+    "title": "পাস-বুক-অপারেটিং সিস্টেম",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Operating System",
+    "pages": 133,
+    "price": 95
+  },
+  {
+    "id": 49,
+    "title": "পাশ - ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 2,
+    "subject": "Electrical Engineering Materials",
+    "pages": 45,
+    "price": 15
+  },
+  {
+    "id": 50,
+    "title": "পাস-বুক-মেশিন শপ প্রাকটিস ১",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 2,
+    "subject": "Machine Shop Practice 1",
+    "pages": 68,
+    "price": 95
+  },
+  {
+    "id": 51,
+    "title": "Pass Book - বেসিক ইলেকট্রিসিটি",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 2,
+    "subject": "Basic Electricity",
+    "pages": 113,
+    "price": 88
+  },
+  {
+    "id": 52,
+    "title": "Pass Book - ম্যাথমেটিক্স ০১",
+    "department": "MATHEMATICS",
+    "semester": 1,
+    "subject": "Mathematics 01",
+    "pages": 155,
+    "price": 21
+  },
+  {
+    "id": 54,
+    "title": "Pass Book - সিভিল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Civil Engineering Materials",
+    "pages": 120,
+    "price": 11
+  },
+  {
+    "id": 56,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স ০১",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Digital Electronics 01",
+    "pages": 113,
+    "price": 95
+  },
+  {
+    "id": 57,
+    "title": "পাস বুক - ম্যাথমেটিক্স ০৩",
+    "department": "MATHEMATICS",
+    "semester": 3,
+    "subject": "Mathematics 03",
+    "pages": 170,
+    "price": 29
+  },
+  {
+    "id": 59,
+    "title": "পাস বুক - কনস্ট্রাকশন প্রসেস ০১",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Construction Process 01",
+    "pages": 90,
+    "price": 95
+  },
+  {
+    "id": 61,
+    "title": "পাস বুক - ইলেকট্রিক্যাল সার্কিট ০২",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 3,
+    "subject": "Electrical Circuit 02",
+    "pages": 170,
+    "price": 19
+  },
+  {
+    "id": 62,
+    "title": "পাস বুক - ইঞ্জিনিয়ারিং থার্মোডায়নামিক্স",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 3,
+    "subject": "Engineering Thermodynamics",
+    "pages": 132,
+    "price": 93
+  },
+  {
+    "id": 63,
+    "title": "পাস বুক - ইন্ডাস্ট্রিয়াল ইলেকট্রনিক্স",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 3,
+    "subject": "Industrial Electronics",
+    "pages": 156,
+    "price": 95
+  },
+  {
+    "id": 64,
+    "title": "পাস বুক - আইটি সাপোর্ট সার্ভিস",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "IT Support Service",
+    "pages": 99,
+    "price": 9
+  },
+  {
+    "id": 66,
+    "title": "পাস বুক - স্ট্রাকচারাল মেকানিক্স",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Structural Mechanics",
+    "pages": 132,
+    "price": 9
+  },
+  {
+    "id": 67,
+    "title": "পাস বুক - সার্ভেয়িং ০১",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Surveying 01",
+    "pages": 124,
+    "price": 9
+  },
+  {
+    "id": 68,
+    "title": "পাস বুক - অ্যাপ্লিকেশন ডেভেলপমেন্ট পাইথন",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Application Development Python",
+    "pages": 80,
+    "price": 95
+  },
+  {
+    "id": 101,
+    "title": "পাস বুক - ডিসি মেশিন",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 3,
+    "subject": "DC Machine",
+    "pages": 94,
+    "price": 29
+  },
+  {
+    "id": 102,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Digital Electronics",
+    "pages": 93,
+    "price": 19
+  },
+  {
+    "id": 103,
+    "title": "পাস বুক - ইলেকট্রিক্যাল ইন্সটলেশন প্লানিং এবং এস্টিমেটিং",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 3,
+    "subject": "Electrical Installation Planning & Estimating",
+    "pages": 97,
+    "price": 9
+  },
+  {
+    "id": 105,
+    "title": "পাস বুক - সিভিল ক্যাড ০১",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Civil CAD 01",
+    "pages": 50,
+    "price": 9
+  },
+  {
+    "id": 107,
+    "title": "পাস বুক - এস্টিমেটিং এন্ড কস্টিং ০১",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Estimating & Costing 01",
+    "pages": 132,
+    "price": 100
+  },
+  {
+    "id": 108,
+    "title": "পাস বুক - জিওটেকনিক্যাল ইঞ্জিনিয়ারিং",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Geotechnical Engineering",
+    "pages": 104,
+    "price": 31
+  },
+  {
+    "id": 109,
+    "title": "পাস বুক - হাইড্রোলজি",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Hydrology",
+    "pages": 137,
+    "price": 9
+  },
+  {
+    "id": 110,
+    "title": "পাস বুক - সার্ভেয়িং ০২",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Surveying 02",
+    "pages": 120,
+    "price": 19
+  },
+  {
+    "id": 111,
+    "title": "পাস বুক - অ্যাকাউন্টিং",
+    "department": "BUSINESS STUDIES",
+    "semester": 3,
+    "subject": "Accounting",
+    "pages": 115,
+    "price": 29
+  },
+  {
+    "id": 113,
+    "title": "পাস বুক - বিজনেস কমিউনিকেশন",
+    "department": "BUSINESS STUDIES",
+    "semester": 3,
+    "subject": "Business Communication",
+    "pages": 119,
+    "price": 95
+  },
+  {
+    "id": 114,
+    "title": "পাস বুক - ইঞ্জিনিয়ারিং মেকানিক্স",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 3,
+    "subject": "Engineering Mechanics",
+    "pages": 110,
+    "price": 33
+  },
+  {
+    "id": 115,
+    "title": "পাস বুক - কম্পিউটার পেরিফেরালস এন্ড ইন্টারফেসিং",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Computer Peripherals & Interfacing",
+    "pages": 119,
+    "price": 9
+  },
+  {
+    "id": 117,
+    "title": "পাস বুক - ডাটা স্ট্রাকচার অ্যান্ড অ্যালগরিদম",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Data Structure & Algorithm",
+    "pages": 110,
+    "price": 29
+  },
+  {
+    "id": 118,
+    "title": "পাস বুক- ফুয়েলস অ্যান্ড লুব্রিক্যান্টস",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 3,
+    "subject": "Fuels & Lubricants",
+    "pages": 81,
+    "price": 19
+  },
+  {
+    "id": 120,
+    "title": "পাস বুক - মেশিন শপ প্রাকটিস-৩",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 3,
+    "subject": "Machine Shop Practice-3",
+    "pages": 60,
+    "price": 14
+  },
+  {
+    "id": 121,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স-২",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Digital Electronics-2",
+    "pages": 126,
+    "price": 18
+  },
+  {
+    "id": 122,
+    "title": "পাস বুক - মেটালার্জি",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 3,
+    "subject": "Metallurgy",
+    "pages": 68,
+    "price": 19
+  },
+  {
+    "id": 124,
+    "title": "পাস বুক - জাভা প্রোগ্রামিং",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Java Programming",
+    "pages": 92,
+    "price": 9
+  },
+  {
+    "id": 126,
+    "title": "পাস বুক- ম্যাথমেটিক্স-২",
+    "department": "MATHEMATICS",
+    "semester": 2,
+    "subject": "Mathematics-2",
+    "pages": 139,
+    "price": 19
+  },
+  {
+    "id": 129,
+    "title": "পাস বুক- বাংলা-২",
+    "department": "BANGLA",
+    "semester": 2,
+    "subject": "Bangla-2",
+    "pages": 122,
+    "price": 19
+  },
+  {
+    "id": 130,
+    "title": "পাশ বুক - ইংলিশ-২",
+    "department": "ENGLISH",
+    "semester": 2,
+    "subject": "English-2",
+    "pages": 160,
+    "price": 95
+  },
+  {
+    "id": 131,
+    "title": "পাস বুক - পাইথন প্রোগ্রামিং",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 3,
+    "subject": "Python Programming",
+    "pages": 127,
+    "price": 95
+  },
+  {
+    "id": 132,
+    "title": "পাস বুক - মেকানিক্যাল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 3,
+    "subject": "Mechanical Engineering Drawing",
+    "pages": 50,
+    "price": 95
+  },
+  {
+    "id": 136,
+    "title": "পাস বুক - ইলেকট্রনিক ডিভাইসেস অ্যান্ড সাকির্টস্",
+    "department": "ELECTRONICS ENGINEERING",
+    "semester": 3,
+    "subject": "Electronic Devices & Circuits",
+    "pages": 139,
+    "price": 95
+  },
+  {
+    "id": 137,
+    "title": "পাস বুক - ইলেকট্রিক্যাল সার্কিট-১",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 3,
+    "subject": "Electrical Circuit-1",
+    "pages": 183,
+    "price": 95
+  },
+  {
+    "id": 138,
+    "title": "পাস বুক- সিভিল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "department": "CIVIL ENGINEERING",
+    "semester": 3,
+    "subject": "Civil Engineering Drawing",
+    "pages": 42,
+    "price": 95
+  },
+  {
+    "id": 139,
+    "title": "পাস বুক - ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 3,
+    "subject": "Electrical Engineering Drawing",
+    "pages": 39,
+    "price": 95
+  },
+  {
+    "id": 140,
+    "title": "পাস বুক - ফিজিক্স-২",
+    "department": "PHYSICS",
+    "semester": 2,
+    "subject": "Physics-2",
+    "pages": 129,
+    "price": 95
+  },
+  {
+    "id": 141,
+    "title": "পাশ বুক - বাংলা-১",
+    "department": "BANGLA",
+    "semester": 1,
+    "subject": "Bangla-1",
+    "pages": 93,
+    "price": 95
+  },
+  {
+    "id": 143,
+    "title": "পাশ বুক - পাওয়ার ইঞ্জিনিয়ারিং ফান্ডামেন্টাল",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 3,
+    "subject": "Power Engineering Fundamental",
+    "pages": 57,
+    "price": 10
+  },
+  {
+    "id": 144,
+    "title": "পাশ বুক - মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস্",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 3,
+    "subject": "Mechanical Engineering Materials",
+    "pages": 68,
+    "price": 95
+  },
+  {
+    "id": 145,
+    "title": "পাশ বুক - কমিউনিকেশন ইঞ্জিনিয়ারিং",
+    "department": "TELECOMMUNICATION",
+    "semester": 3,
+    "subject": "Communication Engineering",
+    "pages": 72,
+    "price": 9
+  },
+  {
+    "id": 152,
+    "title": "পাশ বুক - উড ওয়ার্কশপ প্র্যাকটিস",
+    "department": "WOODWORKING TECHNOLOGY",
+    "semester": 4,
+    "subject": "Wood Workshop Practice",
+    "pages": 52,
+    "price": 89
+  },
+  {
+    "id": 183,
+    "title": "পাশ-বুক-আরএসি সাইকেল এন্ড কম্পোনেন্ট",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 4,
+    "subject": "RAC Cycle & Component",
+    "pages": 86,
+    "price": 95
+  },
+  {
+    "id": 184,
+    "title": "পাস-বুক-পাওয়ার ইকুইপমেন্ট ম্যানেজমেন্ট এন্ড সেফটি",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 4,
+    "subject": "Power Equipment Management & Safety",
+    "pages": 60,
+    "price": 95
+  },
+  {
+    "id": 188,
+    "title": "পাস-বুক-সিভিল ক্যাড-২",
+    "department": "CIVIL ENGINEERING",
+    "semester": 4,
+    "subject": "Civil CAD-2",
+    "pages": 46,
+    "price": 9
+  },
+  {
+    "id": 190,
+    "title": "পাস-বুক-ডাটা কমিউনিকেশন",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 5,
+    "subject": "Data Communication",
+    "pages": 144,
+    "price": 31
+  },
+  {
+    "id": 191,
+    "title": "পাস-বুক-ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক মেজারমেন্ট-১",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 5,
+    "subject": "Electrical & Electronic Measurement-1",
+    "pages": 141,
+    "price": 95
+  },
+  {
+    "id": 192,
+    "title": "পাস-বুক-ইলেকট্রনিক অ্যাপ্লায়েন্স",
+    "department": "ELECTRONICS ENGINEERING",
+    "semester": 4,
+    "subject": "Electronic Appliance",
+    "pages": 68,
+    "price": 9
+  },
+  {
+    "id": 193,
+    "title": "পাসবুক-ফ্লুইড মেকানিক্স অ্যান্ড মেশিনারিজ",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 5,
+    "subject": "Fluid Mechanics & Machineries",
+    "pages": 167,
+    "price": 95
+  },
+  {
+    "id": 195,
+    "title": "পাস-বুক-ফাউন্ড্রি অ্যান্ড প্যাটার্ন মেকিং",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 5,
+    "subject": "Foundry & Pattern Making",
+    "pages": 129,
+    "price": 11
+  },
+  {
+    "id": 197,
+    "title": "পাস-বুক-হাইড্রোলিক্স",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 5,
+    "subject": "Hydraulics",
+    "pages": 179,
+    "price": 95
+  },
+  {
+    "id": 199,
+    "title": "পাস-বুক-ম্যানুফ্যাকচারিং প্রসেস",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 5,
+    "subject": "Manufacturing Process",
+    "pages": 197,
+    "price": 95
+  },
+  {
+    "id": 200,
+    "title": "পাস-বুক-মেকানিক্যাল এস্টিমেটিং এন্ড কস্টিং",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 5,
+    "subject": "Mechanical Estimating & Costing",
+    "pages": 90,
+    "price": 9
+  },
+  {
+    "id": 201,
+    "title": "পাস-বুক-মাইক্রোপ্রসেসর এন্ড মাইক্রোকন্ট্রোলার",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 5,
+    "subject": "Microprocessor & Microcontroller",
+    "pages": 131,
+    "price": 95
+  },
+  {
+    "id": 202,
+    "title": "পাসবুক-প্রিন্সিপাল অব মার্কেটিং",
+    "department": "BUSINESS STUDIES",
+    "semester": 5,
+    "subject": "Principle of Marketing",
+    "pages": 120,
+    "price": 92
+  },
+  {
+    "id": 203,
+    "title": "পাস-বুক-প্রোগ্রামিং ইন সি",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 5,
+    "subject": "Programming in C",
+    "pages": 226,
+    "price": 95
+  },
+  {
+    "id": 205,
+    "title": "পাস-বুক টেলিভিশন ইঞ্জিনিয়ারিং",
+    "department": "TELECOMMUNICATION",
+    "semester": 4,
+    "subject": "Television Engineering",
+    "pages": 136,
+    "price": 9
+  },
+  {
+    "id": 207,
+    "title": "পাস-বুক- থিওরি অব স্ট্রাকচার",
+    "department": "CIVIL ENGINEERING",
+    "semester": 5,
+    "subject": "Theory of Structure",
+    "pages": 232,
+    "price": 25
+  },
+  {
+    "id": 208,
+    "title": "পাস-বুক-ওয়াটার সাপ্লাই ইঞ্জিনিয়ারিং",
+    "department": "CIVIL ENGINEERING",
+    "semester": 5,
+    "subject": "Water Supply Engineering",
+    "pages": 142,
+    "price": 95
+  },
+  {
+    "id": 209,
+    "title": "পাস-বুক-ওয়েব ডিজাইন এন্ড ডেভেলপমেন্ট-২",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 5,
+    "subject": "Web Design & Development-2",
+    "pages": 57,
+    "price": 9
+  },
+  {
+    "id": 211,
+    "title": "পাশ-বুক-অ্যাপস ডেভেলপমেন্ট প্রজেক্ট",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 5,
+    "subject": "Apps Development Project",
+    "pages": 83,
+    "price": 60
+  },
+  {
+    "id": 212,
+    "title": "পাশবুক-কনস্ট্রাকশন ম্যানেজমেন্ট অ্যান্ড ডকুমেন্টেশন",
+    "department": "CIVIL ENGINEERING",
+    "semester": 5,
+    "subject": "Construction Management & Documentation",
+    "pages": 71,
+    "price": 72
+  },
+  {
+    "id": 213,
+    "title": "পাশ বুক-সাইবার সিকিউরিটি অ্যান্ড এথিক্স",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 5,
+    "subject": "Cyber Security & Ethics",
+    "pages": 89,
+    "price": 77
+  },
+  {
+    "id": 215,
+    "title": "পাশ-বুক-ইন্ডাস্ট্রিয়াল অটোমেশন অ্যান্ড পিএলসি",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 5,
+    "subject": "Industrial Automation & PLC",
+    "pages": 66,
+    "price": 80
+  },
+  {
+    "id": 217,
+    "title": "পাশবুক-মেকাট্রনিক্স অ্যান্ড পিএলসি",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 5,
+    "subject": "Mechatronics & PLC",
+    "pages": 115,
+    "price": 79
+  },
+  {
+    "id": 218,
+    "title": "পাশ বুক-মাল্টিমিডিয়া অ্যান্ড অ্যানিমেশন",
+    "department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "semester": 5,
+    "subject": "Multimedia & Animation",
+    "pages": 85,
+    "price": 90
+  },
+  {
+    "id": 220,
+    "title": "পাশবুক-স্যানিটারি ইঞ্জিনিয়ারিং",
+    "department": "CIVIL ENGINEERING",
+    "semester": 5,
+    "subject": "Sanitary Engineering",
+    "pages": 63,
+    "price": 80
+  },
+  {
+    "id": 221,
+    "title": "পাশবুক - সুইচগিয়ার অ্যান্ড প্রোটেকশন",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 5,
+    "subject": "Switchgear & Protection",
+    "pages": 113,
+    "price": 70
+  },
+  {
+    "id": 222,
+    "title": "পাশ-বুক-ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন অব ইলেকট্রিক্যাল পাওয়ার-০২",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 5,
+    "subject": "Transmission & Distribution of Electrical Power",
+    "pages": 89,
+    "price": 85
+  },
+  {
+    "id": 226,
+    "title": "পাশ বুক-এস্টিমেট অ্যান্ড কস্টিং-২",
+    "department": "CIVIL ENGINEERING",
+    "semester": 5,
+    "subject": "Estimate & Costing-2",
+    "pages": 158,
+    "price": 88
+  },
+  {
+    "id": 227,
+    "title": "পাশ বুক- কন্ট্রোল সিস্টেম অ্যান্ড রোবোটিক্স",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 5,
+    "subject": "Control System & Robotics",
+    "pages": 67,
+    "price": 80
+  },
+  {
+    "id": 230,
+    "title": "পাশবুক-প্রোডাকশন প্ল্যানিং অ্যান্ড কন্ট্রোল",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 5,
+    "subject": "Production Planning & Control",
+    "pages": 102,
+    "price": 68
+  },
+  {
+    "id": 231,
+    "title": "পাশবুক-টুল ডিজাইন",
+    "department": "MECHANICAL ENGINEERING",
+    "semester": 5,
+    "subject": "Tool Design",
+    "pages": 121,
+    "price": 65
+  },
+  {
+    "id": 234,
+    "title": "ই-বুক-নেটওয়ার্ক ফিল্টার অ্যান্ড ট্রান্সমিশন লাইন",
+    "department": "TELECOMMUNICATION",
+    "semester": 5,
+    "subject": "Network Filter & Transmission Line",
+    "pages": 0,
+    "price": 100
+  },
+  {
+    "id": 235,
+    "title": "পাস-বুক-ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক মেজারমেন্টস-২",
+    "department": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "semester": 5,
+    "subject": "Electrical & Electronic Measurements-2",
+    "pages": 0,
+    "price": 9
+  }
+]

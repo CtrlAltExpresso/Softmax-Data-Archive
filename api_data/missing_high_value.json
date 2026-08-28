@@ -1,0 +1,278 @@
+[
+  {
+    "code": "25712",
+    "name": "English-I",
+    "entries": 33,
+    "dept_count": 33
+  },
+  {
+    "code": "25812",
+    "name": "Physical Education & Life skills Development",
+    "entries": 33,
+    "dept_count": 33
+  },
+  {
+    "code": "21011",
+    "name": "Engineering Drawing",
+    "entries": 32,
+    "dept_count": 32
+  },
+  {
+    "code": "25913",
+    "name": "Chemistry",
+    "entries": 32,
+    "dept_count": 32
+  },
+  {
+    "code": "28511",
+    "name": "Computer Office Application",
+    "entries": 32,
+    "dept_count": 32
+  },
+  {
+    "code": "26811",
+    "name": "Basic Electronics",
+    "entries": 31,
+    "dept_count": 31
+  },
+  {
+    "code": "No Code",
+    "name": "Project Presentation",
+    "entries": 31,
+    "dept_count": 31
+  },
+  {
+    "code": "25852",
+    "name": "Industrial Management",
+    "entries": 30,
+    "dept_count": 30
+  },
+  {
+    "code": "27011",
+    "name": "Basic Workshop Practice",
+    "entries": 21,
+    "dept_count": 21
+  },
+  {
+    "code": "27061",
+    "name": "Strength of Materials",
+    "entries": 8,
+    "dept_count": 8
+  },
+  {
+    "code": "27063",
+    "name": "CAD & CAM",
+    "entries": 8,
+    "dept_count": 8
+  },
+  {
+    "code": "26434",
+    "name": "Basic Construction Process",
+    "entries": 6,
+    "dept_count": 6
+  },
+  {
+    "code": "26464",
+    "name": "Design of Structure-I",
+    "entries": 6,
+    "dept_count": 6
+  },
+  {
+    "code": "27821",
+    "name": "Basic Surveying",
+    "entries": 6,
+    "dept_count": 6
+  },
+  {
+    "code": "27852",
+    "name": "Advanced Surveying-II",
+    "entries": 6,
+    "dept_count": 5
+  },
+  {
+    "code": "27071",
+    "name": "Design of Machine Elements",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "25916",
+    "name": "Statistics",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27831",
+    "name": "Leveling",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27832",
+    "name": "Survey CAD",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27833",
+    "name": "Geography of Bangladesh",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27834",
+    "name": "Geodetic Surveying",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27841",
+    "name": "Aerial Photography and Photogrammetry",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27842",
+    "name": "Fundamentals of GIS",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27844",
+    "name": "Digital Cartography",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27851",
+    "name": "Hydraulics & Hydrology",
+    "entries": 5,
+    "dept_count": 4
+  },
+  {
+    "code": "26463",
+    "name": "Transportation Engineering-I",
+    "entries": 5,
+    "dept_count": 5
+  },
+  {
+    "code": "27081",
+    "name": "Industrial Attachement",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27062",
+    "name": "Mechanical Measurement &",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27843",
+    "name": "Advanced Surveying-I",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27365",
+    "name": "Fundamental of Python Programming",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27452",
+    "name": "Land Laws and Record Management",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27462",
+    "name": "Fundamental of Transportation Engineering2",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27861",
+    "name": "Principles of Topographic Survey",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27572",
+    "name": "Basic Design of structure",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "26473",
+    "name": "Transportation Engineering-II",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "26761",
+    "name": "AC Machine-I",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "26771",
+    "name": "AC Machine-II",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27871",
+    "name": "Mine Survey",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "27065",
+    "name": "Plant Engineering & Maintainance",
+    "entries": 4,
+    "dept_count": 4
+  },
+  {
+    "code": "26211",
+    "name": "Automobile Fundamentals",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "26052",
+    "name": "Basic Geotechnical & foundation Engineering",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "27373",
+    "name": "Remote Sensing",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "27374",
+    "name": "Survey Management and Documentation",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "26441",
+    "name": "Construction Process-II",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "26451",
+    "name": "Foundation Engineering",
+    "entries": 3,
+    "dept_count": 3
+  },
+  {
+    "code": "26751",
+    "name": "Generation of Electrical Power",
+    "entries": 3,
+    "dept_count": 3
+  }
+]

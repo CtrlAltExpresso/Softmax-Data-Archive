@@ -1,0 +1,198 @@
+[
+  {
+    "method": "GET",
+    "endpoint": "ebooks/category-subjects/",
+    "code": "200",
+    "body_preview": "{\"count\":82,\"next\":\"http://softmaxmanager.xyz/api/v1/ebooks/category-subjects/?limit=10&offset=10\",\"previous\":null,\"results\":[{\"id\":205,\"title\":\"পাস-বুক টেলিভিশন ইঞ্জিনিয়ারিং\",\"eSubjectImage\":{\"value\"",
+    "full_body": "{\"count\":82,\"next\":\"http://softmaxmanager.xyz/api/v1/ebooks/category-subjects/?limit=10&offset=10\",\"previous\":null,\"results\":[{\"id\":205,\"title\":\"পাস-বুক টেলিভিশন ইঞ্জিনিয়ারিং\",\"eSubjectImage\":{\"value\":908,\"label\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/06/26/%E0%A6%9F%E0%A6%B2%E0%A6%AD%E0%A6%B6%E0%A6%A8_%E0%A6%87%E0%A6%9E%E0%A6%9C%E0%A6%A8%E0%A6%AF%E0%A6%B0_4_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105620Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8ba8465901cc16b4abaff2ea7226491069840d05d1ef04770999a589b778500b\"},\"publications\":null,\"price\":160,\"sell_price\":9,\"already_purchased\":false},{\"id\":39,\"title\":\"পাস-বুক-অপারেটিং সিস্টেম\",\"eSubjectImage\":{\"value\":79,\"label\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/04/26/Operating_System-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105620Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a61c715499354eb3bdedff1eb4f02e45f9d5ef169d5d9722636fd03248a17f81\"},\"publications\":null,\"price\":160,\"sell_price\":95,\"already_purchased\":false},{\"id\":56,\"title\":\"পাস বুক - ডিজিটাল ইলেকট্রনিক্স ০১\",\"eSubjectImage\":{\"value\":139,\"label\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%A1%E0%A6%9C%E0%A6%9F%E0%A6%B2_%E0%A6%87%E0%A6%B2%E0%A6%95%E0%A6%9F%E0%A6%B0%E0%A6%A8%E0%A6%95%E0%A6%B8-%E0%A7%A7-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105620Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=58d1883747f8b4f41479b2f32d123e50f940cbfd4fbcdbbf9227260b596780fa\"},\"publications\":null,\"price\":160,\"sell_price\":95,\"already_purchased\":false},{\"id\":183,\"title\":\"পাশ-বুক-আরএসি সাইকেল এন্ড কম্"
+  },
+  {
+    "method": "GET",
+    "endpoint": "ebooks/category-subjects/?category=Polytechnic",
+    "code": "500",
+    "body_preview": "<!doctype html> <html lang=\"en\"> <head>   <title>Server Error (500)</title> </head> <body>   <h1>Server Error (500)</h1><p></p> </body> </html> ",
+    "full_body": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <title>Server Error (500)</title>\n</head>\n<body>\n  <h1>Server Error (500)</h1><p></p>\n</body>\n</html>\n"
+  },
+  {
+    "method": "GET",
+    "endpoint": "ebooks/esubject/prices/",
+    "code": "405",
+    "body_preview": "{\"detail\":\"Method \\\"GET\\\" not allowed.\"}",
+    "full_body": "{\"detail\":\"Method \\\"GET\\\" not allowed.\"}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "ebooks/esubject/user/",
+    "code": "200",
+    "body_preview": "{\"active_semester_books\":[{\"id\":57,\"title\":\"পাস বুক - ম্যাথমেটিক্স ০৩\",\"eSubjectImage\":{\"value\":141,\"label\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%AE",
+    "full_body": "{\"active_semester_books\":[{\"id\":57,\"title\":\"পাস বুক - ম্যাথমেটিক্স ০৩\",\"eSubjectImage\":{\"value\":141,\"label\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%AE%E0%A6%AF%E0%A6%A5%E0%A6%AE%E0%A6%9F%E0%A6%95%E0%A6%B8_%E0%A7%A9-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105621Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bb657a28a5b60ea19aa50e9cd5d81fd62f475d39c6bbefd63819515315b5c31a\"},\"eChapters\":[{\"id\":566,\"serial\":2,\"title\":\"অধ্যায়- ২\",\"eChapterImage\":null,\"eChapterPreview\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105621Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d75717edcd391e2b3225f323ef51bffd4fb11c97f3bf34b66281749cf0fad832\"},{\"id\":568,\"serial\":4,\"title\":\"অধ্যায়- ৪\",\"eChapterImage\":null,\"eChapterPreview\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105621Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d0e2c872774048efce8d2bfa7afb80cc913cfc05eff4ac4c47ea7cfac684317d\"},{\"id\":571,\"serial\":7,\"title\":\"অধ্যায়- ৭(ক)\",\"eChapterImage\":null,\"eChapterPreview\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-7.1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105621Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=39a32b925005404c2f89c50e7f983ef47a424e81dda2c2999f25f5b20f5afbfc\"},{\"id\":572,\"serial\":7,\"title\":\"অ"
+  },
+  {
+    "method": "GET",
+    "endpoint": "ebooks/suggestion/",
+    "code": "200",
+    "body_preview": "{\"count\":0,\"next\":null,\"previous\":null,\"results\":[]}",
+    "full_body": "{\"count\":0,\"next\":null,\"previous\":null,\"results\":[]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "ebooks/add-remove-ebook-cart/",
+    "code": "405",
+    "body_preview": "{\"detail\":\"Method \\\"GET\\\" not allowed.\"}",
+    "full_body": "{\"detail\":\"Method \\\"GET\\\" not allowed.\"}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "ebooks/add-remove-ebook-cart/?action=list",
+    "code": "405",
+    "body_preview": "{\"detail\":\"Method \\\"GET\\\" not allowed.\"}",
+    "full_body": "{\"detail\":\"Method \\\"GET\\\" not allowed.\"}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/department-book-list/",
+    "code": "200",
+    "body_preview": "{\"count\":1381,\"next\":\"http://softmaxmanager.xyz/api/v1/academic/department-book-list/?limit=10&offset=10\",\"previous\":null,\"results\":[{\"id\":3335,\"department_name\":\"Architecture\",\"department_code\":\"61\",",
+    "full_body": "{\"count\":1381,\"next\":\"http://softmaxmanager.xyz/api/v1/academic/department-book-list/?limit=10&offset=10\",\"previous\":null,\"results\":[{\"id\":3335,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":1,\"subject_name\":\"Engineering Drawing\",\"subject_code\":\"21011\",\"subject_type\":null},{\"id\":3336,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":1,\"subject_name\":\"Bangla-I\",\"subject_code\":\"25711\",\"subject_type\":null},{\"id\":3337,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":1,\"subject_name\":\"English-I\",\"subject_code\":\"25712\",\"subject_type\":null},{\"id\":3342,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":2,\"subject_name\":\"Bangla -II\",\"subject_code\":\"25721\",\"subject_type\":null},{\"id\":3343,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":2,\"subject_name\":\"English-II\",\"subject_code\":\"25722\",\"subject_type\":null},{\"id\":3356,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":4,\"subject_name\":\"Social Science\",\"subject_code\":\"25811\",\"subject_type\":null},{\"id\":3364,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":5,\"subject_name\":\"Business Communication\",\"subject_code\":\"25831\",\"subject_type\":null},{\"id\":3357,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":4,\"subject_name\":\"Accounting\",\"subject_code\":\"25841\",\"subject_type\":null},{\"id\":3379,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":7,\"subject_name\":\"Principles of Marketing\",\"subject_code\":\"25851\",\"subject_type\":null},{\"id\":3371,\"department_name\":\"Architecture\",\"department_code\":\"61\",\"semester\":6,\"subject_name\":\"Industrial Management\",\"subject_code\":\"25852\",\"subject_type\":null}]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/department-book-list/?department=1",
+    "code": "200",
+    "body_preview": "{\"count\":51,\"next\":\"http://softmaxmanager.xyz/api/v1/academic/department-book-list/?department=1&limit=10&offset=10\",\"previous\":null,\"results\":[{\"id\":4255,\"department_name\":\"Computer Science and Techn",
+    "full_body": "{\"count\":51,\"next\":\"http://softmaxmanager.xyz/api/v1/academic/department-book-list/?department=1&limit=10&offset=10\",\"previous\":null,\"results\":[{\"id\":4255,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":1,\"subject_name\":\"Engineering Drawing\",\"subject_code\":\"21011\",\"subject_type\":null},{\"id\":4256,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":1,\"subject_name\":\"Bangla-I\",\"subject_code\":\"25711\",\"subject_type\":null},{\"id\":4257,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":1,\"subject_name\":\"English-I\",\"subject_code\":\"25712\",\"subject_type\":null},{\"id\":4262,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":2,\"subject_name\":\"Bangla -II\",\"subject_code\":\"25721\",\"subject_type\":null},{\"id\":4263,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":2,\"subject_name\":\"English-II\",\"subject_code\":\"25722\",\"subject_type\":null},{\"id\":4270,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":3,\"subject_name\":\"Social Science\",\"subject_code\":\"25811\",\"subject_type\":null},{\"id\":4264,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":2,\"subject_name\":\"Physical Education & Life skills Development\",\"subject_code\":\"25812\",\"subject_type\":null},{\"id\":4277,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":4,\"subject_name\":\"Business Communication\",\"subject_code\":\"25831\",\"subject_type\":null},{\"id\":4284,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":5,\"subject_name\":\"Accounting\",\"subject_code\":\"25841\",\"subject_type\":null},{\"id\":4291,\"department_name\":\"Computer Science and Technology\",\"department_code\":\"85\",\"semester\":6,\"subject_name\":\"Principles of Marketing\",\"subject_code\":\"25851\",\"subject_type\":null}]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/smart-book/list/",
+    "code": "200",
+    "body_preview": "{\"count\":3,\"next\":null,\"previous\":null,\"results\":[{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"",
+    "full_body": "{\"count\":3,\"next\":null,\"previous\":null,\"results\":[{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":0},{\"id\":31,\"name\":\"Smart Book 5th Semester\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1600,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":600},{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":0}]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/smart-book/list/?department=1",
+    "code": "200",
+    "body_preview": "{\"count\":3,\"next\":null,\"previous\":null,\"results\":[{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"",
+    "full_body": "{\"count\":3,\"next\":null,\"previous\":null,\"results\":[{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":0},{\"id\":31,\"name\":\"Smart Book 5th Semester\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1600,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":600},{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":0}]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/smart-book/recommendations/",
+    "code": "200",
+    "body_preview": "{\"count\":3,\"next\":null,\"previous\":null,\"results\":[{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"",
+    "full_body": "{\"count\":3,\"next\":null,\"previous\":null,\"results\":[{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":0},{\"id\":31,\"name\":\"Smart Book 5th Semester\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1600,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":600},{\"id\":10,\"name\":\"1st Semester Smart Book\",\"is_publish\":true,\"is_purchased\":false,\"is_active\":false,\"is_upcoming\":true,\"price\":1500,\"sell_price\":1450,\"cover\":null,\"preview\":null,\"no_of_page\":0}]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/enrolled/subject/details/?id=1",
+    "code": "405",
+    "body_preview": "{\"detail\":\"Method \\\"GET\\\" not allowed.\"}",
+    "full_body": "{\"detail\":\"Method \\\"GET\\\" not allowed.\"}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/my-purchase-course/",
+    "code": "200",
+    "body_preview": "{\"status\":\"success\",\"message\":\"Data successfully returned\",\"data\":{\"enrolled_courses\":[],\"enrolled_subjects\":[]}}",
+    "full_body": "{\"status\":\"success\",\"message\":\"Data successfully returned\",\"data\":{\"enrolled_courses\":[],\"enrolled_subjects\":[]}}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/my-purchase-live-course/",
+    "code": "200",
+    "body_preview": "{\"status\":\"success\",\"message\":\"Data successfully returned\",\"data\":{\"enrolled_live_courses\":[]}}",
+    "full_body": "{\"status\":\"success\",\"message\":\"Data successfully returned\",\"data\":{\"enrolled_live_courses\":[]}}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/free-course/app/",
+    "code": "200",
+    "body_preview": "{\"status\":\"error\",\"message\":\"int() argument must be a string, a bytes-like object or a real number, not 'NoneType'\",\"data\":null}",
+    "full_body": "{\"status\":\"error\",\"message\":\"int() argument must be a string, a bytes-like object or a real number, not 'NoneType'\",\"data\":null}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "app/web/user-refard-subject-list/",
+    "code": "200",
+    "body_preview": "{\"count\":1,\"next\":null,\"previous\":null,\"results\":[{\"id\":576078,\"name\":\"ম্যাথমেটিক্স ০২\",\"instructor\":\"Softmax Instructors\",\"price\":[{\"id\":1,\"title\":\"পাস কোর্স\",\"price\":450,\"sell_price\":29,\"total_video",
+    "full_body": "{\"count\":1,\"next\":null,\"previous\":null,\"results\":[{\"id\":576078,\"name\":\"ম্যাথমেটিক্স ০২\",\"instructor\":\"Softmax Instructors\",\"price\":[{\"id\":1,\"title\":\"পাস কোর্স\",\"price\":450,\"sell_price\":29,\"total_videos\":28},{\"id\":2,\"title\":\"অলরাউন্ডার\",\"price\":600,\"sell_price\":499,\"total_videos\":106},{\"id\":3,\"title\":\"ডায়মন্ড\",\"price\":800,\"sell_price\":599,\"total_videos\":106}],\"category\":\"Polytechnic\",\"product_type\":\"Refard\",\"free_videos\":[{\"title\":\"f (x) = e^x + e^ x হলে দেখাও   f(2x) + f2y\",\"youtube_link\":\"https://youtu.be/1vOJNDJdFvg\"},{\"title\":\"ধ্রুবক (constant)\",\"youtube_link\":\"https://youtu.be/yRjYGsPy9IU\"},{\"title\":\"(সংক্ষিপ্ত প্রশ্নোত্তর) যদি fx = h  x k by h k +... তবে প্রমাণ কর fh + f h = fh+k\",\"youtube_link\":\"https://youtu.be/nlqWBuyL88M\"},{\"title\":\"(সংক্ষিপ্ত প্রশ্নোত্তর) যদি  y = fx = 4x 7 by 2x 4 হয় তবে দেখাও যে fy = x\",\"youtube_link\":\"https://youtu.be/eTzQt1f5rLE\"},{\"title\":\"ফাংশন এবং ফাংশনের লেখ অধ্যায়ের অতিসংক্ষিপ্ত প্রশ্নের উত্তর\",\"youtube_link\":\"https://youtu.be/jaM74f3hKsc\"},{\"title\":\"ফাংশন এবং ফাংশনের লেখ অধ্যায়ের বেসিক\",\"youtube_link\":\"https://youtu.be/_0zgRWX1hhk\"}],\"image\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/subject/image/08/26/Mathematics-2-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105626Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7d51f778eb6df13f4173b23ec540a53598c086b77064c5c0e2618beabc60e566\",\"free_access\":false,\"free_access_type\":null,\"is_enrolled\":false}]}"
+  },
+  {
+    "method": "POST",
+    "endpoint": "app/web/user-free-referred-subject-enroll/",
+    "code": "400",
+    "body_preview": "{\"msg\":\"Student ID is required.\"}",
+    "full_body": "{\"msg\":\"Student ID is required.\"}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "package-management/packages/",
+    "code": "200",
+    "body_preview": "{\"count\":8,\"next\":null,\"previous\":null,\"results\":[{\"id\":16,\"plans\":[{\"id\":14,\"name\":\"Chance Plus\",\"category\":{\"label\":\"Polytechnic Admission\",\"value\":\"4\"},\"tag_line\":\"সেরা ডিপার্টমেন্টে চান্সের কোর্স\"",
+    "full_body": "{\"count\":8,\"next\":null,\"previous\":null,\"results\":[{\"id\":16,\"plans\":[{\"id\":14,\"name\":\"Chance Plus\",\"category\":{\"label\":\"Polytechnic Admission\",\"value\":\"4\"},\"tag_line\":\"সেরা ডিপার্টমেন্টে চান্সের কোর্স\",\"video_title\":\"পলিটেকনিক ভর্তি পরীক্ষা ২০২৬\",\"preview_video\":\"https://www.youtube.com/watch?v=dpENYqD5GVI&ab_channel=SoftmaxOnlineSchool\",\"description\":\"\",\"session_by_service\":[{\"session\":{\"value\":11,\"label\":\"2026-2027\"},\"services\":[{\"value\":2,\"label\":\"Live support\"},{\"value\":4,\"label\":\"Mentor\"},{\"value\":13,\"label\":\"ডাবল টিচার\"},{\"value\":15,\"label\":\"MCQ Practice\"},{\"value\":16,\"label\":\"Mock Test\"},{\"value\":17,\"label\":\"Model Test\"},{\"value\":19,\"label\":\"Private Care\"},{\"value\":18,\"label\":\"12/ 7 Support\"},{\"value\":14,\"label\":\"১৩ টি লাইভ\"}]}],\"price\":10000.0,\"sell_price\":3180.0,\"is_percentage\":true,\"status\":true,\"ordering\":1,\"is_selected\":true,\"metadata\":null}],\"category\":{\"value\":4,\"label\":\"Polytechnic Admission\",\"icon\":null},\"title\":\"Chance Plus\",\"order\":1,\"is_selected\":false,\"video_title\":null,\"preview_video\":null,\"sub_title\":\"সেরা পলিটেকনিকে চান্সের কোর্স\",\"package_key\":null,\"is_available\":true,\"number_of_course\":\"1\",\"show_month_wise\":false,\"package_banner\":null,\"banner\":null,\"courses\":[]},{\"id\":18,\"plans\":[{\"id\":21,\"name\":\"ict boss\",\"category\":{\"label\":\"ICT Course\",\"value\":\"11\"},\"tag_line\":\"be Boss in ICT\",\"video_title\":\"ICT ২০২৪ সালের MCQ অধ্যায়ভিত্তিক সমাধান\",\"preview_video\":\"https://www.youtube.com/watch?v=ENXYMTggLrw&ab_channel=SoftmaxOnlineSchool\",\"description\":\"Softmax Online School এর App Link: https://play.google.com/store/apps/de...\\nফেসবুক পেজ : facebook.com/softmaxbd/\\n\\nসফটম্যাক্স অনলাইন স্কুলের প্রতিষ্ঠাতার ফেসবুক আইডি ( Sabbir Hossain ) : https://bit.ly/2kJLnBJ\",\"session_by_service\":[],\"price\":1599.0,\"sell_price\":999.0,\"is_percentage\":true,\"status\":false,\"ordering\":1,\"is_selected\":true,\"metadata\":null}],\"category\":{\"value\":11,\"label\":\"ICT Course\",\"icon\":null},\"title\":\"ICT Boss\",\"order\":1,\"is_selected\":false,\"video_title\":null,\"preview_video\":null,\"sub_tit"
+  },
+  {
+    "method": "GET",
+    "endpoint": "package-management/category-wise-plan-package/",
+    "code": "200",
+    "body_preview": "[]",
+    "full_body": "[]"
+  },
+  {
+    "method": "GET",
+    "endpoint": "academic/splash-screen/",
+    "code": "200",
+    "body_preview": "{\"sms_sender_ids\":[\"8809612615063\",\"8809617610012\"],\"count\":4,\"next\":null,\"previous\":null,\"results\":[{\"id\":9,\"created_at\":\"2023-10-31 06:32 PM\",\"updated_at\":\"2024-01-03 02:43 PM\",\"name\":\"1\",\"is_active",
+    "full_body": "{\"sms_sender_ids\":[\"8809612615063\",\"8809617610012\"],\"count\":4,\"next\":null,\"previous\":null,\"results\":[{\"id\":9,\"created_at\":\"2023-10-31 06:32 PM\",\"updated_at\":\"2024-01-03 02:43 PM\",\"name\":\"1\",\"is_active\":true,\"description\":\"\",\"image\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/splashScreen/%E0%A6%AA%E0%A6%B2%E0%A6%9F%E0%A6%95%E0%A6%A8%E0%A6%95%E0%A6%B0_%E0%A6%8F%E0%A6%95%E0%A6%A1%E0%A6%AE%E0%A6%95_%E0%A6%AA%E0%A7%9C%E0%A6%B6%E0%A6%A8%E0%A6%B0_%E0%A6%B8%E0%A6%B9%E0%A6%9C_%E0%A6%B8%E0%A6%AE%E0%A6%A7%E0%A6%A8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105628Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=29d899535288276b384feb8a52816903520cad18b5ceb85bc195c7ec62546c26\"},{\"id\":8,\"created_at\":\"2023-10-31 06:31 PM\",\"updated_at\":\"2023-10-31 06:31 PM\",\"name\":\"2\",\"is_active\":true,\"description\":\"\",\"image\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/splashScreen/2Softmax_Smart_Book_%E0%A6%AA%E0%A7%9C%E0%A6%A8_%E0%A6%A8%E0%A6%9C%E0%A6%B0_%E0%A6%B8%E0%A6%AC%E0%A6%AA%E0%A6%A8%E0%A6%95_Smart_%E0%A6%95%E0%A6%B0%E0%A6%A8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105628Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d6448b4afd33067cc3dc4270f784434e2044b08385a487872ddc34735269a121\"},{\"id\":7,\"created_at\":\"2023-10-31 06:30 PM\",\"updated_at\":\"2023-10-31 06:30 PM\",\"name\":\"3\",\"is_active\":true,\"description\":\"\",\"image\":\"https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/splashScreen/3Job_%E0%A6%AA%E0%A6%B0%E0%A6%B8%E0%A6%A4%E0%A6%A4_%E0%A6%B9%E0%A6%AC_%E0%A6%98%E0%A6%B0_%E0%A6%AC%E0%A6%B8%E0%A6%87.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105628Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=70e4c0c1578a04f91f4196b"
+  },
+  {
+    "method": "GET",
+    "endpoint": "dynamic/ui-pages/",
+    "code": "200",
+    "body_preview": "{\"count\":1,\"next\":null,\"previous\":null,\"results\":[{\"id\":1,\"page_content_key\":\"subject_payment_page\",\"title\":\"ভর্তি হতে তথ্য জানুন\",\"layouts\":[{\"id\":1,\"title\":\"Course Info\",\"layout_content_key\":\"course",
+    "full_body": "{\"count\":1,\"next\":null,\"previous\":null,\"results\":[{\"id\":1,\"page_content_key\":\"subject_payment_page\",\"title\":\"ভর্তি হতে তথ্য জানুন\",\"layouts\":[{\"id\":1,\"title\":\"Course Info\",\"layout_content_key\":\"course_info_layout\",\"order\":1,\"active\":true}]}]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "exam/course/subjects/",
+    "code": "400",
+    "body_preview": "{\"error\":\"category_id is required\"}",
+    "full_body": "{\"error\":\"category_id is required\"}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "app/web/chapters/?limit=5",
+    "code": "200",
+    "body_preview": "{\"count\":7190,\"next\":\"http://softmaxmanager.xyz/api/v1/app/web/chapters/?limit=5&offset=5\",\"previous\":null,\"results\":[{\"id\":7008,\"created_at\":\"2026-01-27 09:46 AM\",\"updated_at\":\"2026-01-27 09:46 AM\",\"",
+    "full_body": "{\"count\":7190,\"next\":\"http://softmaxmanager.xyz/api/v1/app/web/chapters/?limit=5&offset=5\",\"previous\":null,\"results\":[{\"id\":7008,\"created_at\":\"2026-01-27 09:46 AM\",\"updated_at\":\"2026-01-27 09:46 AM\",\"is_active\":true,\"order\":0,\"name\":\"বাংলা ব্যাকরণ(আপডেট)\",\"note\":null,\"category\":1,\"subject\":814,\"chapter_description\":[]},{\"id\":1303,\"created_at\":\"2023-03-28 03:37 PM\",\"updated_at\":\"2024-02-27 07:23 PM\",\"is_active\":true,\"order\":1,\"name\":\"অধ্যায়-১ঃ পাইথন ফাংশনস\",\"note\":null,\"category\":1,\"subject\":161,\"chapter_description\":[]},{\"id\":157,\"created_at\":\"2022-12-31 06:48 PM\",\"updated_at\":\"2024-02-27 07:24 PM\",\"is_active\":true,\"order\":1,\"name\":\"অধ্যায়-১ ( কমিউনিকেশন মৌলিক ধারণা\",\"note\":null,\"category\":1,\"subject\":17,\"chapter_description\":[]},{\"id\":21,\"created_at\":\"2022-12-29 03:08 PM\",\"updated_at\":\"2024-02-27 07:25 PM\",\"is_active\":true,\"order\":1,\"name\":\"Unit -1 : Use The Right form of Verb\",\"note\":null,\"category\":1,\"subject\":4,\"chapter_description\":[]},{\"id\":50,\"created_at\":\"2022-12-31 11:25 AM\",\"updated_at\":\"2024-02-27 07:27 PM\",\"is_active\":true,\"order\":1,\"name\":\"অধ্যায় ০১: ভৌত জগত ও পরিমাপ\",\"note\":null,\"category\":1,\"subject\":8,\"chapter_description\":[]}]}"
+  },
+  {
+    "method": "POST",
+    "endpoint": "app/web/chapters/",
+    "code": "403",
+    "body_preview": "{\"detail\":\"You do not have permission to perform this action.\"}",
+    "full_body": "{\"detail\":\"You do not have permission to perform this action.\"}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "app/web/chapters/490/",
+    "code": "200",
+    "body_preview": "{\"id\":490,\"category\":{\"value\":1,\"label\":\"Polytechnic\",\"icon\":null},\"subject\":{\"value\":55,\"label\":\"Microcontroller &  embedded system (16)\"},\"created_at\":\"2023-01-01 05:07 PM\",\"updated_at\":\"2024-02-27 ",
+    "full_body": "{\"id\":490,\"category\":{\"value\":1,\"label\":\"Polytechnic\",\"icon\":null},\"subject\":{\"value\":55,\"label\":\"Microcontroller &  embedded system (16)\"},\"created_at\":\"2023-01-01 05:07 PM\",\"updated_at\":\"2024-02-27 07:26 PM\",\"is_active\":true,\"order\":3,\"name\":\"অধ্যায় ৩য়ঃ  ইন্টেল ৮০৫১ মাইক্রোকন্ট্রোলারের গঠন\",\"note\":null,\"chapter_description\":[]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "app/web/chapters/1/",
+    "code": "200",
+    "body_preview": "{\"id\":1,\"category\":{\"value\":1,\"label\":\"Polytechnic\",\"icon\":null},\"subject\":{\"value\":1,\"label\":\"সোস্যাল সাইন্স\"},\"created_at\":\"2022-12-19 11:11 AM\",\"updated_at\":\"2025-08-09 04:28 PM\",\"is_active\":true,\"",
+    "full_body": "{\"id\":1,\"category\":{\"value\":1,\"label\":\"Polytechnic\",\"icon\":null},\"subject\":{\"value\":1,\"label\":\"সোস্যাল সাইন্স\"},\"created_at\":\"2022-12-19 11:11 AM\",\"updated_at\":\"2025-08-09 04:28 PM\",\"is_active\":true,\"order\":1,\"name\":\"অধ্যায়-১ঃ সামাজিক বিজ্ঞানের প্রাথমিক ধারণা\",\"note\":null,\"chapter_description\":[]}"
+  },
+  {
+    "method": "GET",
+    "endpoint": "user/sessions/",
+    "code": "200",
+    "body_preview": "{\"status\":\"success\",\"message\":\"Data successfully returned\",\"data\":[{\"id\":1,\"title\":\"2018-2019\",\"year\":\"2018\",\"is_active\":true,\"created_at\":\"2022-12-21 08:09 PM\",\"updated_at\":\"2022-12-21 08:09 PM\"},{\"i",
+    "full_body": "{\"status\":\"success\",\"message\":\"Data successfully returned\",\"data\":[{\"id\":1,\"title\":\"2018-2019\",\"year\":\"2018\",\"is_active\":true,\"created_at\":\"2022-12-21 08:09 PM\",\"updated_at\":\"2022-12-21 08:09 PM\"},{\"id\":2,\"title\":\"2019-2020\",\"year\":\"2019\",\"is_active\":true,\"created_at\":\"2022-12-21 08:09 PM\",\"updated_at\":\"2022-12-21 08:09 PM\"},{\"id\":3,\"title\":\"2020-2021\",\"year\":\"2020\",\"is_active\":true,\"created_at\":\"2022-12-21 08:09 PM\",\"updated_at\":\"2022-12-21 08:09 PM\"},{\"id\":4,\"title\":\"2021-2022\",\"year\":\"2021\",\"is_active\":true,\"created_at\":\"2022-12-21 08:10 PM\",\"updated_at\":\"2022-12-21 08:10 PM\"},{\"id\":5,\"title\":\"2022-2023\",\"year\":\"2022\",\"is_active\":true,\"created_at\":\"2022-12-21 08:10 PM\",\"updated_at\":\"2022-12-21 08:10 PM\"},{\"id\":7,\"title\":\"2023-2024\",\"year\":\"2023\",\"is_active\":true,\"created_at\":\"2023-07-08 03:59 PM\",\"updated_at\":\"2023-07-08 03:59 PM\"},{\"id\":9,\"title\":\"2024-2025\",\"year\":\"2024\",\"is_active\":true,\"created_at\":\"2024-05-09 09:52 AM\",\"updated_at\":\"2024-05-09 09:52 AM\"},{\"id\":10,\"title\":\"2025-2026\",\"year\":\"2025\",\"is_active\":true,\"created_at\":\"2025-05-12 05:37 PM\",\"updated_at\":\"2025-05-12 05:37 PM\"},{\"id\":11,\"title\":\"2026-2027\",\"year\":\"2026\",\"is_active\":true,\"created_at\":\"2026-04-14 10:43 AM\",\"updated_at\":\"2026-04-14 10:43 AM\"}]}"
+  }
+]

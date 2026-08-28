@@ -1,0 +1,475 @@
+{
+  "downloaded_count": 92,
+  "failed_count": 0,
+  "total_size_bytes": 705840448,
+  "total_size_mb": 673.14,
+  "downloaded": [
+    {
+      "file": "6743_Electrical_Engineering_Drawing.pdf",
+      "title": "Electrical Engineering Drawing (6743)",
+      "size": 2550629
+    },
+    {
+      "file": "5841_Business_Organization_Communication.pdf",
+      "title": "Business Organization & Communication (5841) Electrical",
+      "size": 14299174
+    },
+    {
+      "file": "7274_Transport_Refrigeration_Air_Conditioning.pdf",
+      "title": "Transport Refrigeration & Air Conditioning (7274)",
+      "size": 5181713
+    },
+    {
+      "file": "8563_Web_Development.pdf",
+      "title": "Web Development (8563)",
+      "size": 2804348
+    },
+    {
+      "file": "5841_Business_Organization_Communication.pdf",
+      "title": "Business Organization & Communication (5841) Civil",
+      "size": 14299174,
+      "note": "already exists"
+    },
+    {
+      "file": "66722_Electrical_Appliances.pdf",
+      "title": "Electrical Appliances (66722)",
+      "size": 14569666
+    },
+    {
+      "file": "6841_Digital_Electronics_1.pdf",
+      "title": "Digital Electronics-1 (6841) Electronics",
+      "size": 12147754
+    },
+    {
+      "file": "6843_Networks_Filters_Transmission_Lines.pdf",
+      "title": "Networks, Filters & Transmission Lines (6843)",
+      "size": 9897088
+    },
+    {
+      "file": "6473_Transportation_Engineering_2.pdf",
+      "title": "Transportation Engineering-2 (6473)",
+      "size": 5253628
+    },
+    {
+      "file": "6462_Transportation_Engineering_1.pdf",
+      "title": "Transportation Engineering-1 (6462)",
+      "size": 7829904
+    },
+    {
+      "file": "6465_Construction_Management.pdf",
+      "title": "Construction Management (6465) \u2013 Civil",
+      "size": 6647134
+    },
+    {
+      "file": "6441_Geotechnical_Engineering.pdf",
+      "title": "Geotechnical Engineering (6441)",
+      "size": 4229203
+    },
+    {
+      "file": "5942_Discrete_Mathematics.pdf",
+      "title": "Discrete Mathematics (5942)",
+      "size": 5599448
+    },
+    {
+      "file": "6862_Television_Engineering_2.pdf",
+      "title": "Television Engineering-2 (6862)",
+      "size": 5066069
+    },
+    {
+      "file": "6863_Instrumentation_And_Process_Control.pdf",
+      "title": "Instrumentation And Process Control (6863) Electronics",
+      "size": 4130917
+    },
+    {
+      "file": "6865_Microprocessor_Applications.pdf",
+      "title": "Microprocessor & Applications (6865)",
+      "size": 11965573
+    },
+    {
+      "file": "6840_Industrial_Power_E.pdf",
+      "title": "Industrial Power Electronics (6840)",
+      "size": 10880229
+    },
+    {
+      "file": "6842_Communication_Engineering_1.pdf",
+      "title": "Communication Engineering-1 (6842)",
+      "size": 16881076
+    },
+    {
+      "file": "5841_Business_Orgazization_Communication.pdf",
+      "title": "Business Orgazization & Communication (5841) Power",
+      "size": 14299111
+    },
+    {
+      "file": "7262_RAC_Circuits_Controls_2.pdf",
+      "title": "RAC Circuits & Controls-2 (7262)",
+      "size": 5590941
+    },
+    {
+      "file": "6445_Hydraulics.pdf",
+      "title": "Hydraulics (6445)",
+      "size": 6262847
+    },
+    {
+      "file": "7275_Commercial_Industrial_Air_Conditioning.pdf",
+      "title": "Commercial & Industrial Air Conditioning (7275)",
+      "size": 4468956
+    },
+    {
+      "file": "5873_Entrepreneurship.pdf",
+      "title": "Entrepreneurship (5873) \u2013 RAC",
+      "size": 6386026
+    },
+    {
+      "file": "7276_Installation_of_RAC_Plants.pdf",
+      "title": "Installation of RAC Plants (7276)",
+      "size": 3326110
+    },
+    {
+      "file": "7271_RAC_System_Analysis.pdf",
+      "title": "RAC System Analysis (7271)",
+      "size": 3476674
+    },
+    {
+      "file": "7273_Troubleshooting_of_RAC_Equipment.pdf",
+      "title": "Troubleshooting of RAC Equipment (7273)",
+      "size": 3223938
+    },
+    {
+      "file": "7263_RAC_Plant_Operation.pdf",
+      "title": "RAC Plant Operation (7263)",
+      "size": 4566367
+    },
+    {
+      "file": "7264_Low_Tempertature_Refrigeration.pdf",
+      "title": "Low Tempertature Refrigeration (7264)",
+      "size": 2424088
+    },
+    {
+      "file": "7261_Advanced_Refrigeration_and_Airconditioning.pdf",
+      "title": "Advanced Refrigeration and Airconditioning (7261)",
+      "size": 4504371
+    },
+    {
+      "file": "7131_Engineering_Thermodynamics.pdf",
+      "title": "Engineering Thermodynamics (7131) \u2013 RAC",
+      "size": 5860337
+    },
+    {
+      "file": "7241_Domestic_Refrigeration_And_Air_Conditioning.pdf",
+      "title": "Domestic Refrigeration And Air Conditioning (7241)",
+      "size": 5678769
+    },
+    {
+      "file": "7243_Cooling_Heating_Load_Calculation.pdf",
+      "title": "Cooling & Heating Load Calculation (7243)",
+      "size": 7187495
+    },
+    {
+      "file": "5841_Business_Orgazization_Communication.pdf",
+      "title": "Business Orgazization & Communication (5841) \u2013 RAC",
+      "size": 14299111,
+      "note": "already exists"
+    },
+    {
+      "file": "7242_Automotive_Engines_And_Their_Systems.pdf",
+      "title": "Automotive Engines And Their Systems (7242)",
+      "size": 6801323
+    },
+    {
+      "file": "7011_Basic_Workshop_Practice.pdf",
+      "title": "Basic Workshop Practice (7011) \u2013 RAC",
+      "size": 10246529
+    },
+    {
+      "file": "6773_Switchgear_And_Protection_Power_Technology.pdf",
+      "title": "Switchgear And Protection (6773) \u2013 Power Technology",
+      "size": 6191484
+    },
+    {
+      "file": "5873_Entrepreneurship_Power_Technology.pdf",
+      "title": "Entrepreneurship (5873) \u2013 Power Technology",
+      "size": 6385595
+    },
+    {
+      "file": "7131_Engineering_Thermodynamics.pdf",
+      "title": "Engineering Thermodynamics (7131)",
+      "size": 5860337,
+      "note": "already exists"
+    },
+    {
+      "file": "7011_Basic_Workshop_Practice_Power_Technology.pdf",
+      "title": "Basic Workshop Practice (7011) \u2013 Power Technology",
+      "size": 10246529
+    },
+    {
+      "file": "5873_Entrepreneurship_MT.pdf",
+      "title": "Entrepreneurship (5873) \u2013 MT",
+      "size": 6470347
+    },
+    {
+      "file": "5841_Business_Orgazization_Communication_MT.pdf",
+      "title": "Business Orgazization & Communication (5841) \u2013 MT",
+      "size": 14280687
+    },
+    {
+      "file": "7011_Basic_Workshop_Practice_MT.pdf",
+      "title": "Basic Workshop Practice (7011) \u2013 MT",
+      "size": 10246529
+    },
+    {
+      "file": "5841_Business_Orgazization_Communication_ENT.pdf",
+      "title": "Business Orgazization & Communication (5841) \u2013 ENT",
+      "size": 14280687
+    },
+    {
+      "file": "6861_Electronic_Measurements_Measuring_Instruments_2.pdf",
+      "title": "Electronic Measurements & Measuring Instruments-2 (6861)",
+      "size": 6228796
+    },
+    {
+      "file": "6864_Electronic_Servicing.pdf",
+      "title": "Electronic Servicing (6864)",
+      "size": 3987418
+    },
+    {
+      "file": "6874_Microwave_Radar_And_Nevigation_Aids.pdf",
+      "title": "Microwave, Radar And Nevigation Aids (6874)",
+      "size": 3687453
+    },
+    {
+      "file": "6872_Computer_Control_System_Robotics.pdf",
+      "title": "Computer Control System & Robotics (6872)",
+      "size": 3702899
+    },
+    {
+      "file": "6875_Biomediacal_Engineering.pdf",
+      "title": "Biomediacal Engineering (6875)",
+      "size": 10071283
+    },
+    {
+      "file": "5873_Entrepreneurship_ENT.pdf",
+      "title": "Entrepreneurship (5873) \u2013 ENT",
+      "size": 6389539
+    },
+    {
+      "file": "6873_Industrial_Control_And_PLC.pdf",
+      "title": "Industrial Control And PLC (6873)",
+      "size": 2909406
+    },
+    {
+      "file": "6871_Microcontroller_Embedded_Systems.pdf",
+      "title": "Microcontroller & Embedded Systems (6871)",
+      "size": 4298166
+    },
+    {
+      "file": "6474_Design_of_Structure_2.pdf",
+      "title": "Design of Structure-2 (6474)",
+      "size": 6143839
+    },
+    {
+      "file": "6471_Estimating_and_Costing_2.pdf",
+      "title": "Estimating and Costing-2 (6471)",
+      "size": 8186557
+    },
+    {
+      "file": "6461_Civil_Engineering_Drawing_CAD_2.pdf",
+      "title": "Civil Engineering Drawing (CAD)-2 (6461)",
+      "size": 5157773
+    },
+    {
+      "file": "6442_Estimating_Costing_1.pdf",
+      "title": "Estimating & Costing-1 (6442)",
+      "size": 6478330
+    },
+    {
+      "file": "6443_Surveying_2.pdf",
+      "title": "Surveying-2 (6443)",
+      "size": 6397847
+    },
+    {
+      "file": "6463_Design_of_Structure_1.pdf",
+      "title": "Design of Structure-1 (6463)",
+      "size": 6771306
+    },
+    {
+      "file": "66821_Electronics_Devices_And_Circuits.pdf",
+      "title": "Electronics Devices And Circuits (66821)",
+      "size": 11656273
+    },
+    {
+      "file": "7011_Basic_Workshop_Practice_ENT.pdf",
+      "title": "Basic Workshop Practice (7011) \u2013 ENT",
+      "size": 10246529
+    },
+    {
+      "file": "6631_Data_Structure_Algorithm.pdf",
+      "title": "Data Structure & Algorithm (6631)",
+      "size": 14366484
+    },
+    {
+      "file": "6642_Programming_Language_2.pdf",
+      "title": "Programming Language-2 (6642)",
+      "size": 8411799
+    },
+    {
+      "file": "6664_Computer_System_Software.pdf",
+      "title": "Computer System Software (6664)",
+      "size": 13843983
+    },
+    {
+      "file": "6663_Data_Communication_and_Computer_Network_1.pdf",
+      "title": "Data Communication and Computer Network-1 (6663)",
+      "size": 11369315
+    },
+    {
+      "file": "6771_AC_Machines_2.pdf",
+      "title": "AC Machines-2 (6771)",
+      "size": 4812545
+    },
+    {
+      "file": "6773_Switchgear_And_Protection.pdf",
+      "title": "Switchgear And Protection (6773)",
+      "size": 6124605
+    },
+    {
+      "file": "66721_Electrical_Circuits_1.pdf",
+      "title": "Electrical Circuits-1 (66721)",
+      "size": 12682351
+    },
+    {
+      "file": "6741_Electrical_Appliances.pdf",
+      "title": "Electrical Appliances (6741)",
+      "size": 7292627
+    },
+    {
+      "file": "6774_Transmission_and_Distribution_of_Electrical_Energy_2.pdf",
+      "title": "Transmission and Distribution of Electrical Energy-2 (6774)",
+      "size": 5599849
+    },
+    {
+      "file": "6863_Instrumentation_And_Process_Control.pdf",
+      "title": "Instrumentation And Process Control (6863)",
+      "size": 4130917,
+      "note": "already exists"
+    },
+    {
+      "file": "6472_Environmental_Engineering_2.pdf",
+      "title": "Environmental Engineering-2 (6472)",
+      "size": 8280272
+    },
+    {
+      "file": "6673_Data_Communication_Computer_Network_2.pdf",
+      "title": "Data Communication & Computer Network-2 (6673)",
+      "size": 6736875
+    },
+    {
+      "file": "6841_Digital_Electronics_1.pdf",
+      "title": "Digital Electronics-1 (6841)",
+      "size": 12147754,
+      "note": "already exists"
+    },
+    {
+      "file": "5873_Entrepreneurship.pdf",
+      "title": "Entrepreneurship (5873)",
+      "size": 6386026,
+      "note": "already exists"
+    },
+    {
+      "file": "6672_System_Analysis_and_Design.pdf",
+      "title": "System Analysis and Design (6672)",
+      "size": 5321747
+    },
+    {
+      "file": "8572_Multimedia_and_Graphics.pdf",
+      "title": "Multimedia and Graphics (8572)",
+      "size": 4498897
+    },
+    {
+      "file": "6671_Embedded_System_PLC.pdf",
+      "title": "Embedded System & PLC (6671)",
+      "size": 4041985
+    },
+    {
+      "file": "6674_Computer_Engineering_Project.pdf",
+      "title": "Computer Engineering Project (6674)",
+      "size": 4344234
+    },
+    {
+      "file": "6661_Microprocessor_and_Microcomputer_2.pdf",
+      "title": "Microprocessor and Microcomputer-2 (6661)",
+      "size": 13594540
+    },
+    {
+      "file": "6662_Computer_Peripherals.pdf",
+      "title": "Computer Peripherals (6662)",
+      "size": 20105428
+    },
+    {
+      "file": "NOCODE_Programming_Language_3.pdf",
+      "title": "Programming Language-3",
+      "size": 6101141
+    },
+    {
+      "file": "6652_Computer_Architecture.pdf",
+      "title": "Computer Architecture (6652)",
+      "size": 6595284
+    },
+    {
+      "file": "6645_CAD_Graphics_Design.pdf",
+      "title": "CAD & Graphics Design (6645)",
+      "size": 11216335
+    },
+    {
+      "file": "7011_Basic_Workshop_Practice_CMT.pdf",
+      "title": "Basic Workshop Practice (7011) \u2013 CMT",
+      "size": 10246529
+    },
+    {
+      "file": "6475_Hydrology_Water_Resources_Engineering.pdf",
+      "title": "Hydrology & Water Resources Engineering (6475)",
+      "size": 6410817
+    },
+    {
+      "file": "5873_Entrepreneurship_Civil_Technology.pdf",
+      "title": "Entrepreneurship (5873) \u2013 Civil Technology",
+      "size": 6366212
+    },
+    {
+      "file": "6464_Advanced_Surveying.pdf",
+      "title": "Advanced Surveying (6464)",
+      "size": 5539663
+    },
+    {
+      "file": "6444_Construction_Process_1.pdf",
+      "title": "Construction Process-1 (6444)",
+      "size": 4663597
+    },
+    {
+      "file": "66421_Civil_Engineering_Materials.pdf",
+      "title": "Civil Engineering Materials (66421)",
+      "size": 5539498
+    },
+    {
+      "file": "7011_Basic_Workshop_Practice_Civil_Technology.pdf",
+      "title": "Basic Workshop Practice (7011) \u2013 Civil Technology",
+      "size": 10246529
+    },
+    {
+      "file": "6772_Electrical_Engineering_Project.pdf",
+      "title": "Electrical Engineering Project (6772)",
+      "size": 3057129
+    },
+    {
+      "file": "5873_Entrepreneurship_ET.pdf",
+      "title": "Entrepreneurship (5873) \u2013 ET",
+      "size": 6389030
+    },
+    {
+      "file": "7011_Basic_Workshop_Practice_ET.pdf",
+      "title": "Basic Workshop Practice (7011) \u2013 ET",
+      "size": 10265122
+    }
+  ],
+  "failed": []
+}

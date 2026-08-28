@@ -1,0 +1,396 @@
+{
+  "active_semester_books": [
+    {
+      "id": 57,
+      "title": "পাস বুক - ম্যাথমেটিক্স ০৩",
+      "eSubjectImage": {
+        "value": 141,
+        "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%AE%E0%A6%AF%E0%A6%A5%E0%A6%AE%E0%A6%9F%E0%A6%95%E0%A6%B8_%E0%A7%A9-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bbc8bc12dab2e903bae02528f2be07649959de526ba928f3dce3eef479dfd7a9"
+      },
+      "eChapters": [
+        {
+          "id": 566,
+          "serial": 2,
+          "title": "অধ্যায়- ২",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=265fd3d96d510add906f0961bc2a664c03324855019a3e8bcc949713c52614ee"
+        },
+        {
+          "id": 568,
+          "serial": 4,
+          "title": "অধ্যায়- ৪",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a1857209e52d611af494453bf7d55f7c3e3a4d1712f7e438d1e9298d4c3828d8"
+        },
+        {
+          "id": 571,
+          "serial": 7,
+          "title": "অধ্যায়- ৭(ক)",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-7.1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4c790dd73e81be8b40f91cd76d41d79b46f05d380479f0d5d8091b4f3f37d5bd"
+        },
+        {
+          "id": 572,
+          "serial": 7,
+          "title": "অধ্যায়- ৭(খ)",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-7.2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=07f814b56ee9121578e7ca4a4260fda7467ab6518a9e327af8105207b0d92245"
+        },
+        {
+          "id": 574,
+          "serial": 9,
+          "title": "অধ্যায় ০৯",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=059b9021f9aefad671f2fe678a9da0728f985116bfa487f970dd3be3dcce4b98"
+        },
+        {
+          "id": 575,
+          "serial": 10,
+          "title": "অধ্যায় ১০",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-10.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=78929b0bb8ebf58b0631b2cea24482480e0522080267b2edcbdabd41957738a2"
+        },
+        {
+          "id": 573,
+          "serial": 8,
+          "title": "অধ্যায় ০৮",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c93c34adc38220a6f70232f4593beb8aaa3c33b6b3b5d531d46af839611505af"
+        },
+        {
+          "id": 567,
+          "serial": 3,
+          "title": "অধ্যায়- ৩",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fe797d21e1f2427036e7153216d06441856cae999ded130b522b16031dc6e428"
+        },
+        {
+          "id": 576,
+          "serial": 11,
+          "title": "অধ্যায় ১১",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-11.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=29293e6c76749936c16b126be21333c3bd526f89f90587b1d01ac0777e3fd9eb"
+        },
+        {
+          "id": 577,
+          "serial": 12,
+          "title": "অধ্যায় ১২",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-12.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=540c7130d8044f789af04a4c7182dafd9eb683f44155825f9e15cf6508b50d5a"
+        },
+        {
+          "id": 578,
+          "serial": 13,
+          "title": "অধ্যায় ১৩",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-13.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b1e540f21e8103def1a8d45d489226aaf904d4ccccd8d59605e8aad3567ec843"
+        },
+        {
+          "id": 579,
+          "serial": 14,
+          "title": "অধ্যায় ১৪",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-14.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3aec8e2e555e0699ba1e1e4c71a0b159ab425c0ecf67bae1092a97f087cf2d31"
+        },
+        {
+          "id": 565,
+          "serial": 1,
+          "title": "অধ্যায়- ১",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7e48be8cd0fb516bbfd1daa4793a842fb1bb099f268ac3ddc46c2d578af23299"
+        },
+        {
+          "id": 570,
+          "serial": 6,
+          "title": "অধ্যায়- ৬",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-6.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=005a935384a136e2ad605feeec742319b58f820be7198b48ac8ff2a2efb942c9"
+        },
+        {
+          "id": 569,
+          "serial": 5,
+          "title": "অধ্যায়- ৫",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-3_Ch-5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=87f0e415182c587d02669eead705971be81268596eecff1bbab4a07b3d76efc7"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "পাস বুক - আইটি সাপোর্ট সার্ভিস",
+      "eSubjectImage": {
+        "value": 253,
+        "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/%E0%A6%86%E0%A6%87%E0%A6%9F_%E0%A6%B8%E0%A6%AA%E0%A6%B0%E0%A6%9F_%E0%A6%B8%E0%A6%B0%E0%A6%AD%E0%A6%B8-optimized.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=12ee090f7a0cc8395fa660948db09d8a7eee2b8e43de879c91e7db2536ff4a3f"
+      },
+      "eChapters": [
+        {
+          "id": 660,
+          "serial": 1,
+          "title": "অধ্যায় ০১",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8e16eb077bf91882e5394862de3e8808dd67dd57bd99cc88f0d801d1c39037a7"
+        },
+        {
+          "id": 661,
+          "serial": 2,
+          "title": "অধ্যায় ০২",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0870bdb80b8b1399fe78083fef75ddd5bc5e1ebeb88cb71d32c959da1b91dbdd"
+        },
+        {
+          "id": 663,
+          "serial": 4,
+          "title": "অধ্যায় ০৪",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=950d15bdecb99de60718f9db2257e392911c70cbfadbbf2dee4cc28f304f626a"
+        },
+        {
+          "id": 664,
+          "serial": 5,
+          "title": "অধ্যায় ০৫",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=892cf5921bdfa321bbbe85b209f7429c65edbe161fd9a883097b8535564d3a72"
+        },
+        {
+          "id": 665,
+          "serial": 6,
+          "title": "অধ্যায় ০৬",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-6.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=38b3a7966bf4fd3714e25345698e6d92b4870e66ff534047d6cbcb6b148655cd"
+        },
+        {
+          "id": 666,
+          "serial": 7,
+          "title": "অধ্যায় ০৭",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=badfd3425cfdc7c5b3cadbead5e5133d22432cfd163ee3442cb7329c336094b0"
+        },
+        {
+          "id": 667,
+          "serial": 8,
+          "title": "অধ্যায় ০৮",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=93fcd3e6daefffbffd7777fe6f8a1f4d00e9ff1d92c7d7fceb234c3d1d2707cf"
+        },
+        {
+          "id": 668,
+          "serial": 9,
+          "title": "অধ্যায় ০৯",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d89c687caf972da38c78ace051f3d008a5eecbfe1fa8d4b9d382ca4df963a8d1"
+        },
+        {
+          "id": 669,
+          "serial": 10,
+          "title": "অধ্যায় ১০",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-10.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2fadff0ffd3537d0cb03ec8d578fb76df941c826298d8527437bd7d64be4b3be"
+        },
+        {
+          "id": 670,
+          "serial": 11,
+          "title": "অধ্যায় ১১",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-11.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=be1ad9a713ba8a5bf64dbd078dcbf5b4f1b51072818e0abeb579daa7bfd6f90e"
+        },
+        {
+          "id": 671,
+          "serial": 12,
+          "title": "অধ্যায় ১২",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-12.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5291ccc1d1b75c6c21fb8a05db7ca49d7c01549113fbedfb14171628167ae880"
+        },
+        {
+          "id": 662,
+          "serial": 3,
+          "title": "অধ্যায় ০৩",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/It_Support_Services_-_Ch-3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a16dd47986a3bfb28055646c2e3d81e091f3b6cb9a33be862789edcf2e5ad125"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "title": "পাস বুক - সোস্যাল সাইন্স",
+      "eSubjectImage": {
+        "value": 741,
+        "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Social_Science-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b1d51170ff360fd5806e67e9127eb946f04a68f27cfd8d8f6a49016685a61a3d"
+      },
+      "eChapters": [
+        {
+          "id": 1407,
+          "serial": 1,
+          "title": "অধ্যায়-০১",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1364b3f97091d6a8e4e786d697743642b7e50c88b01cf558e94517579d15af72"
+        },
+        {
+          "id": 1408,
+          "serial": 2,
+          "title": "অধ্যায়-০২",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ed37f10df731f83e12e9aa093ff4bfadc89ab8ce5cb4483a5b4c9a8087b0283e"
+        },
+        {
+          "id": 1410,
+          "serial": 3,
+          "title": "অধ্যায়-০৩",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=379601830db286270e27c4e9bb0b831bcd7f45a8b9446d93bed3d22330de98a0"
+        },
+        {
+          "id": 1411,
+          "serial": 4,
+          "title": "অধ্যায়-০৪",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=51dacf0fc414d5e2299a673efce9e87d375a96c63980810429b6ddb277dca3b0"
+        },
+        {
+          "id": 1412,
+          "serial": 5,
+          "title": "অধ্যায়-০৫",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=af4f80c1e8b2137c13110465c5636f485779b8e134040be0b507cbc6d4f2e019"
+        },
+        {
+          "id": 1413,
+          "serial": 6,
+          "title": "অধ্যায়-০৬",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-6.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5607be592a0b929b68e11a23c8669ddc36c60ddf671ac2f0cfff178816acef18"
+        },
+        {
+          "id": 1414,
+          "serial": 7,
+          "title": "অধ্যায়-০৭",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1e5ef47f4e4bdc0a35dd689b226f85c79d1922f1a09de1e1d261d6dbb76feeda"
+        },
+        {
+          "id": 1415,
+          "serial": 8,
+          "title": "অধ্যায়-০৮",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b1b1c735fcda1d75542c54dd44e3a5bb03dcec3952f4a4e250ebe5426ff06c8b"
+        },
+        {
+          "id": 1416,
+          "serial": 9,
+          "title": "অধ্যায়-০৯",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4decce621ff6152e2ae0aff6778a4eee5244f2a8f5973f2b449cd51a0323227c"
+        },
+        {
+          "id": 1417,
+          "serial": 10,
+          "title": "অধ্যায়-১০",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/04/26/Social_Science-10.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=876ee0631c5ef37306610475a975c8a98ea23324b207f62aae53721c26a68391"
+        }
+      ]
+    }
+  ],
+  "others_semester_books": [
+    {
+      "id": 126,
+      "title": "পাস বুক- ম্যাথমেটিক্স-২",
+      "eSubjectImage": {
+        "value": 725,
+        "label": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/image/12/25/Mathematics-2-optimized.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0fcc1d26ad54ee42666e142771c61b4787868059cd460e668d5076e7bd4df4dd"
+      },
+      "eChapters": [
+        {
+          "id": 1313,
+          "serial": 3,
+          "title": "অধ্যায়-০৩",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4cdc009cc06eddb3b85ca2d1168e5fbe8ea532cade999740d65ba5b035be45a9"
+        },
+        {
+          "id": 1314,
+          "serial": 4,
+          "title": "অধ্যায়-০৪",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e51c1da49435489b63a977798a376988c63ed7b83a86709b7ebf4759ab0a0daf"
+        },
+        {
+          "id": 1315,
+          "serial": 5,
+          "title": "অধ্যায়-০৫",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a9cbb151e18095b89b984e16ca2c6b74f1ca0cb208ac755a6cf0ef9739c01bc6"
+        },
+        {
+          "id": 1316,
+          "serial": 6,
+          "title": "অধ্যায়-০৬",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-6.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3ffd47a7be99c6239afbeae2852bdda10d83e4b63a6082ceb3043b0bea84213f"
+        },
+        {
+          "id": 1317,
+          "serial": 7,
+          "title": "অধ্যায়-০৭",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=415a2aa0b4a9be277c24da5cadc03027a4fe32da809aae315056745d9b624ffc"
+        },
+        {
+          "id": 1319,
+          "serial": 9,
+          "title": "অধ্যায়-০৯",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7abd97aaa0ab56f9905e318f6b422887e175abbb5ecc4ca0dd48081a51f7d5b0"
+        },
+        {
+          "id": 1318,
+          "serial": 8,
+          "title": "অধ্যায়-০৮",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1a41efaaf1d07a6e72f46171c75bf0d4dce5efc51b72de643cb952957ee73422"
+        },
+        {
+          "id": 1323,
+          "serial": 10,
+          "title": "অধ্যায়-১০",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-10.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9c70250bc79348a98165b5713260f404c3e2f749a43a08ca538c6e5008ed695f"
+        },
+        {
+          "id": 1327,
+          "serial": 11,
+          "title": "অধ্যায়-১১",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-11.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c4c9eeb68daf920df46070364aa51cf3f57a535bd998448a3dc9047933afdd6c"
+        },
+        {
+          "id": 1329,
+          "serial": 12,
+          "title": "অধ্যায়-১২",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-12.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7ab8ed3f5904fc3ee7ffd3a86e6f67c7c94cb282605f99193cf4985bfd71a6be"
+        },
+        {
+          "id": 1333,
+          "serial": 13,
+          "title": "অধ্যায়-১৩",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-13.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=76867d2aaf11c1d232644ba6fa68c0cea13433cabda3d786b2f3d825da9ea79b"
+        },
+        {
+          "id": 1312,
+          "serial": 2,
+          "title": "অধ্যায়-০২",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b8753325a9c2e3b9afc9c4a3bc9115e0e28e5b845713ef8b0b5ccad1b53396bb"
+        },
+        {
+          "id": 1311,
+          "serial": 1,
+          "title": "অধ্যায়-০১",
+          "eChapterImage": null,
+          "eChapterPreview": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/ebook/chapter/preview/07/26/Mathematics-2.cha-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260825%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T131028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3d9674dddeb8cc1156d725e7b4c3d0fb5eef5283ba083a71b90f39a3896c66a5"
+        }
+      ]
+    }
+  ]
+}

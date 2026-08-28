@@ -1,0 +1,1816 @@
+# Softmax Coverage Report
+# Generated: 2026-08-22 10:30
+# BTEB subjects: 1738
+# Full pass book: 0
+# Ch-1 resource preview: 152
+# E-chapters: 79
+# NO coverage: 1507
+# Repo PDFs: 628
+
+================================================================================
+COVERAGE BY DEPARTMENT
+================================================================================
+
+Aircraft Maintenance Technology- Aerospace (6/50 covered, 44 missing)
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [CH-1]    Basic Electricity
+  [----]    Basic Workshop Practice
+  [----]    Basic Aerodynamics
+  [----]    Engineering Drawing
+  [----]    Bangla -II
+  [----]    English-II
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [----]    Physics-II
+  [----]    Aircraft Structure & Repair
+  [CH-1]    Social Science
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Basic Electronics
+  [----]    Aircraft Materials
+  [----]    Principles of Gas Turbine Engine
+  [ECHAP]   Accounting
+  [----]    Aircraft Fuel and Fire Protection
+  [----]    System Aircraft Pneumatic & Ice-Rain Protection
+  [----]    Aircraft Hardware
+  [----]    Aircraft Hydraulic & Flight Controls
+  [----]    Aircraft Gas Turbine Engine Construction and systems
+  [----]    Environmental Studies
+  [ECHAP]   Industrial Management
+  [----]    Gas Turbine Engine Starting and Monitoring
+  [----]    Aircraft Landing Gear
+  [----]    Airconditioning and Pressurization system
+  [----]    Aircraft Propellers
+  [----]    Helicopter Aerodynamics and Structures
+  [----]    Aircraft Digital Technique
+  [CH-1]    Business Communication
+  [----]    Principles of Marketing
+  [----]    Aircraft Equipment and Furnishing
+  [----]    Helicopter Controls and Systems
+  [----]    Engineering Ethics
+  [----]    Aircraft Instrument System
+  [----]    Aircraft Electrical Power
+  [----]    Innovation & Entrepreneurship
+  [----]    Aviation Legislation-Framework
+  [----]    Air Navigation Orders
+  [----]    Aircraft Maintenance Practices
+  [----]    Human Factors
+  [----]    Aircraft Cabin & Information System
+  [----]    Safety Management system and
+  [----]    Industrial Attachement
+
+Aircraft Maintenance Technology- Avionics (6/50 covered, 44 missing)
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [CH-1]    Basic Electricity
+  [----]    Basic Workshop Practice
+  [----]    Basic Aerodynamics
+  [----]    Engineering Drawing
+  [----]    Bangla -II
+  [----]    English-II
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [----]    Physics-II
+  [----]    Aircraft Structure & Repair
+  [CH-1]    Social Science
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Basic Electronics
+  [----]    Aircraft Materials
+  [----]    Aircraft DC Power System
+  [ECHAP]   Accounting
+  [----]    Aircraft Hardware
+  [----]    Aircraft AC Power
+  [----]    Aircraft Radio and Radar
+  [----]    Aircraft Communication System
+  [----]    Aircraft System I
+  [----]    Environmental Studies
+  [ECHAP]   Industrial Management
+  [----]    Turbine Engine Principles and Construction
+  [----]    Aircraft Electronics
+  [----]    Aircraft System- II
+  [----]    Aircraft Navigation System
+  [----]    Aircraft Instrument System
+  [----]    Aircraft Digital Technique
+  [CH-1]    Business Communication
+  [----]    Principles of Marketing
+  [----]    Engineering Ethics
+  [----]    Aircraft Autopilot System
+  [----]    Electronics Instrument System
+  [----]    Aircraft Electrical Power
+  [----]    Propulsion
+  [----]    Innovation & Entrepreneurship
+  [----]    Aviation Legislation-Framework
+  [----]    Air Navigation Orders
+  [----]    Aircraft Maintenance Practices
+  [----]    Human Factors
+  [----]    Aircraft Cabin & Information
+  [----]    System Safety Management system and
+  [----]    Industrial Attachement
+
+Architecture Technology (7/54 covered, 47 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life Skills Development
+  [----]    Mathematics -I
+  [CH-1]    Chemistry
+  [----]    Creativity and Concept Development
+  [CH-1]    Basic Electricity
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [----]    Architectural Design-I
+  [----]    Civil Engineering Metarials
+  [----]    Computer Office Application
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [----]    Architectural Design-II
+  [----]    Architectural Graphics
+  [----]    Working Drawing-I
+  [----]    Climatology
+  [----]    Computer Aided Drawing -I
+  [CH-1]    Social Science
+  [ECHAP]   Accounting
+  [----]    Architectural Design-III
+  [----]    History of Architecture-I
+  [----]    Working Drawing -II
+  [----]    Computer Aided Drawing -II
+  [----]    Basic Construction Process
+  [----]    Basic Estimating & Costing
+  [CH-1]    Business Communication
+  [----]    Architectural Design-IV
+  [----]    History of Architecture-II
+  [----]    Model Making
+  [----]    Presentation and Visual Technique
+  [CH-1]    Structural Mechanics
+  [----]    Water Supply and Sanitary Engineering
+  [ECHAP]   Industrial Management
+  [----]    Architectural Design-V
+  [----]    Computer Rendering and Animation-I
+  [----]    Landscape Design
+  [----]    Modern Architecture
+  [----]    Interior Design -I
+  [----]    Design of Structure-I
+  [----]    Environmental Studies
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Architectural Project
+  [----]    Computer Rendering and Animation-II
+  [----]    Urban Planning
+  [----]    Professional Practice
+  [----]    Interior Design -II
+  [----]    Basic Surveying
+  [----]    Industrial Attachement
+
+Automobile Technology (7/52 covered, 45 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Mathematics -I
+  [----]    Physics -I
+  [----]    Automobile Fundamentals
+  [CH-1]    Basic Electricity
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physical Education & Life Skills Development
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [----]    Physics-II
+  [----]    Automotive Engine System-I
+  [----]    Basic Workshop Practice
+  [CH-1]    Social Science
+  [----]    Mathematics-III
+  [----]    Automotive Engine System-II
+  [----]    Basic Electronics
+  [----]    Machine Shop Practice I
+  [----]    Mechanical Engineering Materials
+  [----]    Computer Office Application
+  [ECHAP]   Accounting
+  [----]    Automotive Body Building
+  [----]    Engineering Mechanics
+  [----]    Metallurgy
+  [----]    Engineering Thermodynamics
+  [----]    Fuels & Lubricants
+  [----]    Environmental Studies
+  [ECHAP]   Industrial Management
+  [----]    Automobile Air- Conditioning
+  [----]    Advance Automotive Mechanisms
+  [----]    Fluid Mechanics & Machineries
+  [----]    Mechanical Estimating & Costing
+  [----]    Advanced Welding-I
+  [ECHAP]   Manufacturing Process
+  [CH-1]    Business Communication
+  [----]    Principles of Marketing
+  [----]    Engine Overhauling & Inspection
+  [----]    Suspension, Brake, Steering &
+  [----]    Transmission System of Vehicle Specialized Vehicles, Two & Three Wheelers
+  [----]    Foundry & Pattern Making
+  [----]    Strength of Materials
+  [----]    Mechanical Measurement &
+  [----]    Innovation & Entrepreneurship
+  [----]    Automotive Electrical, Electronics
+  [----]    & Automation Automotive Testing & Emission
+  [----]    Control Shop Equipment, Service Station Operation & Workshop Practice
+  [----]    Automobile Engineering Project
+  [----]    Design of Machine Elements
+  [----]    Mechatronics & PLC
+  [----]    Industrial Attachement
+
+Cadastral,Topographic Survey & Land Information Technology (7/55 covered, 48 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics-I
+  [----]    Physics-I
+  [----]    Civil Engineering Materials
+  [CH-1]    Basic Electricity
+  [----]    Bangla-II
+  [----]    English -II
+  [----]    Physical Education & Life
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Computer Office Application
+  [----]    Basic Electronics
+  [----]    Basic Surveying
+  [----]    Chemestry
+  [----]    Mathematics-III
+  [----]    Statistics
+  [----]    Basic Construction Process
+  [----]    Leveling
+  [----]    Survey CAD
+  [----]    Geography of Bangladesh
+  [----]    Geodetic Surveying
+  [CH-1]    Business Communication
+  [CH-1]    Structural Mechanics
+  [----]    Basic Estimating and Costing
+  [----]    Aerial Photography and Photogrammetry
+  [----]    Fundamentals of GIS
+  [----]    Advanced Surveying-I
+  [----]    Digital Cartography
+  [ECHAP]   Accounting
+  [----]    Theory of Structure
+  [----]    Fundamental of Python Programming
+  [----]    Application of GIS in Land Management
+  [----]    Hydraulics & Hydrology
+  [----]    Advanced Surveying-II
+  [----]    Land Laws and Record Management
+  [----]    Environmental Studies
+  [ECHAP]   Industrial Management
+  [----]    Fundamental of Transportation Engineering2
+  [----]    Web GIS
+  [----]    Cadastral Survey & Mapping
+  [----]    Hydrographic Survey
+  [----]    Topographical Map Project
+  [----]    Principles of Topographic Survey
+  [CH-1]    Principle of marketing
+  [----]    Basic Geotechnical & foundation Engineering
+  [----]    Innovation and Entrepreneurship
+  [----]    Remote Sensing
+  [----]    Survey Management and Documentation
+  [----]    AI in Land Management
+  [----]    Basic Design of structure
+  [----]    Mouza Map Project
+  [----]    Industrial Attachement
+
+Ceramic Technology (6/52 covered, 46 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life skill Development
+  [----]    Mathematics -I
+  [----]    Chemesitry
+  [CH-1]    Basic Electricity
+  [----]    Geological Engineering
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [----]    Basic Electronics
+  [----]    Basic Workshop Practice
+  [----]    Ceramic Model Making
+  [----]    Ceramic Engineering Metarials-1
+  [CH-1]    Business Communication
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Model and Mould Fabrication-1
+  [----]    Ceramic Engineering Metarials-2
+  [----]    Ceramic Plants and Equipment
+  [CH-1]    Social Science
+  [----]    Ceramic Test and Calculation
+  [----]    Ceramic Engineering Chemistry
+  [----]    Refractories
+  [----]    Model and Mould Fabrication-2
+  [----]    Ceramic Body Preparation
+  [ECHAP]   Accounting
+  [----]    Heavy Clay Products
+  [----]    White Wares
+  [----]    Ceramic Instrumentation and Process Control
+  [----]    Ceramic Fabrication and Drying
+  [----]    Cement Manufacturing
+  [----]    Fuels and Combustion
+  [ECHAP]   Industrial Management
+  [----]    Tiles and Sanitary Wares
+  [----]    Drier, Kiln and Furnace
+  [----]    Ceramic Quality Control
+  [----]    Ceramic Glaze and Colour
+  [----]    Ceramic Decoration and Printing
+  [----]    Graphic Design
+  [----]    Environmental Studies
+  [CH-1]    Principle of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Ceramic Engineering Project
+  [----]    Advanced Ceramic Products
+  [----]    Kiln, Furnace Design and Construction
+  [----]    Glass Manufacturing
+  [----]    CAD & CAM
+  [----]    Industrial Attachement
+
+Chemical Technology (5/54 covered, 49 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life skill Development
+  [----]    Mathematics -I
+  [CH-1]    Chemistry
+  [----]    Chemical Engineering Fundamentals
+  [----]    Safety in Chemical Industry
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [----]    Basic Stoichiometry
+  [----]    Chemical Engineering Drawing
+  [----]    Basic Electronics
+  [----]    Basic Workshop Practice
+  [CH-1]    Social Science
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [----]    Chemical Engineering Operation-I
+  [----]    Industrial Chemistry
+  [----]    Chemical Engineering Materials
+  [CH-1]    Basic Electricity
+  [----]    Businees Communication
+  [ECHAP]   Accounting
+  [----]    Chemical Engineering Operation-II
+  [----]    Chemical Process Industries-I
+  [----]    Oil, Fats & Waxes
+  [----]    Analytical Chemistry
+  [----]    Computer Office Application
+  [----]    Engineering Mechanics
+  [ECHAP]   Industrial Management
+  [----]    Chemical Engineering Operation-III
+  [----]    Chemical Process Industries-II
+  [----]    Water Treatment Technology
+  [----]    Industrial Instrumentation & Process Control
+  [----]    Refrigeration & Cold Storage
+  [----]    Industrial Production Engineering
+  [----]    Princple of Marketing
+  [----]    Chemical Engineering Operation-IV
+  [----]    Chemical Process Industries-III
+  [----]    Petroleum & Petrochemicals
+  [----]    Industrial Stoichiometry & Thermodynamics
+  [----]    Instrumental Methods of Analysis
+  [----]    Jute & Textile Technology
+  [----]    Innovation & Entrepreneurship
+  [----]    Chemical Engineering Operation-V
+  [----]    Chemical Process Industries-IV
+  [----]    Natural Gas & Fertilizer
+  [----]    Plastic & Polymer Technology
+  [----]    Corrosion Technology
+  [----]    Chemical Engineering Project
+  [----]    Environmental Studies
+  [----]    Industrial Attachement
+
+Civil Technology (9/54 covered, 45 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics -I
+  [CH-1]    Chemistry
+  [----]    Civil Engineering Metarials
+  [CH-1]    Basic Electricity
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physical Education & Life Skills Development
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [----]    Civil Engineering Drawing
+  [----]    Basic Electronics
+  [----]    Basic Workshop Practice
+  [CH-1]    Business Communication
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [CH-1]    Structural Mechanics
+  [----]    Surveying-I
+  [----]    Construction Process-I
+  [----]    Computer Office Application
+  [ECHAP]   Accounting
+  [----]    Construction Process-II
+  [----]    Estimating & Costing-I
+  [----]    Civil CAD-I
+  [----]    Surveying-II
+  [----]    Geotechnical Engineering
+  [----]    Hydrology
+  [----]    Wood Workshop Practice
+  [ECHAP]   Industrial Management
+  [----]    Foundation Engineering
+  [----]    Civil CAD-II
+  [----]    Surveying-III
+  [----]    Theory of Structure
+  [ECHAP]   Water Supply Engineering
+  [----]    Hydraulics
+  [----]    Water Resources Engineering
+  [----]    Advance Surveying
+  [----]    Transportation Engineering-I
+  [----]    Design of Structure-I
+  [----]    Steel Structures
+  [----]    Advanced Construction
+  [----]    Environmental Studies
+  [CH-1]    Principle of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Civil Engineering Project
+  [----]    Sanitary Engineering
+  [----]    Transportation Engineering-II
+  [----]    Design of Structure-II
+  [----]    Estimating & Costing-II
+  [----]    Construction Management &
+  [----]    Industrial Attachement
+
+Civil(Wood) Technology (8/54 covered, 46 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics -I
+  [CH-1]    Chemistry
+  [----]    Civil Engineering Materials
+  [CH-1]    Basic Electricity
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physical Education & Life skills Development
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [----]    Civil Engineering Drawing
+  [----]    Wood Workshop Practice
+  [----]    Basic Electronics
+  [CH-1]    Business Communication
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [CH-1]    Structural Mechanics
+  [----]    Surveying-I
+  [----]    Construction Process-I
+  [----]    Computer Office Application
+  [ECHAP]   Accounting
+  [----]    Construction Process-II
+  [----]    Estimating & Costing-I
+  [----]    Civil CAD-I
+  [----]    Surveying-II
+  [----]    Geotechnical Engineering
+  [----]    Wood Engineering Machanics
+  [----]    Basic Workshop Practice
+  [ECHAP]   Industrial Management
+  [----]    Foundation Engineering
+  [----]    Theory of Structure
+  [ECHAP]   Water Supply Engineering
+  [----]    Design & Drawing of Furniture
+  [----]    Wood Working Machine-I
+  [----]    Wood CAD & CAM
+  [----]    Transportation Engineering-I
+  [----]    Design of Structure-I
+  [----]    Hydraulics
+  [----]    Wood Working Machine-II
+  [----]    Wood Processing
+  [----]    Wood Finishing
+  [----]    Environmental Studies
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Sanitary Engineering
+  [----]    Transportation Engineering-II
+  [----]    Design of Structure-II
+  [----]    Estimating & Costing-II
+  [----]    Wood Working Project
+  [----]    Furniture Fitting & Assembly
+  [----]    Industrial Attachement
+
+Computer Science & Technology (9/52 covered, 43 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Mathematics -I
+  [----]    Physics -I
+  [----]    Computer Office Application
+  [CH-1]    Basic Electricity
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physical Education & Life skills Development
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [----]    Python Programming
+  [----]    Computer Graphics Design-I
+  [----]    Basic Electronics
+  [CH-1]    Social Science
+  [----]    Physics -II
+  [----]    Mathematics-III
+  [----]    Application Development Using Python
+  [----]    Computer Graphics Design-II
+  [----]    IT Support Services
+  [----]    Digital Electronics-I
+  [CH-1]    Business Communication
+  [----]    Java Programming
+  [----]    Data Structure & Algorithm
+  [----]    Computer Peripherals & Interfacing
+  [----]    Web Design & Development-I
+  [----]    Digital Electronics-II
+  [----]    Environmental Studies
+  [ECHAP]   Accounting
+  [ECHAP]   Application Development Using Java
+  [----]    Web Design & Development-II
+  [----]    Computer Architecture & Microprocessor
+  [ECHAP]   Data Communication
+  [CH-1]    Operating System
+  [----]    Project Work-I
+  [----]    Principles of Marketing
+  [ECHAP]   Industrial Management
+  [----]    Database Management System
+  [----]    Computer Networking
+  [----]    Sensor & IoT System
+  [----]    Microcontroller Based System Design & Development
+  [----]    Surveillance Security System
+  [----]    Web Development Project
+  [----]    Innovation & Entrepreneurship
+  [----]    Digital Marketing Technique
+  [----]    Network Administration & Services
+  [----]    Cyber Security & Ethics
+  [----]    Apps Development Project
+  [----]    Multimedia & Animation
+  [----]    Project Work-II
+  [----]    Industrial Attachement
+
+Construction Technology (8/54 covered, 46 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics -I
+  [CH-1]    Chemistry
+  [----]    Civil Engineering Materials
+  [CH-1]    Basic Electricity
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physical Education & Life Skills Development
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [----]    Civil Engineering Drawing
+  [----]    Basic Electronics
+  [----]    Basic Workshop Practice
+  [CH-1]    Business Communication
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [CH-1]    Structural Mechanics
+  [----]    Surveying-I
+  [----]    Computer Office Application
+  [----]    Construction Methodology-I
+  [ECHAP]   Accounting
+  [----]    Estimating & Costing-I
+  [----]    Civil CAD-I
+  [----]    Surveying-II
+  [----]    Geotechnical Engineering
+  [----]    Hydrology
+  [----]    Construction Methodology-II
+  [----]    Construction Safety
+  [ECHAP]   Industrial Management
+  [----]    Foundation Engineering
+  [----]    Civil CAD-II
+  [----]    Surveying-III
+  [----]    Theory of Structure
+  [ECHAP]   Water Supply Engineering
+  [----]    Environmental Studies
+  [----]    Hydraulics
+  [----]    Water Resources Engineering
+  [----]    Transportation Engineering-I
+  [----]    Design of Structure-I
+  [----]    Advanced Construction
+  [----]    Building Facilities & Law
+  [----]    Steel Structures
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Sanitary Engineering
+  [----]    Transportation Engineering-II
+  [----]    Design of Structure-II
+  [----]    Estimating & Costing-II
+  [----]    Construction Management & Documentation
+  [----]    Construction Engineering Project
+  [----]    Industrial Attachement
+
+Electrical Technology (8/49 covered, 41 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life skill Development
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [CH-1]    Basic Electricity
+  [----]    Electrical Engineering Materials
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Electrical Circuits-I
+  [----]    Electrical Engineering Drawing
+  [----]    Basic Electronics
+  [----]    Mathematics-III
+  [CH-1]    Chemistry
+  [----]    Computer Office Applications
+  [----]    Electrical Circuits-II
+  [----]    Electrical Appliances
+  [----]    Industrial Electronics
+  [CH-1]    Social Science
+  [ECHAP]   Accounting
+  [----]    Electrical Installation,Planning and Estimating
+  [----]    DC Machine
+  [----]    Electrical Engineering Project-I
+  [----]    Digital Electronics
+  [----]    Applied Mechanics
+  [CH-1]    Principle of Marketing
+  [ECHAP]   Industrial Management
+  [ECHAP]   Generation of Electrical Power
+  [----]    Electrical & Electronic
+  [----]    Measurements-I Testing and Maintannance of Electrical Equipments
+  [----]    Electrical Engineering Project-II
+  [----]    Microprocessor &
+  [----]    Progamming in C
+  [----]    AC Machine-I
+  [----]    Transmission and Distribution of
+  [----]    Electrical Power-I Electrical & Electronic Measurements-II
+  [----]    Communication Engineering
+  [----]    Environmental Studies
+  [CH-1]    Business Communication
+  [----]    Innovation & Entrepreneurship
+  [----]    AC Machine-II
+  [----]    Transmission and Distribution of Electrical Power-II
+  [----]    Switch Gear and Protection
+  [----]    Electrical Engineering Project-III
+  [----]    Automation Engineering & PLC
+  [----]    Industrial Attachement
+
+Electromedical Technology (8/52 covered, 44 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [CH-1]    Basic Electricity
+  [----]    Human Anatomy and Physiology
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Electrical Circuits-I
+  [----]    Basic Electronics
+  [----]    Basic Biomedical Engineering
+  [CH-1]    Social Science
+  [CH-1]    Chemistry
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Electrical Circuits-II
+  [----]    Medical transducer and Sensors
+  [----]    Operating Room Equipment
+  [ECHAP]   Accounting
+  [----]    Electrical Installation,Planning and Estimating
+  [----]    DC Machine
+  [----]    Electrical & Electronic Measurements-I
+  [----]    Digital Electronics
+  [----]    Dental Equipment
+  [----]    Anesthesia and Respiratory Equipment
+  [CH-1]    Principle of Marketing
+  [ECHAP]   Industrial Management
+  [CH-1]    Programming in C
+  [----]    AC Machine-I
+  [----]    Electrical & Electronic Measurements-II
+  [----]    Radiology and Imaging Equipment
+  [----]    Fibre Optics and Laser in Medical Field
+  [----]    Physiotherapy and Rehabilitation Devices
+  [----]    Transmission and Distribution of Electrical Power
+  [----]    AC Machine-II
+  [----]    Diagonestic and Laboratory Equipment
+  [----]    Microprocesor and Biomedical Application
+  [----]    Testing and Maintenance Biomedical Equipment
+  [----]    CAD in Biomedical Engineering
+  [----]    Environmental Studies
+  [CH-1]    Business Communication
+  [----]    Innovation & Entrepreneurship
+  [----]    Switch Gear and Protection
+  [----]    Advance Biomedical Equiment
+  [----]    ICU and CCU Equipment
+  [----]    Biomedical Engineering Project
+  [----]    Medical Physics and Nuclear
+  [----]    Industrial Attachement
+
+Electronics Technology (9/51 covered, 42 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [CH-1]    Basic Electricity
+  [----]    Basic Electronics
+  [----]    Bangla -II
+  [----]    English-II
+  [CH-1]    Social Science
+  [----]    Physical Education & Life skills Development
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [----]    Electrical Circuits-I
+  [----]    Electronic Devices and
+  [----]    Physics -II
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Electrical Circuits-II
+  [----]    Digital Electronics -I
+  [CH-1]    Power Electronics
+  [ECHAP]   Accounting Electrical
+  [----]    Installation,Planning and Estimating
+  [----]    DC Machine
+  [----]    Digital Electronics -II
+  [----]    Communication Engineering
+  [----]    Networks, Filters and Transmission lines
+  [----]    Electronic servicing
+  [----]    Principles of Marketing
+  [ECHAP]   Industrial Management
+  [CH-1]    Programming in C
+  [ECHAP]   Generation of Electrical Power
+  [----]    Electrical & Electronic Measurements-I
+  [----]    Television Engineering
+  [----]    Electronic Appliances
+  [----]    Bio-Medical Instruments
+  [----]    AC Machine-I
+  [----]    Transmission and Distribution
+  [----]    of Eectrical Power Electrical & Electronic Measurements-II
+  [----]    TV Studio and Broadcasting
+  [----]    Microcontroller and Embedded System
+  [----]    PCB Design and Prototyping
+  [----]    Environmental Studies
+  [CH-1]    Business Communication
+  [----]    Innovation & Entrepreneurship
+  [----]    AC Machine-II
+  [----]    Microwave Radar and Navigation Aids
+  [----]    Industrial Automation and PLC
+  [----]    Control System and Robotics
+  [----]    Electronic Project
+  [----]    Industrial Attachement
+
+Environmental Technology (8/54 covered, 46 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics -I
+  [CH-1]    Chemistry
+  [CH-1]    Basic Electricity
+  [----]    Basic Environmental Engineering
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [----]    Civil Engineering Drawing
+  [----]    Computer Office Application
+  [----]    Basic Electronics
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [----]    Civil Engineering Metarials
+  [----]    Surveying-I
+  [----]    Construction Process-I
+  [----]    Basic Workshop Practice
+  [----]    Water Quality Engineering
+  [----]    Physical Education & Life skills Development
+  [CH-1]    Business Communication
+  [CH-1]    Structural Mechanics
+  [----]    Estimating & Costing-I
+  [----]    Civil CAD-I
+  [----]    Surveying-II
+  [----]    Geotechnical Engineering
+  [----]    Environmental Chemistry
+  [ECHAP]   Accounting
+  [----]    Construction Process-II
+  [----]    Theory of Structure
+  [ECHAP]   Water Supply Engineering
+  [----]    Water and Waste Water Engineering
+  [----]    Environmental Microbiology
+  [----]    Geographic Information System (GIS) &
+  [ECHAP]   Industrial Management
+  [----]    Hydraulics
+  [----]    Transportation Engineering-I
+  [----]    Design of Structure-I
+  [----]    Environmental Impact Assessment (EIA) & Environmental Regulation
+  [----]    Air Pollution & Control Engineering
+  [----]    Environmenatl Auditing
+  [----]    Health, Safety & Environment (HSE)
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Sanitary Engineering
+  [----]    Estimating & Costing-II
+  [----]    Construction Management & Documentation
+  [----]    Energy & Environmental Engineering
+  [----]    Solid and Hazardous Waste Engineering
+  [----]    Climate Change and Adaptability
+  [----]    Industrial Attachement
+
+Food Technology (6/54 covered, 48 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics -I
+  [CH-1]    Chemistry
+  [----]    Food Engineering Fundamentals
+  [----]    Food Safety & Hygiene
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [CH-1]    Basic Electricity
+  [----]    Food Science & Nutrition
+  [----]    Food Plant Layout & Design
+  [----]    Basic Workshop Practice
+  [CH-1]    Social Science
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [----]    Computer office Application
+  [----]    Basic Electronics
+  [----]    Catering Management
+  [----]    Food Industrial Chemistry
+  [CH-1]    Business Communication
+  [ECHAP]   Accounting
+  [----]    Food Microbiology-I
+  [----]    Food Preservation-I
+  [----]    Food Chemistry
+  [----]    Food Packaging
+  [----]    Dairy Products
+  [----]    Engineering Mechanics
+  [ECHAP]   Industrial Management
+  [----]    Refrigeration & Cold Storage
+  [----]    Food Microbiology-II
+  [----]    Food Preservation-II
+  [----]    Food Biotechnology
+  [----]    Food & Beverage Products
+  [----]    Food Industrial Instrumentation &
+  [----]    Industrial Stoichiometry & Thermodynamics
+  [----]    Instrumental Methods of Analysis
+  [----]    Food Engineering Operation-I
+  [----]    Food Process Industries-I
+  [----]    Bakery Products
+  [----]    Food Adulteration & Toxicology
+  [----]    Environmental Studies
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Food Engineering Operation-II
+  [----]    Food Process Industries-II
+  [----]    Food Quality Control & Assurance
+  [----]    Confectionery Products
+  [----]    Food Analysis
+  [----]    Food Engineering Project
+  [----]    Industrial Attachment
+
+Footwear Technology (7/51 covered, 44 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [----]    Physical Education & Life skills Development
+  [CH-1]    Basic Electricity
+  [----]    Basic Workshop Practice
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Footwear Engineering Fundamentals
+  [----]    Materials Science and Engineering
+  [----]    Mechanical Engineering Fundamentals
+  [CH-1]    Social Science
+  [CH-1]    Chemistry
+  [----]    Mathematics-III
+  [----]    Basic Electronics
+  [----]    Computer Office Appilication
+  [----]    Footwear Manufacturing
+  [ECHAP]   Accounting
+  [----]    Environmental Studies
+  [----]    Footwear Manufacturing
+  [----]    Tanning and Footwear Materials
+  [----]    Leather Manufacturing
+  [----]    Corpoarte Scocial Responcibilies
+  [----]    Footwear Design
+  [ECHAP]   Industrial Management
+  [----]    Footwear Manufacturing
+  [----]    Footwear Design
+  [----]    Physical Testing
+  [----]    Leather Products Manufacturing
+  [----]    Chemical Testing
+  [----]    Leather Manufacturing
+  [CH-1]    Business Communication
+  [CH-1]    Principle of Marketing
+  [----]    Footwear Manufacturing
+  [----]    CAD and CAM For Footwear
+  [----]    Physical Testing
+  [----]    Supply Chain Management
+  [----]    Manufacturing Machineries
+  [----]    Automation in Footwear Industry
+  [----]    Innovation & Entrepreneurship
+  [----]    Production Planning for Footwear Manufacture
+  [----]    International Trade and Finance
+  [----]    Merchandiging
+  [----]    Footwear Engineering Project
+  [----]    Quality Control and Assurence
+  [----]    Solid Waste Management
+  [----]    Industrial Attachement
+
+Geoinformatics Technology (6/56 covered, 50 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics-I
+  [----]    Physics-I
+  [----]    Civil Engineering Materials
+  [CH-1]    Basic Electricity
+  [----]    Bangla-II
+  [----]    English -II
+  [----]    Physical Education & Life Skills Development
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Basic Electronics
+  [----]    Computer office Application
+  [----]    Basic Surveying
+  [----]    Chemestry
+  [----]    Mathematics-III
+  [----]    Statistics
+  [----]    Basic Construction Process
+  [----]    Leveling
+  [----]    Survey CAD
+  [----]    Geography of Bangladesh
+  [----]    Geodetic Surveying
+  [CH-1]    Business Communication
+  [----]    Advanced Geospatial Surveying
+  [CH-1]    Structural Mechanics
+  [----]    Basic Estimating & Costing
+  [----]    Aerial Photography and Photogrammetry
+  [----]    Fundamentals of GIS
+  [----]    Digital Cartography
+  [ECHAP]   Accounting
+  [----]    Advanced Geospatial Surveying
+  [----]    Basic Geotechnical & Foundation Engineering
+  [----]    Theory of Structure
+  [----]    Fundamentals of Python Programming
+  [----]    Land Laws and Record Management
+  [----]    Hydraulics & Hydrology
+  [----]    Environmental Studies
+  [ECHAP]   Industrial Management
+  [----]    Fundamentals of Remote Sensing
+  [----]    Disaster Management using GIS
+  [----]    Urban & Smart City Geospatial Planning
+  [----]    Fundamental of Transportation Engineering
+  [----]    Basic Design of Structure
+  [----]    Hydrographic Surveying
+  [----]    Preapartion and Maintainces of Land Records
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Artificial Intelligence in Geoinformatics
+  [----]    Geoinformatics Project
+  [----]    Geo-Database Management System
+  [----]    Topographic Survey And Mapping
+  [----]    Survey Management & Documentation
+  [----]    Mine Survey
+  [----]    Industrial Attachment
+
+Glass Technology (6/52 covered, 46 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Business Communication
+  [----]    Mathematics -I
+  [----]    Chemesitry
+  [CH-1]    Basic Electricity
+  [----]    Glass engineering materials‐I
+  [----]    Bangla -II
+  [----]    English-II
+  [CH-1]    Social Science
+  [----]    Physical Education & Life skill Development
+  [----]    Physics -I
+  [----]    Mathematics-II
+  [----]    Basic Electronics
+  [----]    Glass Engineering Materials‐II
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Basic Workshop Practice
+  [----]    Glass Mould & Die‐I
+  [----]    Glass Plants & Equipment
+  [----]    Preparation of Glass Raw Materials
+  [ECHAP]   Accounting
+  [----]    Automation Engineering & PLC
+  [----]    Glass Engineering Chemistry
+  [----]    Glass Mould & Die ‐II
+  [----]    Glass Fabrication ‐I
+  [----]    Fuels and Combustion
+  [----]    Graphics Design
+  [CH-1]    Principle of Marketing
+  [ECHAP]   Industrial Management
+  [----]    CAD & CAM
+  [----]    Cement Manufacturing
+  [----]    Glass Melting Furnace
+  [----]    Glass Fabrication‐II
+  [----]    Ceramic Manufracturing‐I
+  [----]    Refractories
+  [----]    Ceramic Manufacturing‐II
+  [----]    Heat Transfer & Thermodynamics
+  [----]    Glass Quality Control‐I
+  [----]    Glass Products‐I
+  [----]    Glass Industrial Safety
+  [----]    Environmental Studies
+  [----]    Innovation & Entrepreneurship
+  [----]    Glass Products‐II
+  [----]    Glass Quality Control‐II
+  [----]    Glass Decoration & Printing
+  [----]    Glass House Instrumentation
+  [----]    Furnace Design & Construction
+  [----]    Glass Engineering Project
+  [----]    Industrial Attachement
+
+Graphic Design Technology (7/52 covered, 45 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [----]    Basic Workshop Practice
+  [----]    Printing Basics
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Computer Office Application
+  [CH-1]    Basic Electricity
+  [----]    Offset Machine Operation
+  [CH-1]    Business Communication
+  [CH-1]    Chemistry
+  [----]    Mathematics-III
+  [----]    Basic Electronics
+  [----]    Graphic Materials
+  [----]    Graphic Design-I
+  [----]    Basic Photography
+  [ECHAP]   Accounting
+  [----]    Environmental Studies
+  [----]    Screen Printing
+  [----]    Safety and Maintainance
+  [----]    Image Carrier Preparation
+  [----]    Graphic Design-II
+  [----]    Video and Sound Editing
+  [ECHAP]   Industrial Management
+  [----]    Digital Design & Printing
+  [----]    Advertising Design
+  [----]    Fabric Design
+  [----]    Design & Editing
+  [----]    Packaging Design-I
+  [----]    Graphic Design-III
+  [CH-1]    Principle of Marketing
+  [----]    Printing Costing & Estimating
+  [----]    Desktop Publishing
+  [----]    Web Design & Development
+  [----]    Graphic Design-IV
+  [----]    Image Manipulation
+  [----]    Graphic Professional Practice-I
+  [----]    Innovation & Entrepreneurship
+  [----]    Animation
+  [----]    Packaging Design-II
+  [----]    Advanced Digital Photography
+  [----]    Graphic Design-V
+  [----]    Graphic Communication
+  [----]    Graphic Professional Practice-II
+  [----]    Industrial Attachement
+
+Land Resources Survey & Environment Technology (6/54 covered, 48 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics-I
+  [----]    Physics-I
+  [----]    Civil Engineering Materials
+  [CH-1]    Basic Electricity
+  [----]    Bangla-II
+  [----]    English -II
+  [----]    Physical Education & Life skills
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Basic Electronics
+  [----]    Basic Surveying
+  [----]    Computer Office Application
+  [----]    Chemestry
+  [----]    Statistics
+  [----]    Mathematics-III
+  [----]    Basic Construction Process
+  [----]    Leveling
+  [----]    Survey CAD
+  [----]    Geography of Bangladesh
+  [----]    Geodetic Surveying
+  [CH-1]    Business Communication
+  [----]    Basic Geotechnical and foundation Engineering
+  [CH-1]    Structural Mechanics
+  [----]    Basic Estimating and Costing
+  [----]    Environmental Surveying and Monitoring
+  [----]    Aerial Photography and Photogrammetry
+  [----]    Advanced Surveying-I
+  [----]    Principles of Marketing
+  [----]    Theory of Structure
+  [----]    Fundamental of Python Programmimg
+  [----]    Survey for Development & Planning
+  [----]    Land Laws and Record Management
+  [----]    Fundamentals of GIS
+  [----]    Digital Cartography
+  [----]    Advanced Surveying-II
+  [ECHAP]   Accounting
+  [ECHAP]   Industrial Management
+  [----]    Land Use & Zoning.
+  [----]    Fundamental of Transportation Engineering2
+  [----]    Advanced GIS
+  [----]    Hydraulics & Hydrology
+  [----]    Hydrographic Surveying
+  [----]    Innovation & Entrepreneurship
+  [----]    Remote Sensing
+  [----]    Land Resource Survey Project
+  [----]    Geospatial AI in Land Survey
+  [----]    Urban & Rural Surveying and
+  [----]    Basic Design of Structure
+  [----]    Mine Surveying
+  [----]    Industrial Attachement
+
+Marine Technology (6/55 covered, 49 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [CH-1]    Basic Electricity
+  [----]    Basic Workshop Practice
+  [----]    Bangla -II
+  [----]    English-II
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Basic Electronics
+  [----]    Machine Shop Practice I
+  [----]    General Ship Knowledge
+  [CH-1]    Social Science
+  [----]    Mathematics-III
+  [----]    Machine Shop Practice II
+  [----]    Engineering Mechanics
+  [----]    Engineering Thermodynamics
+  [----]    Marine IC Engine-I
+  [ECHAP]   Accounting
+  [----]    Metallurgy
+  [----]    Fluid Mechanics & Hydraulic Machinery
+  [----]    Marine IC Engine- II
+  [----]    Naval Architecture
+  [CH-1]    Welding
+  [----]    Computer Office Appilication
+  [----]    Marine Auxiliary Systems
+  [----]    Marine Boiler & Steam Engineering
+  [----]    Marine Fuels & Lubricants
+  [----]    Marine IC Engine Operation & Maintenance
+  [----]    Basic Safety & Security
+  [----]    Maritime Laws
+  [----]    Machine Drawing
+  [----]    Ship Construction & Repair
+  [ECHAP]   Industrial Management
+  [----]    Strength of Materials
+  [----]    CAD & CAM
+  [----]    Power System Protection
+  [----]    Marine Electrical Installation &
+  [----]    Instrumentation Shipboard Deck machinery, Out-
+  [----]    fittings & Bridge Equipment Marine Propulsion & Steering System
+  [----]    Marine Enviromental Science
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Leadership & Professional Ethics
+  [----]    Advanced Machine Drawing
+  [----]    Marine IC Engine Overhauling and Record Keeping
+  [----]    Career Guideline in Maritime Sector
+  [----]    RAC Cycles & Components
+  [----]    Applied Heat
+  [----]    Control Engineering & Mechatronics
+  [----]    Presentation on Industrial
+
+Mechanical Technology (7/51 covered, 44 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life Skills Development
+  [----]    Mathematics -I
+  [----]    Physics -I
+  [----]    Basic Workshop Practice
+  [----]    Machine Shop Practice I
+  [----]    Bangla -II
+  [----]    English-II
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [CH-1]    Basic Electricity
+  [----]    Mechanical Engineering Drawing
+  [CH-1]    Social Science
+  [CH-1]    Business Communication
+  [----]    Mathematics-III
+  [----]    Mechanical Engineering Materials
+  [----]    Machine Shop Practice-II
+  [----]    RAC Cycles and Components
+  [----]    Computer Office Application
+  [ECHAP]   Accounting
+  [----]    Basic Electronics
+  [----]    Engineering Mechanics
+  [----]    Machine Shop Practice III
+  [----]    Metallurgy
+  [----]    Engineering Thermodynamics
+  [----]    Environmental Studies
+  [ECHAP]   Industrial Management
+  [----]    Fluid Mechanics & Machineries
+  [----]    Mechanical Estimating & Costing
+  [----]    Advanced Welding-I
+  [----]    Foundry & Pattern Making
+  [ECHAP]   Manufacturing Process
+  [----]    Progamming in C
+  [----]    Principles of Marketing
+  [----]    Automobile Fundamentals
+  [----]    Strength of Materials
+  [----]    Mechanical Measurement & Metrology
+  [----]    CAD & CAM
+  [----]    Advanced Welding-II
+  [----]    Plant Engineering & Maintainance
+  [----]    Innovation & Entrepreneurship
+  [----]    Design of Machine Elements
+  [----]    Tool Design
+  [----]    Heat Treatment of Metal
+  [----]    Mechanical Engineering Project
+  [----]    Production Planning & Control
+  [----]    Mechatronics & PLC
+  [----]    Industrial Attachement
+
+Mechatronics Technology (7/52 covered, 45 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Physical Education & Life Skills Development
+  [----]    Mathematics -I
+  [----]    Physics -I
+  [CH-1]    Basic Electricity
+  [----]    Basic Workshop Practice
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Mathematics-II
+  [----]    Physics-II
+  [----]    Basic Electronics
+  [----]    Machine Shop Practice I
+  [----]    Mechanical Engineering Drawing
+  [CH-1]    Social Science
+  [CH-1]    Business Communication
+  [CH-1]    Chemistry
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Electronic Devices & Circuits
+  [----]    Mechanical Engineering Materials
+  [----]    Basic Mechatronics
+  [ECHAP]   Accounting
+  [----]    Progamming in C
+  [----]    Machine Shop Practice II
+  [----]    Engineering Mechanics
+  [----]    Engineering Thermodynamics
+  [----]    Environmental Studies
+  [----]    Electrical Circuits & Machine
+  [----]    Principles of Marketing
+  [ECHAP]   Industrial Management
+  [----]    Digital Electronics
+  [----]    Fluid Mechanics & Machineries
+  [ECHAP]   Manufacturing Process
+  [----]    Power Plant Enginnering
+  [----]    Programmable Logic Controller
+  [----]    Industrial Electronics
+  [----]    Strength of Materials
+  [----]    Mechanical Measurement & Metrology
+  [----]    CAD & CAM
+  [----]    Microprocessor & Microcontroller Aplications
+  [----]    Instrumentation & Control System
+  [----]    Innovation & Entrepreneurship
+  [----]    Design of Machine Elements
+  [----]    Production Planning & Control
+  [----]    Hybride & Electric Vehicle
+  [----]    Mechatronics Engineering Project
+  [----]    Industrial Automation System Design
+  [----]    Networks & Communications
+  [----]    Robotics, Manufacture & Process Engineering
+  [----]    Industrial Attachement
+
+Petroleum and Mining Technology (7/54 covered, 47 missing)
+  [----]    Engineering Drawing
+  [CH-1]    Social Science
+  [----]    English-I
+  [----]    Basic Electronics
+  [----]    Mathematics-I
+  [----]    Physics-I
+  [----]    Basic Workshop Practice
+  [----]    Basics of Petroleum and Mining Geology
+  [----]    Bangla-I
+  [----]    English-II
+  [----]    Mathematics-II
+  [----]    Physics-II
+  [CH-1]    Basic Electricity
+  [CH-1]    Machine Shop Practice
+  [----]    Mineralogy and Mineral Resource of Bangladesh
+  [----]    Bangla-II
+  [----]    Physical Education & Life skill Development
+  [CH-1]    Business Communication
+  [CH-1]    Chemistry
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Rock Mechanics
+  [----]    Mine Survey Engineering
+  [----]    Petroleum Exploration Geology
+  [----]    Mining System
+  [----]    Mine Machinaries and Maintanences
+  [ECHAP]   Accounting
+  [----]    Engineering Mechanics
+  [----]    Metallurgy
+  [----]    Python Progamming
+  [----]    Environmental Studies
+  [----]    Petroleum Reservoir Engineering and Modeling
+  [----]    Mine Ventilation and Safety Engineering
+  [----]    Hydrogeology and Water Resources Engineering
+  [----]    Fluid Mechanics and Machinaries
+  [----]    Advance Welding-I
+  [----]    Engineering Thermodynamics
+  [----]    Principles of Marketing
+  [----]    Petroleum Well Drilling and Completion
+  [----]    Drilling, Blasting and Excavation
+  [----]    Strength of Materials
+  [----]    CAD & CAM
+  [----]    Plant Engineering and Maintenance
+  [----]    Heat Treatment of Metals
+  [ECHAP]   Industrial Management
+  [----]    Name of Technology: Petroleum
+  [----]    AI & Software Management in Petroleum and Mining
+  [----]    Mine Planing and Design
+  [----]    Geo-resource Engineering Project
+  [----]    Design of Machine Elements
+  [----]    Production Planing and Controll
+  [----]    Mechatronics and PLC
+  [----]    Innovation & Entrepreneurship
+  [----]    Industrial Attachement
+
+Photogrammetry & Remote Sensing Technology (6/55 covered, 49 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics-I
+  [----]    Physics-I
+  [----]    Civil Engineering Materials
+  [CH-1]    Basic Electricity
+  [----]    Bangla-II
+  [----]    English -II
+  [----]    Physical Education & Life
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Computer Office
+  [----]    Basic Electronics
+  [----]    Basic Surveying
+  [----]    Chemestry
+  [----]    Mathematics-III
+  [----]    Statistics
+  [----]    Basic Construction Process
+  [----]    Leveling
+  [----]    Survey CAD
+  [----]    Geography of Bangladesh
+  [----]    Geodetic Surveying
+  [CH-1]    Business Communication
+  [CH-1]    Structural Mechanics
+  [----]    Basic Estimating & Costing
+  [----]    Aerial Photography and Photogrammetry
+  [----]    Fundamentals of GIS
+  [----]    Advanced Surveying-I
+  [----]    Digital Cartography
+  [ECHAP]   Accounting
+  [----]    Theory of Structure
+  [----]    Land Laws & Record Management
+  [----]    Fundamental of Transportation Engineering
+  [----]    Advanced GIS
+  [----]    Advanced Surveying-II
+  [----]    Environmental Studies
+  [----]    Principles of Marketing
+  [ECHAP]   Industrial Management
+  [----]    Fundamental of Python Programmimg
+  [----]    Advanced Photogrametry & Remote
+  [----]    Topographic Survey & Planning
+  [----]    Satellite Geodesy & GNSS
+  [----]    Advanced UAV & RPAS Project
+  [----]    Hydrographic Surveying
+  [----]    Innovation & Entrepreneurship
+  [----]    Basic Design of Structure
+  [----]    Photogramtery & Remote Sensing Project
+  [----]    AI for Photogrammetry & Remote Sensing
+  [----]    Remote Sensing
+  [----]    Survey Mangement & Documentaion
+  [----]    Hydraulics & Hydrology
+  [----]    Mine Surveying
+  [----]    Industrial Attachement
+
+Power Technology (6/50 covered, 44 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Physical Education & Life Skills Development
+  [----]    Mathematics -I
+  [----]    Physics -I
+  [----]    Power Engineering Fundmental
+  [----]    Bangla -II
+  [----]    English-II
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [CH-1]    Basic Electricity
+  [----]    Basic Workshop Practice
+  [----]    Power Equipment Management & Safety
+  [----]    Computer Office Application
+  [----]    Physics-II
+  [----]    Mathematics-III
+  [----]    Basic Electronics
+  [----]    Machine Shop Practice- I
+  [----]    Engineering Thermodynamics
+  [----]    RAC Cycles & Components
+  [ECHAP]   Accounting
+  [----]    Engineering Mechanics
+  [----]    Metallurgy
+  [----]    IC Engine Details
+  [----]    Fuels & Lubricants
+  [----]    Suspention, Brake, Steering & Transmission System of
+  [----]    Progamming in C
+  [CH-1]    Business Communication
+  [ECHAP]   Industrial Management
+  [----]    Automotive Body Building
+  [----]    Fluid Mechanics & Machineries
+  [----]    Advanced Welding-I Automotive
+  [----]    Electricity,Electronics & Automation
+  [----]    Power Plant Enginnering
+  [----]    Transmission and Distribution of Electrical Power
+  [----]    Strength of Materials
+  [----]    Mechanical Measurement &
+  [----]    Metrology Plant Engineering &
+  [----]    Maintainance Engine Overhauling, Inspection & Testing
+  [----]    Environmental Studies
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Design of Machine Elements
+  [----]    Heat Treatment of Metal Service Station
+  [----]    Operation,Estimating & Vechicle driving
+  [----]    Hybrid & Electric Vehicle
+  [----]    Power Engineering Project
+  [----]    Industrial Attachement
+
+Printing Technology (7/52 covered, 45 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [----]    Basic Workshop Practice
+  [----]    Printing Basics
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Computer Office Application
+  [CH-1]    Basic Electricity
+  [----]    Offset Machine Operation
+  [CH-1]    Business Communication
+  [CH-1]    Chemistry
+  [----]    Mathematics-III
+  [----]    Basic Electronics
+  [----]    Graphic Materials
+  [----]    Graphic Design-I
+  [----]    Basic Photography
+  [ECHAP]   Accounting
+  [----]    Environmental Studies
+  [----]    Screen Printing
+  [----]    Safety and Maintainance
+  [----]    Image Carrier Preparation
+  [----]    Graphic Design-II
+  [----]    Video and Sound Editing
+  [ECHAP]   Industrial Management
+  [----]    Flexo & Can Printing
+  [----]    Color Printing-I
+  [----]    Printing Quality Control
+  [----]    Ink & Paper
+  [----]    Digital Design & Printing
+  [----]    Graphics Design-III
+  [CH-1]    Principle of Marketing
+  [----]    Printing Costing & Estimating
+  [----]    Color Printing -II
+  [----]    Printing Professional Practice -I
+  [----]    Gravure Printing
+  [----]    Packaging Design-I
+  [----]    Image Manipulation
+  [----]    Innovation & Entrepreneurship
+  [----]    Advanced Printing
+  [----]    Trouble Shooting Management in
+  [----]    Print Finishing
+  [----]    Printing Professional Practice -II
+  [----]    Packaging Design-II
+  [----]    Graphic Communication
+  [----]    Industrial Attachement
+
+RAC Technology (8/52 covered, 44 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [----]    Basic Workshop Practice
+  [----]    RAC Fundamental
+  [----]    Bangla -II
+  [----]    English-II
+  [----]    Physical Education & Life skills Development
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [CH-1]    Basic Electricity
+  [----]    Mechanical Engineering Drawing
+  [----]    Mechanical Engineering Materials
+  [CH-1]    Business Communication
+  [----]    Physics -II
+  [----]    Mathematics-III
+  [----]    Automobile Fundamentals
+  [----]    Basic Electronics
+  [----]    Engineering Thermodynamics
+  [----]    RAC Cycles & Components
+  [ECHAP]   Accounting
+  [----]    Machine Shop Practice I
+  [----]    Engineering Mechanics
+  [----]    Circuits and Electrical Machine in RAC
+  [----]    Transport RAC
+  [----]    Environmental Studies
+  [----]    Computer Office Application
+  [CH-1]    Principle of Marketing
+  [----]    Metallurgy
+  [----]    Fluid Mechanics & Machineries
+  [----]    Mechanical Estimating & Costing
+  [----]    Heating Ventilation & Air Conditioning (HVAC)
+  [----]    Commercial & Industrial RAC
+  [----]    Progamming in C
+  [ECHAP]   Industrial Management
+  [ECHAP]   Manufacturing Process
+  [----]    Strength of Materials
+  [----]    CAD & CAM
+  [----]    Plant Engineering & Maintainance
+  [----]    Cooling &Heating Load Calculation
+  [----]    RAC Plant Installation Maintenance &
+  [----]    Innovation & Entrepreneurship
+  [----]    Production Planning & Control
+  [----]    RAC System Analysis
+  [----]    RAC Project
+  [----]    Advance RAC
+  [----]    RAC for Food Preservation
+  [----]    Mechatronics & PLC
+  [----]    Industrial Attachement
+
+Shipbuilding Engineering (7/55 covered, 48 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla -I
+  [----]    English -I
+  [CH-1]    Social Science
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [CH-1]    Basic Electricity
+  [----]    Basic Workshop Practice
+  [----]    Bangla-II
+  [----]    English-II
+  [CH-1]    Chemistry
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Basic Electronics
+  [----]    Machine Shop Practice I
+  [----]    General Ship Knowledge
+  [----]    Physical Education & Life skill Development
+  [----]    Mathematics-III
+  [----]    Machine Shop Practice II
+  [----]    Engineering Mechanics
+  [----]    Engineering Thermodynamics
+  [----]    Marine IC Engine-I
+  [----]    Machine Drawing
+  [ECHAP]   Accounting
+  [----]    Metallurgy
+  [----]    Strength of Materials
+  [----]    Marine IC Engine-II
+  [----]    Naval Architecture
+  [CH-1]    Welding
+  [----]    Computer Office Appilication
+  [----]    Marine Auxiliary Systems
+  [----]    Marine Fuels & Lubricants
+  [----]    Basic Safety & Security
+  [----]    Maritime Laws
+  [----]    Shipbuilding Drawing
+  [----]    Shipyard Practice
+  [----]    Ship Construction & Repair
+  [ECHAP]   Industrial Management
+  [----]    CAD & CAM
+  [----]    Marine Electrical Installation &
+  [----]    Instrumentation Shipboard Deck machinery, Out-fittings & Bridge Equipment
+  [----]    Marine Propulsion & Steering System
+  [----]    Marine Enviromental Science
+  [----]    Ship Design
+  [CH-1]    Advanced Welding
+  [----]    Estimating & Costing in Shipbuilding
+  [----]    Innovation & Entrepreneurship
+  [----]    Fluid Mechanics & Hydraulic Machinery
+  [----]    Marine Boiler & Steam Engineering
+  [----]    Marine IC Engine Operation & Maintenance
+  [----]    Leadership & Professional Ethics
+  [----]    Career Guideline in Maritime Sector
+  [----]    RAC Cycles & Components
+  [----]    Control Engineering & Mechatronics
+  [----]    Presentation on Industrial Atatchements
+
+Surveying Technology (7/56 covered, 49 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [CH-1]    Social Science
+  [----]    Mathematics -I
+  [----]    Physics -I
+  [----]    Civil Engineering Materials
+  [CH-1]    Basic Electricity
+  [----]    Bangla -II
+  [----]    English -II
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Computer Office Application
+  [----]    Basic Electronics
+  [----]    Basic Surveying
+  [CH-1]    Chemistry
+  [----]    Mathematics-III
+  [----]    Statistics
+  [----]    Basic Construction Process
+  [----]    Leveling
+  [----]    Survey CAD
+  [----]    Geography of Bangladesh
+  [----]    Geodetic Surveying
+  [CH-1]    Business Communication
+  [CH-1]    Structural Mechanics
+  [----]    Basic Estimating & Costing
+  [----]    Aerial Photography and Photogrammetry
+  [----]    Fundamentals of GIS
+  [----]    Advanced Surveying-I
+  [----]    Digital Cartography
+  [ECHAP]   Accounting
+  [----]    Theory of Structure
+  [----]    Python Programming
+  [----]    Advanced GIS
+  [----]    Hydraulics & Hydrology
+  [----]    Advanced Surveying-II
+  [----]    Land Laws of Bangladesh
+  [----]    Environmental Studies
+  [ECHAP]   Industrial Management
+  [----]    Transportation Engineering-I
+  [----]    Design of Structure-I
+  [----]    Principles of Topographic Survey
+  [----]    Application of Python Programming
+  [----]    Hydrographic Surveying
+  [----]    Survey Project-I
+  [----]    Preapartion and Maintainces of
+  [----]    Principles of Marketing
+  [----]    Innovation & Entrepreneurship
+  [----]    Transportation Enggineering-II
+  [----]    Design of Structure -II
+  [----]    Mine Surveying
+  [----]    Survey Project-II
+  [----]    Remote Sensing
+  [----]    Construction Mangement & Documentaion
+  [----]    Industrial Attachement
+
+Telecommunication Technology (8/49 covered, 41 missing)
+  [----]    Engineering Drawing
+  [----]    Bangla-I
+  [----]    English-I
+  [----]    Mathematics -I
+  [----]    Physics-I
+  [CH-1]    Basic Electricity
+  [----]    Basics of Telecommunication
+  [----]    Bangla -II
+  [----]    English-II
+  [CH-1]    Social Science
+  [----]    Physical Education & Life skills Development
+  [----]    Mathematics-II
+  [----]    Physics -II
+  [----]    Electrical Circuits-I
+  [----]    Basic Electronics
+  [CH-1]    Chemistry
+  [----]    Mathematics-III
+  [----]    Computer Office Application
+  [----]    Electrical Circuits-II
+  [----]    Electronic Devices and Circuits
+  [----]    Telecom Workshop and Outside
+  [ECHAP]   Accounting
+  [----]    Progamming in C
+  [----]    Electrical Installation,Planning and Estimating
+  [----]    Digital Electronics
+  [----]    Radio and TV Engineering
+  [----]    IT Support and IoT Basics
+  [----]    Data Communications and
+  [CH-1]    Principle of Marketing
+  [ECHAP]   Industrial Management
+  [----]    DC Machine
+  [ECHAP]   Generation of Electrical Power
+  [----]    Electrical & Electronic
+  [----]    Measurements-I Microprocessor &
+  [----]    Microcontroller Multimedia and Webpage
+  [----]    AC Machine-I
+  [----]    Electrical & Electronic
+  [----]    Measurements-II Transmission and Distribution of Electrical Power
+  [----]    Environmental Studies
+  [----]    Wireless and Mobile Communication
+  [----]    Signals and Switching System
+  [CH-1]    Business Communication
+  [----]    Innovation & Entrepreneurship
+  [----]    AC Machine-II
+  [----]    Switch Gear and Protection
+  [----]    Microwave Engineering and Antennas
+  [----]    Optical Fiber Communication
+  [----]    Satellite Communication and
+  [----]    Industrial Attachement
+
+Tourism and Hospitality Management Technology (6/51 covered, 45 missing)
+  [----]    Bangla -I
+  [----]    English-1
+  [----]    Physical Education & Life Skill Development
+  [ECHAP]   Accounting
+  [----]    Computer Office Application
+  [----]    Basics of Tourism and Hospitality
+  [----]    Food Safety, Hygiene, and Sanitation for
+  [CH-1]    Bangla
+  [----]    English-II
+  [CH-1]    Social Science
+  [CH-1]    Business communication
+  [----]    Principles of Marketing
+  [----]    Tourism in Bangladesh
+  [----]    Front Office Operation-I
+  [----]    Field visit
+  [CH-1]    Basic Electricity
+  [----]    Consumer Behaviour
+  [----]    Culinary Art-I
+  [----]    Front Office Operation-II
+  [----]    Travel Agency and Tour Operations
+  [----]    Manners and Etiquettes in Tourism and Hospitality
+  [----]    Tourism and Hospitality Laws
+  [----]    Food & Beverage Service
+  [----]    Bakery & Pastry Production
+  [----]    Destination and Resort Management
+  [----]    Accommodation and Room Division Management
+  [----]    Human Resource Management
+  [----]    Management Information System (MIS) in Tourism and Hospitality
+  [----]    Tourism Geography
+  [----]    Environmental Studies
+  [----]    Housekeeping & Laundry Operation
+  [----]    Culinary Art-II
+  [----]    Meetings, Incentives, Conference, and Exhibitions (MICE) and Event Management
+  [----]    Aviation and Flight Management
+  [----]    Finance
+  [----]    Hotel Engineering and Maintenance
+  [ECHAP]   Industrial Management
+  [----]    Risk and Crisis Management
+  [----]    Property Management System (PMS)
+  [----]    Community Based Tourism
+  [----]    Communicative English for Hospitality
+  [----]    Tour Guiding
+  [----]    Restaurant Management
+  [----]    Innovation & Entrepreneurship
+  [----]    Global Heritage and Culture
+  [----]    E-ticketing and Global Distribution System
+  [----]    Bar and Beverage Management
+  [----]    Food & Beverage Production
+  [----]    Smart Tourism Operation
+  [----]    Sustainability in Tourism and Hospitality
+  [----]    Industrial Attachement

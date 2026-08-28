@@ -1,0 +1,57 @@
+[
+  {
+    "id": 56,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স ০১",
+    "price": 160,
+    "sell_price": 95,
+    "course": "1st Semester",
+    "dept": "DIPLOMA IN AGRICULTURE",
+    "semester": 3,
+    "type": "pass_books",
+    "course_id": 148
+  },
+  {
+    "id": 68,
+    "title": "পাস বুক - অ্যাপ্লিকেশন ডেভেলপমেন্ট পাইথন",
+    "price": 160,
+    "sell_price": 95,
+    "course": "1st Semester",
+    "dept": "DIPLOMA IN AGRICULTURE",
+    "semester": 3,
+    "type": "pass_books",
+    "course_id": 148
+  },
+  {
+    "id": 140,
+    "title": "পাস বুক - ফিজিক্স-২",
+    "price": 165,
+    "sell_price": 95,
+    "course": "1st Semester",
+    "dept": "DIPLOMA IN AGRICULTURE",
+    "semester": 3,
+    "type": "pass_books",
+    "course_id": 148
+  },
+  {
+    "id": 57,
+    "title": "পাস বুক - ম্যাথমেটিক্স ০৩",
+    "price": 160,
+    "sell_price": 29,
+    "course": "1st Semester",
+    "dept": "DIPLOMA IN AGRICULTURE",
+    "semester": 3,
+    "type": "pass_books",
+    "course_id": 148
+  },
+  {
+    "id": 64,
+    "title": "পাস বুক - আইটি সাপোর্ট সার্ভিস",
+    "price": 160,
+    "sell_price": 9,
+    "course": "1st Semester",
+    "dept": "DIPLOMA IN AGRICULTURE",
+    "semester": 3,
+    "type": "pass_books",
+    "course_id": 148
+  }
+]

@@ -1,0 +1,1320 @@
+[
+  {
+    "id": 205,
+    "title": "পাস-বুক টেলিভিশন ইঞ্জিনিয়ারিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 136,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/passbook.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105706Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e177a2919d4a5b0611310a4621db069e91b00e88ff7d0a67110e091ee99c0ed1",
+    "chapters": []
+  },
+  {
+    "id": 39,
+    "title": "পাস-বুক-অপারেটিং সিস্টেম",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "COMPUTER SCIENCE & TECHNOLOGY",
+        "value": "1"
+      }
+    ],
+    "price": 95,
+    "pages": 133,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Operating_System-CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105706Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=67623df7237ea6a6ae0a00182064b0189be35d8d61f985508fff6db6a21e7623",
+    "chapters": []
+  },
+  {
+    "id": 56,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স ০১",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "COMPUTER SCIENCE & TECHNOLOGY",
+        "value": "1"
+      },
+      {
+        "label": "ELECTRONICS TECHNOLOGY",
+        "value": "12"
+      }
+    ],
+    "price": 95,
+    "pages": 113,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Digital_Electronics-1-CH-1_.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105707Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2024df62dcf19b4c270b086e052ace094e3f3160085398b6845a8eca939689d1",
+    "chapters": []
+  },
+  {
+    "id": 183,
+    "title": "পাশ-বুক-আরএসি সাইকেল এন্ড কম্পোনেন্ট",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 86,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Refrigeration_Cycles__Components-CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105708Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ae119ea92b605215d0114604e6b9c3353671fbcc2f63d65f8af88d8ee43cd7a",
+    "chapters": []
+  },
+  {
+    "id": 59,
+    "title": "পাস বুক - কনস্ট্রাকশন প্রসেস ০১",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "CIVIL TECHNOLOGY",
+        "value": "3"
+      },
+      {
+        "label": "CIVIL (WOOD) TECHNOLOGY",
+        "value": "32"
+      },
+      {
+        "label": "CONSTRUCTION TECHNOLOGY",
+        "value": "30"
+      },
+      {
+        "label": "SURVEYING TECHNOLOGY",
+        "value": "16"
+      }
+    ],
+    "price": 95,
+    "pages": 90,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Construction_Process-1_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105708Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6717cfed8900ed17a4bc73d657662ef1f2d3c7ff0c8e7ec12da9da99525f1e6f",
+    "chapters": []
+  },
+  {
+    "id": 234,
+    "title": "ই-বুক-নেটওয়ার্ক ফিল্টার অ্যান্ড ট্রান্সমিশন লাইন",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 100,
+    "pages": 0,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/08/26/Network_Filter_and_Transmission-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105709Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=50ae87d3e6c736ccb7b6d8237e7eaf7b9c25218dffa6160ae9928d36bad53c41",
+    "chapters": []
+  },
+  {
+    "id": 212,
+    "title": "পাশবুক-কনস্ট্রাকশন ম্যানেজমেন্ট অ্যান্ড ডকুমেন্টেশন",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 72,
+    "pages": 71,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Construction_Management-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105709Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=961a6b4a162b719aaa85d0795ad55308f55dbb7419abaf27c621277aee334e99",
+    "chapters": []
+  },
+  {
+    "id": 117,
+    "title": "পাস বুক - ডাটা স্ট্রাকচার অ্যান্ড অ্যালগরিদম",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 29,
+    "pages": 110,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Data_Structure__Algorithm-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105710Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=77b7a8e6e80d7ca82f5c1899255f9574d8005ebee974c546600fc477cc9f9a0b",
+    "chapters": []
+  },
+  {
+    "id": 49,
+    "title": "পাশ - ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "ELECTRICAL TECHNOLOGY",
+        "value": "2"
+      }
+    ],
+    "price": 15,
+    "pages": 45,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Electrical_Engineering_Materials-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105710Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3ac6ecd9c62308c2c20499b5219e2fbe19727fa019efc25f4cc7a502c14fa6c6",
+    "chapters": []
+  },
+  {
+    "id": 193,
+    "title": "পাসবুক-ফ্লুইড মেকানিক্স অ্যান্ড মেশিনারিজ",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 167,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Fluid_Mechanics__Machineries-CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105710Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=54f0d0abf2c8e2f1a08f96a9e29342a7bb51ae77e5befeb2948e2fb2e7e2120c",
+    "chapters": []
+  },
+  {
+    "id": 207,
+    "title": "পাস-বুক- থিওরি অব স্ট্রাকচার",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 25,
+    "pages": 232,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Theory_of_Structure-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105711Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c9ca6f0037dfcc7d5ce037038472207b18599f05cec65832fedb20a652723583",
+    "chapters": []
+  },
+  {
+    "id": 188,
+    "title": "পাস-বুক-সিভিল ক্যাড-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 46,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Civil_CAD-2_-_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105711Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1a04c02c65b33ff6a3adfa69d5f4a17f5381b15164449101f20e9b63671c60f6",
+    "chapters": []
+  },
+  {
+    "id": 199,
+    "title": "পাস-বুক-ম্যানুফ্যাকচারিং প্রসেস",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 197,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Manufacturing_Process_-_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105712Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d4a29b0057f85daedbdafd4abb88ec91a1e5f3526dc7b554aa9d69f55523f287",
+    "chapters": []
+  },
+  {
+    "id": 192,
+    "title": "পাস-বুক-ইলেকট্রনিক অ্যাপ্লায়েন্স",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 68,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Electronic_Appliances_E-Magic_Book-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105712Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c867b346d09eb8cb4b1921510a539fd28b055c4a10b90d36c9cfa73c4026aab4",
+    "chapters": []
+  },
+  {
+    "id": 54,
+    "title": "Pass Book - সিভিল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "CIVIL TECHNOLOGY",
+        "value": "3"
+      },
+      {
+        "label": "CIVIL (WOOD) TECHNOLOGY",
+        "value": "32"
+      },
+      {
+        "label": "CONSTRUCTION TECHNOLOGY",
+        "value": "30"
+      }
+    ],
+    "price": 11,
+    "pages": 120,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/05/25/Civil_Engineering_Materials-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105713Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=02118bb0b009d32ac579372b76225a2c640f2843709ba0c83242c8b18cab96d2",
+    "chapters": []
+  },
+  {
+    "id": 107,
+    "title": "পাস বুক - এস্টিমেটিং এন্ড কস্টিং ০১",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 100,
+    "pages": 132,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Estimating__Costing-I_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105713Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=26ed7ffdf6b091b8f3cc405a56770ae1adfed3f1b88337156cde5ee669d9ea89",
+    "chapters": []
+  },
+  {
+    "id": 118,
+    "title": "পাস বুক- ফুয়েলস অ্যান্ড লুব্রিক্যান্টস",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 19,
+    "pages": 81,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Fuels__Lubricants-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105713Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f718cd43496ca9988f06ed7dc43017b26eb33fce4e996ce53f8a4c3547c2207a",
+    "chapters": []
+  },
+  {
+    "id": 208,
+    "title": "পাস-বুক-ওয়াটার সাপ্লাই ইঞ্জিনিয়ারিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 142,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Water_Supply_Engineering_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105714Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=38584a3e6ee37606dd91c4292db018bf587d0bb06e0ba47e005196afa87da96b",
+    "chapters": []
+  },
+  {
+    "id": 190,
+    "title": "পাস-বুক-ডাটা কমিউনিকেশন",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 31,
+    "pages": 144,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Data_Communication-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105714Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d93ee4df08dcc3a2ce7ca1907baf89d6a4457efabae74a1861a26e76ebaee16b",
+    "chapters": []
+  },
+  {
+    "id": 103,
+    "title": "পাস বুক - ইলেকট্রিক্যাল ইন্সটলেশন প্লানিং এবং এস্টিমেটিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 97,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Electrical_Installation_Planning_and_Estimating-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105715Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=af2387301a7c36d70c2c3bf0cdd07ff6498fa013127669e8da580c25de11e36a",
+    "chapters": []
+  },
+  {
+    "id": 191,
+    "title": "পাস-বুক-ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক মেজারমেন্ট-১",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 141,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Electrical__Electronic_Measurements-I_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105715Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f9325a236ef59b80b63488a9d02516a12b58e896aa643ba90b897eabe4b69821",
+    "chapters": []
+  },
+  {
+    "id": 200,
+    "title": "পাস-বুক-মেকানিক্যাল এস্টিমেটিং এন্ড কস্টিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 90,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Mechanical_Estimating_and_Costing-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105716Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9a7e64cda440f5be53c155d4db28cb6a73daa365d7b0474924bdfba4e8c0c226",
+    "chapters": []
+  },
+  {
+    "id": 213,
+    "title": "পাশ বুক-সাইবার সিকিউরিটি অ্যান্ড এথিক্স",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 77,
+    "pages": 89,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/05/26/Cyber_Security_and_Ethics-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105717Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bf554318f8c090a7365c6bc33865082e54ff663908a4f243f49ae089840bcf39",
+    "chapters": []
+  },
+  {
+    "id": 209,
+    "title": "পাস-বুক-ওয়েব ডিজাইন এন্ড ডেভেলপমেন্ট-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 57,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Web_Design__Development-II__Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105717Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3d86e7cfc90eb0b0d11af4c55b54ba3797d4c323cc979d78810b751cc392d595",
+    "chapters": []
+  },
+  {
+    "id": 195,
+    "title": "পাস-বুক-ফাউন্ড্রি অ্যান্ড প্যাটার্ন মেকিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 11,
+    "pages": 129,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Foundry_and_Pattern_Making-CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105717Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ff6e167b64634acfe9a40b72757b6a51203dd1a06a20bda87dae03100e9a63fa",
+    "chapters": []
+  },
+  {
+    "id": 201,
+    "title": "পাস-বুক-মাইক্রোপ্রসেসর এন্ড মাইক্রোকন্ট্রোলার",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 131,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Microprocessor__Microcontroller-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105718Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d26aec7c14dbee188b0aeb6d3cd98df600a91ba79ef2f68bb397eeddeb25c029",
+    "chapters": []
+  },
+  {
+    "id": 109,
+    "title": "পাস বুক - হাইড্রোলজি",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 137,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Hydrology-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105718Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=64fd2845d39c1a72ecfeec4ff22b1531e93078fbdeff02416445d3b57327c68d",
+    "chapters": []
+  },
+  {
+    "id": 120,
+    "title": "পাস বুক - মেশিন শপ প্রাকটিস-৩",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 14,
+    "pages": 60,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Machine_Shop_Practice_III_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105719Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bd1a8e48c879abe6d1c10ee06498bbe5e5556d205fa94b60e72295ff1e5a2f61",
+    "chapters": []
+  },
+  {
+    "id": 105,
+    "title": "পাস বুক - সিভিল ক্যাড ০১",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 50,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Civil_CAD-I_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105719Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a2445f0fe8a4e47ed20ef4f1c7fc9bf321cc99822921e2722f7cdf4f78ecbe87",
+    "chapters": []
+  },
+  {
+    "id": 202,
+    "title": "পাসবুক-প্রিন্সিপাল অব মার্কেটিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 92,
+    "pages": 120,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Principle_of_Marketing_-_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105720Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c117376611f0c4b8b7e56bbc71cfa0eaefa9f626a73e76cd7489a87ce323521d",
+    "chapters": []
+  },
+  {
+    "id": 197,
+    "title": "পাস-বুক-হাইড্রোলিক্স",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 179,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Hydraulics_-_CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105720Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7e43fd0915c4f60cbb2f0e26fe926fe991a8cdabf7ac3dbe0c3b96725bc8570c",
+    "chapters": []
+  },
+  {
+    "id": 62,
+    "title": "পাস বুক - ইঞ্জিনিয়ারিং থার্মোডায়নামিক্স",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "POWER TECHNOLOGY",
+        "value": "13"
+      }
+    ],
+    "price": 93,
+    "pages": 132,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Engineering_Thermodynamics_-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105721Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ec8c3b2b3f6fae19aa928763a0bef09f71acb875401954f2961f42f579c53d95",
+    "chapters": []
+  },
+  {
+    "id": 121,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 18,
+    "pages": 126,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Digital_Electronics-II_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105721Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b81e02ae52214812fc4591a01e61dcfe128b29f521d1fe32e76cf86f3f547637",
+    "chapters": []
+  },
+  {
+    "id": 126,
+    "title": "পাস বুক- ম্যাথমেটিক্স-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 19,
+    "pages": 139,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/07/26/Mathematics-2_Cha-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105722Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cecf299fbbe45b5a62af26d0fef3eb717028bd446ce7a3af99ddd1331ad69058",
+    "chapters": []
+  },
+  {
+    "id": 61,
+    "title": "পাস বুক - ইলেকট্রিক্যাল সার্কিট ০২",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "ELECTRICAL TECHNOLOGY",
+        "value": "2"
+      },
+      {
+        "label": "ELECTRONICS TECHNOLOGY",
+        "value": "12"
+      }
+    ],
+    "price": 19,
+    "pages": 170,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Electrical_Circuit-2-CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105722Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ef857c3f981315c28f9bce3872a0e7f0db57976b2c14be9e74b55f26cb8a069f",
+    "chapters": []
+  },
+  {
+    "id": 215,
+    "title": "পাশ-বুক-ইন্ডাস্ট্রিয়াল অটোমেশন অ্যান্ড পিএলসি",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 80,
+    "pages": 66,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/05/26/Industrial_Automation_and_Programmable_Logic_Controller-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105723Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=65ad5dffe6d6eb581a7e203d43f490c39f9a90cf7afa3cd446e5f31c7bc6193b",
+    "chapters": []
+  },
+  {
+    "id": 108,
+    "title": "পাস বুক - জিওটেকনিক্যাল ইঞ্জিনিয়ারিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 31,
+    "pages": 104,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Geotechnical_Engineering-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105723Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cf620157834af7420ff1ab7c573ad46e285f47db1ce7dff1847a7c8efe8975a7",
+    "chapters": []
+  },
+  {
+    "id": 114,
+    "title": "পাস বুক - ইঞ্জিনিয়ারিং মেকানিক্স",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 33,
+    "pages": 110,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Engineering_Mechanics-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105724Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ed3cbd71a8c68f1d66cdc6dc8634920d8c33ac2bcee82a39844c5989625c8532",
+    "chapters": []
+  },
+  {
+    "id": 235,
+    "title": "পাস-বুক-ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক মেজারমেন্টস-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 0,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/08/26/Electrical_and_Electronic_Mesurement-2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105724Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d66cdc5de69674bbd12120d2f608aa08aa3e1267a84118ac5e1028590d191e88",
+    "chapters": []
+  },
+  {
+    "id": 122,
+    "title": "পাস বুক - মেটালার্জি",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 19,
+    "pages": 68,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Metallurgy-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105725Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b729ce0b2fc1b939a6eeb8d0ebd3a752b2061b90a240b7b3cef994636c5ea829",
+    "chapters": []
+  },
+  {
+    "id": 115,
+    "title": "পাস বুক - কম্পিউটার পেরিফেরালস এন্ড ইন্টারফেসিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 119,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Computer_Peripherals__Interfacing-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105725Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cac8bef0c7f6cc002db75a44b50bb6e847ca5fb6d51a7fb70e821ff63a6b2f96",
+    "chapters": []
+  },
+  {
+    "id": 124,
+    "title": "পাস বুক - জাভা প্রোগ্রামিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 92,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Java_Programming-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105726Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1348b93c15cba96b14a9defc087642b9b2e8abe6ba7354e372e3d0dcd9df5bae",
+    "chapters": []
+  },
+  {
+    "id": 129,
+    "title": "পাস বুক- বাংলা-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 19,
+    "pages": 122,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Bangla-2.cha-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105726Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6f930fdd83708dc94051f3fe5c90878ca1afbb4364203cfde7ddf4ecfe800f1a",
+    "chapters": []
+  },
+  {
+    "id": 203,
+    "title": "পাস-বুক-প্রোগ্রামিং ইন সি",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 226,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Programming_in_C-CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105727Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d9b2ba25a79b01043cec5dc4a2b16fd1c5b39cfd4264684cce53b8d74b32608d",
+    "chapters": []
+  },
+  {
+    "id": 226,
+    "title": "পাশ বুক-এস্টিমেট অ্যান্ড কস্টিং-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 88,
+    "pages": 158,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Estimate__Coasting-2_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105727Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cfa15d6b1776e7462fa71fe9806063a8d6dfcfa743eb26a4369d950222245c68",
+    "chapters": []
+  },
+  {
+    "id": 63,
+    "title": "পাস বুক - ইন্ডাস্ট্রিয়াল ইলেকট্রনিক্স",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "ELECTRICAL TECHNOLOGY",
+        "value": "2"
+      }
+    ],
+    "price": 95,
+    "pages": 156,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Indrustrial_Electronics-Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105727Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a32f365bf1af72d993fc29a2c8070aef974ada7ef9fca199c1c82207490f025d",
+    "chapters": []
+  },
+  {
+    "id": 130,
+    "title": "পাশ বুক - ইংলিশ-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 160,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/English_2_-_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105728Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=015d3f05bd711d636b4f1783486919f23c7ba1d6a4930897823902ff918e8be3",
+    "chapters": []
+  },
+  {
+    "id": 110,
+    "title": "পাস বুক - সার্ভেয়িং ০২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 19,
+    "pages": 120,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Surveying-II_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105728Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1c43c6ceee7079c8108a5a9990fbf67586032842d44bace3d1bf0f42413e17ed",
+    "chapters": []
+  },
+  {
+    "id": 131,
+    "title": "পাস বুক - পাইথন প্রোগ্রামিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 127,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Python_Programming_CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105729Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7273686972b806bdae8fb76e13158126c6a20dd0bee85d0eccfd0eecf817836c",
+    "chapters": []
+  },
+  {
+    "id": 227,
+    "title": "পাশ বুক- কন্ট্রোল সিস্টেম অ্যান্ড রোবোটিক্স",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 80,
+    "pages": 67,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Control_system_and_Robotics-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105729Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5b644cadb421f466093993f7495894ff0d1fbc38e83852ef1842cd3999d4b65c",
+    "chapters": []
+  },
+  {
+    "id": 217,
+    "title": "পাশবুক-মেকাট্রনিক্স অ্যান্ড পিএলসি",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 79,
+    "pages": 115,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Mechatronics__PLC-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105730Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bb632af15d59d4037c3553df3eb23e5f945a146b5032a4dccd25b1e37d9c824e",
+    "chapters": []
+  },
+  {
+    "id": 136,
+    "title": "পাস বুক - ইলেকট্রনিক ডিভাইসেস অ্যান্ড সাকির্টস্",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 139,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Electronics_Device_and_Circuits-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105730Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ed67594027747ee781da38566b0649dad014304844a8879281172081a47bf745",
+    "chapters": []
+  },
+  {
+    "id": 138,
+    "title": "পাস বুক- সিভিল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 42,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Civil_Engineering_Drawing.cha-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105730Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=402f97178f94528731a788458996e2610acc73ab0407499d20bd39a43a09822b",
+    "chapters": []
+  },
+  {
+    "id": 50,
+    "title": "পাস-বুক-মেশিন শপ প্রাকটিস ১",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "MECHANICAL TECHNOLOGY",
+        "value": "4"
+      }
+    ],
+    "price": 95,
+    "pages": 68,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Machine_Shop_Practice-1_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105731Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2d862a835af2f426b6147189f3c5b436cfbb2697274d9850c7ad5e8a31c5896a",
+    "chapters": []
+  },
+  {
+    "id": 140,
+    "title": "পাস বুক - ফিজিক্স-২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 129,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/07/26/Physics-2_-Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105731Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=20d75c550a8a938c73bcd2e3545bf99a4d68bd3d30c935e466e4272b6a3ebe0d",
+    "chapters": []
+  },
+  {
+    "id": 113,
+    "title": "পাস বুক - বিজনেস কমিউনিকেশন",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 119,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Business_Communication-1_.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105732Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b1f3b0524287879e14a57977abbe2936984ee353b36d9230c26156449155f74f",
+    "chapters": []
+  },
+  {
+    "id": 218,
+    "title": "পাশ বুক-মাল্টিমিডিয়া অ্যান্ড অ্যানিমেশন",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 90,
+    "pages": 85,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Multimedia__Animation-1_.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105732Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=755915b6f31fc0a9890961ebbddb56ac1f93747402f00435363554b0a9b0a95d",
+    "chapters": []
+  },
+  {
+    "id": 132,
+    "title": "পাস বুক - মেকানিক্যাল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 50,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Mechanical_Engineering_Drawing-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105733Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4a2b2c3af8b1d9557a7ed8000c52b7c90d300ed3b867ca10aaf24f59b84dc038",
+    "chapters": []
+  },
+  {
+    "id": 184,
+    "title": "পাস-বুক-পাওয়ার ইকুইপমেন্ট ম্যানেজমেন্ট এন্ড সেফটি",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 60,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Power_Equipment_Management_Safety-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105733Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=35cca902e2e95f3c5f376625742cc88f407346b98f9f646e57a346c104ef07c0",
+    "chapters": []
+  },
+  {
+    "id": 152,
+    "title": "পাশ বুক - উড ওয়ার্কশপ প্র্যাকটিস",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 89,
+    "pages": 52,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/01/26/Wood_Workshop_Practice-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105733Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a542287a447b9c8094940a2e757cef952c519f13981427997224989f1041073b",
+    "chapters": []
+  },
+  {
+    "id": 139,
+    "title": "পাস বুক - ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং ড্রয়িং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 39,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Electrical_Engineering_drawing_CH-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105734Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=37b09a2ab51fa8ae0be7ff07052303cb48fb90f16cbc0cf36b441a89d33522b9",
+    "chapters": []
+  },
+  {
+    "id": 141,
+    "title": "পাশ বুক - বাংলা-১",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 93,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Bangla-1_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105734Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=603e1ffdf46def4527aef95fbec482f07c218ed38868ec0ea637f16ab7f8dd58",
+    "chapters": []
+  },
+  {
+    "id": 111,
+    "title": "পাস বুক - অ্যাকাউন্টিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 29,
+    "pages": 115,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Accounting-Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105735Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=43b3770be2bab661668d1d2ebe7f555e39ffdc9393a8592d640f0f2aa0d2c027",
+    "chapters": []
+  },
+  {
+    "id": 211,
+    "title": "পাশ-বুক-অ্যাপস ডেভেলপমেন্ট প্রজেক্ট",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 60,
+    "pages": 83,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Apps_Development_Project_-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105735Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=55ca261a555defbd28f43e11da060a57e00120dbd138cd0fa1e871b7ee64aa20",
+    "chapters": []
+  },
+  {
+    "id": 220,
+    "title": "পাশবুক-স্যানিটারি ইঞ্জিনিয়ারিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 80,
+    "pages": 63,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Sanitary_Engineering-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105736Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3d5fbb731f074bca630eb2229863d62001e1116072c191a08c577141ceeb6dfd",
+    "chapters": []
+  },
+  {
+    "id": 66,
+    "title": "পাস বুক - স্ট্রাকচারাল মেকানিক্স",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "CIVIL TECHNOLOGY",
+        "value": "3"
+      },
+      {
+        "label": "CIVIL (WOOD) TECHNOLOGY",
+        "value": "32"
+      }
+    ],
+    "price": 9,
+    "pages": 132,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Structural_Mechanics_E-Book-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105736Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1979fb1b61ecee22f7c9aea49d8056b68adced65fdb87188ee2490f754a27e00",
+    "chapters": []
+  },
+  {
+    "id": 64,
+    "title": "পাস বুক - আইটি সাপোর্ট সার্ভিস",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "COMPUTER SCIENCE & TECHNOLOGY",
+        "value": "1"
+      }
+    ],
+    "price": 9,
+    "pages": 99,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/It_Support_Services_-_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105736Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fa99d2b3f6b135ab4c997e4f6282bcdb2ea92e1682701b9526a6af861d6eecc2",
+    "chapters": []
+  },
+  {
+    "id": 230,
+    "title": "পাশবুক-প্রোডাকশন প্ল্যানিং অ্যান্ড কন্ট্রোল",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 68,
+    "pages": 102,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Production_Planning__Control_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105737Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bd638119fa93f25821a50bf26efb25f5e9fd93200a79891d0491d82ea8dcd607",
+    "chapters": []
+  },
+  {
+    "id": 145,
+    "title": "পাশ বুক - কমিউনিকেশন ইঞ্জিনিয়ারিং",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 9,
+    "pages": 72,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Communication_Engineering-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105737Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=976e9b872e4629674bd5bffa955aa101c8dbd42bdf03b1278203e3b993c08417",
+    "chapters": []
+  },
+  {
+    "id": 143,
+    "title": "পাশ বুক - পাওয়ার ইঞ্জিনিয়ারিং ফান্ডামেন্টাল",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 10,
+    "pages": 57,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Power_Engineering_Fundaments-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105738Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a599ae409a61172fde44f65ca50403659b85fe6fcd7fc7682a5de98d7b70279e",
+    "chapters": []
+  },
+  {
+    "id": 101,
+    "title": "পাস বুক - ডিসি মেশিন",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 29,
+    "pages": 94,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/11/25/DC_Machine-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105738Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3c9f3509f611b3c079758ad8e43a25e5ffc43afbc19264dbc6bb016cf6147b55",
+    "chapters": []
+  },
+  {
+    "id": 221,
+    "title": "পাশবুক - সুইচগিয়ার অ্যান্ড প্রোটেকশন",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 70,
+    "pages": 113,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Switchgear_and_Protection-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105739Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=09a454581d768692b959a14c9ee245ad083b6b26a5f0e8d998e922cb7a7ec2f4",
+    "chapters": []
+  },
+  {
+    "id": 231,
+    "title": "পাশবুক-টুল ডিজাইন",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 65,
+    "pages": 121,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Tool_Design-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105739Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a61cfa685b2feb49e3927b2cdf0ad3500edd138e7130745004327886fa6da228",
+    "chapters": []
+  },
+  {
+    "id": 144,
+    "title": "পাশ বুক - মেকানিক্যাল ইঞ্জিনিয়ারিং ম্যাটেরিয়ালস্",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 68,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Mechanical_Engineering_Materials_-_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105739Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a96a89e21b2ba97c68d2cdfa9a5fbfeee3fc72c09d00faf31678207fee415e7a",
+    "chapters": []
+  },
+  {
+    "id": 102,
+    "title": "পাস বুক - ডিজিটাল ইলেকট্রনিক্স",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 19,
+    "pages": 93,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/12/25/Digital_Electronics-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105740Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ba9a6f8ad6ea3cd60e0fc59063df2e3fc33542902e6a98236e088b801e295b58",
+    "chapters": []
+  },
+  {
+    "id": 67,
+    "title": "পাস বুক - সার্ভেয়িং ০১",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "CIVIL TECHNOLOGY",
+        "value": "3"
+      },
+      {
+        "label": "CIVIL (WOOD) TECHNOLOGY",
+        "value": "32"
+      },
+      {
+        "label": "SURVEYING TECHNOLOGY",
+        "value": "16"
+      }
+    ],
+    "price": 9,
+    "pages": 124,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Surveying-1_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105740Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0918baecdf697cb0ef3d09ac4c1e01dab115df96c95b642dd5f69ad4019cbcd",
+    "chapters": []
+  },
+  {
+    "id": 222,
+    "title": "পাশ-বুক-ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন অব ইলেকট্রিক্যাল পাওয়ার-০২",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 85,
+    "pages": 89,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/06/26/Transmission_and_Distribution_of_Electrical_Power-2_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105741Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0e5899cfe3019b84142a423cf94045c58d18b5b92ee978927badbdcb920fa754",
+    "chapters": []
+  },
+  {
+    "id": 51,
+    "title": "Pass Book - বেসিক ইলেকট্রিসিটি",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "ARCHITECTURE TECHNOLOGY",
+        "value": "36"
+      },
+      {
+        "label": "CIVIL TECHNOLOGY",
+        "value": "3"
+      },
+      {
+        "label": "CIVIL (WOOD) TECHNOLOGY",
+        "value": "32"
+      },
+      {
+        "label": "COMPUTER SCIENCE & TECHNOLOGY",
+        "value": "1"
+      },
+      {
+        "label": "COMPUTER TECHNOLOGY",
+        "value": "31"
+      },
+      {
+        "label": "ELECTRICAL TECHNOLOGY",
+        "value": "2"
+      },
+      {
+        "label": "ELECTRO MEDICAL TECHNOLOGY",
+        "value": "28"
+      },
+      {
+        "label": "ELECTRONICS TECHNOLOGY",
+        "value": "12"
+      }
+    ],
+    "price": 88,
+    "pages": 113,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Basic_Electricity-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105741Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bd9acf6f8754bf6c8195752e764756c2d29530e4b0aaedeabba4b1c06340d1fb",
+    "chapters": []
+  },
+  {
+    "id": 68,
+    "title": "পাস বুক - অ্যাপ্লিকেশন ডেভেলপমেন্ট পাইথন",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "COMPUTER SCIENCE & TECHNOLOGY",
+        "value": "1"
+      }
+    ],
+    "price": 95,
+    "pages": 80,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Basic_Application_Development_Using_Python-_1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105742Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5ba1f57a991f84cc1bcf74969047334ddf009ea870d812952d6815ccdbf8a48b",
+    "chapters": []
+  },
+  {
+    "id": 137,
+    "title": "পাস বুক - ইলেকট্রিক্যাল সার্কিট-১",
+    "category": "Polytechnic",
+    "departments": [],
+    "price": 95,
+    "pages": 183,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/04/26/Electrical_Circuit-1_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105742Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e8c96fbf1b8219759aede65732f8d7ed5020a7dadc4e107539e1a7b5a67c97e6",
+    "chapters": []
+  },
+  {
+    "id": 57,
+    "title": "পাস বুক - ম্যাথমেটিক্স ০৩",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "AIDT",
+        "value": "56"
+      },
+      {
+        "label": "AIRCRAFT MAINTENANCE TECHNOLOGY",
+        "value": "40"
+      },
+      {
+        "label": "ARCHITECTURE TECHNOLOGY",
+        "value": "36"
+      },
+      {
+        "label": "AUTOMOBILE TECHNOLOGY",
+        "value": "35"
+      },
+      {
+        "label": "CERAMIC TECHNOLOGY",
+        "value": "34"
+      },
+      {
+        "label": "CHEMICAL TECHNOLOGY",
+        "value": "33"
+      },
+      {
+        "label": "CIVIL TECHNOLOGY",
+        "value": "3"
+      },
+      {
+        "label": "CIVIL (WOOD) TECHNOLOGY",
+        "value": "32"
+      },
+      {
+        "label": "COMPUTER SCIENCE & TECHNOLOGY",
+        "value": "1"
+      },
+      {
+        "label": "COMPUTER TECHNOLOGY",
+        "value": "31"
+      },
+      {
+        "label": "CONSTRUCTION TECHNOLOGY",
+        "value": "30"
+      },
+      {
+        "label": "DATA TELECOMMUNICATION & NETWORKING TECHNOLOGY",
+        "value": "29"
+      },
+      {
+        "label": "DIPLOMA IN AGRICULTURE",
+        "value": "41"
+      },
+      {
+        "label": "DIPLOMA IN FORESTRY",
+        "value": "59"
+      },
+      {
+        "label": "DIPLOMA IN  TEXTILE",
+        "value": "38"
+      },
+      {
+        "label": "ELECTRICAL TECHNOLOGY",
+        "value": "2"
+      },
+      {
+        "label": "ELECTRO MEDICAL TECHNOLOGY",
+        "value": "28"
+      },
+      {
+        "label": "ELECTRONICS TECHNOLOGY",
+        "value": "12"
+      },
+      {
+        "label": "ENVIRONMENTAL TECHNOLOGY",
+        "value": "27"
+      },
+      {
+        "label": "FOOD TECHNOLOGY",
+        "value": "26"
+      },
+      {
+        "label": "FOOTWEAR TECHNOLOGY",
+        "value": "39"
+      },
+      {
+        "label": "GLASS TECHNOLOGY",
+        "value": "25"
+      },
+      {
+        "label": "GRAPHICS TECHNOLOGY",
+        "value": "24"
+      },
+      {
+        "label": "INSTRUMENTATION & PROCESS CONTROL TECHNOLOGY",
+        "value": "23"
+      },
+      {
+        "label": "MARINE TECHNOLOGY",
+        "value": "21"
+      },
+      {
+        "label": "MECHANICAL TECHNOLOGY",
+        "value": "4"
+      },
+      {
+        "label": "MECHATRONICS TECHNOLOGY",
+        "value": "22"
+      },
+      {
+        "label": "MINING & MINE SURVEY TECHNOLOGY",
+        "value": "20"
+      },
+      {
+        "label": "POWER TECHNOLOGY",
+        "value": "13"
+      },
+      {
+        "label": "PRINTING TECHNOLOGY",
+        "value": "19"
+      },
+      {
+        "label": "REFRIGERATION & AIR-CONDITIONING   TECHNOLOGY",
+        "value": "18"
+      },
+      {
+        "label": "SHIPBUILDING TECHNOLOGY",
+        "value": "17"
+      },
+      {
+        "label": "SURVEYING TECHNOLOGY",
+        "value": "16"
+      },
+      {
+        "label": "TELECOMMUNICATION TECHNOLOGY",
+        "value": "15"
+      }
+    ],
+    "price": 29,
+    "pages": 170,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/07/26/Mathematics-3_Ch-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105743Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9027979eb401f5e4523ce9cade5df54ef136049a56463380247f23c3ab5b614b",
+    "chapters": []
+  },
+  {
+    "id": 52,
+    "title": "Pass Book - ম্যাথমেটিক্স ০১",
+    "category": "Polytechnic",
+    "departments": [
+      {
+        "label": "AIDT",
+        "value": "56"
+      },
+      {
+        "label": "AIRCRAFT MAINTENANCE TECHNOLOGY",
+        "value": "40"
+      },
+      {
+        "label": "ARCHITECTURE TECHNOLOGY",
+        "value": "36"
+      },
+      {
+        "label": "AUTOMOBILE TECHNOLOGY",
+        "value": "35"
+      },
+      {
+        "label": "CERAMIC TECHNOLOGY",
+        "value": "34"
+      },
+      {
+        "label": "CHEMICAL TECHNOLOGY",
+        "value": "33"
+      },
+      {
+        "label": "CIVIL TECHNOLOGY",
+        "value": "3"
+      },
+      {
+        "label": "CIVIL (WOOD) TECHNOLOGY",
+        "value": "32"
+      },
+      {
+        "label": "COMPUTER SCIENCE & TECHNOLOGY",
+        "value": "1"
+      },
+      {
+        "label": "COMPUTER TECHNOLOGY",
+        "value": "31"
+      },
+      {
+        "label": "CONSTRUCTION TECHNOLOGY",
+        "value": "30"
+      },
+      {
+        "label": "DATA TELECOMMUNICATION & NETWORKING TECHNOLOGY",
+        "value": "29"
+      },
+      {
+        "label": "DIPLOMA IN AGRICULTURE",
+        "value": "41"
+      },
+      {
+        "label": "DIPLOMA IN FORESTRY",
+        "value": "59"
+      },
+      {
+        "label": "DIPLOMA IN  TEXTILE",
+        "value": "38"
+      },
+      {
+        "label": "ELECTRICAL TECHNOLOGY",
+        "value": "2"
+      },
+      {
+        "label": "ELECTRO MEDICAL TECHNOLOGY",
+        "value": "28"
+      },
+      {
+        "label": "ELECTRONICS TECHNOLOGY",
+        "value": "12"
+      },
+      {
+        "label": "ENVIRONMENTAL TECHNOLOGY",
+        "value": "27"
+      },
+      {
+        "label": "FOOD TECHNOLOGY",
+        "value": "26"
+      },
+      {
+        "label": "FOOTWEAR TECHNOLOGY",
+        "value": "39"
+      },
+      {
+        "label": "GLASS TECHNOLOGY",
+        "value": "25"
+      },
+      {
+        "label": "GRAPHICS TECHNOLOGY",
+        "value": "24"
+      },
+      {
+        "label": "INSTRUMENTATION & PROCESS CONTROL TECHNOLOGY",
+        "value": "23"
+      },
+      {
+        "label": "MARINE TECHNOLOGY",
+        "value": "21"
+      },
+      {
+        "label": "MECHANICAL TECHNOLOGY",
+        "value": "4"
+      },
+      {
+        "label": "MECHATRONICS TECHNOLOGY",
+        "value": "22"
+      },
+      {
+        "label": "MINING & MINE SURVEY TECHNOLOGY",
+        "value": "20"
+      },
+      {
+        "label": "Polytechnic Admission 2025",
+        "value": "65"
+      },
+      {
+        "label": "POWER TECHNOLOGY",
+        "value": "13"
+      },
+      {
+        "label": "PRINTING TECHNOLOGY",
+        "value": "19"
+      },
+      {
+        "label": "REFRIGERATION & AIR-CONDITIONING   TECHNOLOGY",
+        "value": "18"
+      },
+      {
+        "label": "SHIPBUILDING TECHNOLOGY",
+        "value": "17"
+      },
+      {
+        "label": "SURVEYING TECHNOLOGY",
+        "value": "16"
+      },
+      {
+        "label": "TELECOMMUNICATION TECHNOLOGY",
+        "value": "15"
+      }
+    ],
+    "price": 21,
+    "pages": 155,
+    "num_chapters": 0,
+    "preview_url": "https://sos-backet.s3.ap-southeast-1.amazonaws.com/sos-prod/resources/preview/07/26/Math_1.0_cha-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATKEUMZVYWZ6F3J3O%2F20260826%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260826T105743Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7890845f7b7b7eb3e6cb302568af229ea4329b51fcbf10429d980e473f68ad41",
+    "chapters": []
+  }
+]
